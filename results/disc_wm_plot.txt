@@ -1,0 +1,9 @@
+SNP	phenotype	phenotype_long	Groups	ES	Pval	N
+r1	alpha-tocopherol	LDL-Cholesterol	EA	0.314749197	1.38466E-06	1832
+r2	Retinol	Ferritin	EA	0.127435485	3.38221E-05	4081
+r3	Retinol	Total Calcium	EA	0.208521044	0.001270292	4068
+r4	Thallium	Creatinine	EA	0.681538082	0.001610786	1291
+r5	alpha-tocopherol	LDL-Cholesterol	MA	0.574260073	0.003413323	978
+r6	Retinol	Ferritin	MA	0.189038155	0.048293166	2194
+r7	Retinol	Total Calcium	MA	0.239474607	0.009880369	2184
+r8	Thallium	Creatinine	MA	0.854582897	6.8427E-07	754

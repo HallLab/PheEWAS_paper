@@ -1,0 +1,34 @@
+SNP	phenotype	phenotype_long	ES	Pval	N
+r6	Cotinine	Hemoglobin	0.001495593	1.54269E-08	9307
+r8	Cotinine	Lymphocytes	0.000435238	2.67979E-08	9259
+r5	Cotinine	Hematocrit	0.004055408	4.55895E-08	9307
+r2	Cotinine	Blood urea nitrogen	-0.000432864	5.9899E-08	9271
+r7	Cotinine	Homocysteine	0.000327429	8.10706E-08	8819
+r10	Cotinine	Segmented neutrophils	0.000536713	7.24411E-07	9259
+r9	Cotinine	Mean cell volume	0.005580188	4.66511E-06	9307
+r4	Cotinine	Eosinophils	7.94213E-05	0.000501519	9259
+r1	Cotinine	Alkaline phosphotase	0.000206069	0.000956828	9271
+r11	Cotinine	Total bilirubin	-0.000288471	0.002620961	9266
+r3	Cotinine	CRP	0.000848041	0.005637125	9318
+r15	Current Cigarette Smoker	Segmented neutrophils	0.090951212	0.000284665	5819
+r13	Current Cigarette Smoker	Hemoglobin	0.332281927	0.000299935	5847
+r12	Current Cigarette Smoker	Hematocrit	0.953984318	0.000328572	5847
+r14	Current Cigarette Smoker	Lymphocytes	0.079755779	0.018817114	5819
+r21	Do you now smoke cigarettes	Segmented neutrophils		5.85361E-07	5819
+r19	Do you now smoke cigarettes	Lymphocytes		1.47587E-05	5819
+r20	Do you now smoke cigarettes	Mean cell volume		2.94319E-05	5847
+r18	Do you now smoke cigarettes	Hemoglobin		3.29487E-05	5847
+r17	Do you now smoke cigarettes	Hematocrit		0.000122193	5847
+r16	Do you now smoke cigarettes	Blood urea nitrogen		0.00194649	5773
+r29	Does anyone smoke in home	Segmented neutrophils	0.13141533	8.39799E-07	9354
+r22	Does anyone smoke in home	Blood urea nitrogen	-0.111186865	1.24694E-06	9275
+r25	Does anyone smoke in home	Lymphocyte	0.109693078	1.04562E-05	9354
+r30	Does anyone smoke in home	Total bilirubin	-0.092693179	3.79571E-05	9270
+r24	Does anyone smoke in home	Hematocrit	1.046866649	0.000150587	9402
+r23	Does anyone smoke in home	GGT	0.140143199	0.000837921	9273
+r27	Does anyone smoke in home	Mean cell volume	1.384936996	0.00968231	9402
+r26	Does anyone smoke in home	Hemoglobin	0.477538007	0.03364932	9402
+r28	Does anyone smoke in home	Monocytes	0.02300635	0.041046283	9354
+r32	Smoked at least 100 cigarettes in life	Mean cell volume	1.419942511	7.62278E-09	8433
+r33	Smoked at least 100 cigarettes in life	Segmented neutrophils	0.093531418	8.34107E-06	8385
+r31	Smoked at least 100 cigarettes in life	Lymphocytes	0.084826003	0.000363829	8385

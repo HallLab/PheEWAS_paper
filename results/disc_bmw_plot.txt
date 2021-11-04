@@ -1,0 +1,16 @@
+SNP	phenotype	phenotype_long	Groups	ES	Pval	N
+r1	Retinol	Blood urea nitrogen	AA	0.00758256	2.14517E-05	1592
+r2	gamma-tocopherol	Triglycerides	AA	0.001269133	0.000215616	1553
+r3	alpha-tocopherol	Triglycerides	AA	0.00043747	0.000586651	1587
+r4	Retinol	Triglycerides	AA	0.008038419	0.000753619	1591
+r5	Retinol	Uric acid	AA	0.015500537	0.023394517	1592
+r6	Retinol	Blood urea nitrogen	MA	0.004219054	0.000115934	2184
+r7	gamma-tocopherol	Triglycerides	MA	0.0017726	1.56888E-06	1887
+r8	alpha-tocopherol	Triglycerides	MA	0.00062834	0.000106257	2188
+r9	Retinol	Triglycerides	MA	0.012323889	2.84245E-07	2186
+r10	Retinol	Uric acid	MA	0.024689405	0.00024802	2184
+r11	Retinol	Blood urea nitrogen	EA	0.004916063	5.95042E-06	4068
+r12	gamma-tocopherol	Triglycerides	EA	0.001494465	3.0672E-10	3900
+r13	alpha-tocopherol	Triglycerides	EA	0.000368045	8.32713E-13	4039
+r14	Retinol	Triglycerides	EA	0.010386647	1.32165E-09	4068
+r15	Retinol	Uric acid	EA	0.017054693	2.99178E-08	4068
