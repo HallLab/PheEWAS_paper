@@ -1,0 +1,1931 @@
+ID	Variable	pvalue	Group
+1	alpha-tocopherol (Vitamin E) - Triglycerides	4.2E-16	nutrients
+2	gamma-tocopherol (Vitamin E) - Triglycerides	8.54E-16	nutrients
+3	FOLIC_ACID_mcg	1.81E-15	supplement use
+4	Retinol (Vitamin A) - Triglycerides	4.85E-15	nutrients
+5	FOLIC_ACID_mcg	5.91E-15	supplement use
+6	Retinol (Vitamin A) - Uric acid	1.11E-13	nutrients
+7	FOLIC_ACID_mcg	2.76E-13	supplement use
+8	Vitamin A (ug/dL)	2.89E-13	nutrients
+9	trans-Lycopene (ug/dL)	3.15E-13	nutrients
+10	Retinol (Vitamin A) - Blood urea nitrogen	5.47E-13	nutrients
+11	FOLIC_ACID_mcg	6.71E-13	supplement use
+12	Vitamin A (ug/dL)	1.37E-12	nutrients
+13	THIAMIN_mg	2.07E-12	supplement use
+14	Smoked at least 100 cigarettes in life	3.97E-12	smoking behavior
+15	Retinyl Stearate (ug/dL)	4.88E-12	nutrients
+16	Vitamin A (ug/dL)	7E-12	nutrients
+17	RIBOFLAVIN_mg	7.36E-12	supplement use
+18	Cadmium (ug/L)	7.81E-12	heavy metals
+19	Cotinine (ng/mL)	8.04E-12	cotinine
+20	Vitamin A (ug/dL)	8.44E-12	nutrients
+21	VITAMIN_B_6_mg	8.51E-12	supplement use
+22	Avg # cigarettes/day during past 30 days	9.3E-12	smoking behavior
+23	FOLIC_ACID_mcg	1.03E-11	supplement use
+24	"Folate, RBC (ng/mL RBC)"	1.32E-11	nutrients
+25	Cotinine (ng/mL)	1.4E-11	cotinine
+26	taking_birth_control	2.19E-11	pharmaceutical
+27	Cotinine (ng/mL)	2.38E-11	cotinine
+28	Cadmium (ug/L)	2.93E-11	heavy metals
+29	Cotinine (ng/mL)	3.12E-11	cotinine
+30	Cotinine (ng/mL)	4.22E-11	cotinine
+31	# cigarettes smoked per day now	6.15E-11	smoking behavior
+32	# cigarettes smoked per day now	6.55E-11	smoking behavior
+33	Avg # cigarettes/day during past 30 days	6.78E-11	smoking behavior
+34	Alcohol (gm)	6.98E-11	food component recall
+35	Vitamin A (ug/dL)	8.42E-11	nutrients
+36	Vitamin A (ug/dL)	9.77E-11	nutrients
+37	taking_birth_control	1.37E-10	pharmaceutical
+38	"Thallium, urine (ng/mL)"	1.55E-10	heavy metals
+39	Vitamin A (ug/dL)	1.55E-10	nutrients
+40	Smoked at least 100 cigarettes in life	1.87E-10	smoking behavior
+41	FTC Carbon Monoxide Content	1.88E-10	smoking behavior
+42	Lutein and zeaxanthin (ug/dL)	1.9E-10	nutrients
+43	Avg # cigarettes/day during past 30 days	1.92E-10	smoking behavior
+44	"Thallium, urine (ng/mL)"	2.02E-10	heavy metals
+45	# cigarettes smoked per day now	2.18E-10	smoking behavior
+46	# cigarettes smoked per day now	2.51E-10	smoking behavior
+47	"Folate, RBC (ng/mL RBC)"	2.67E-10	nutrients
+48	Do you now smoke cigarettes...	3.05E-10	smoking behavior
+49	FTC Nicotine Content	3.06E-10	smoking behavior
+50	Avg # cigarettes/day during past 30 days	3.35E-10	smoking behavior
+51	Cotinine (ng/mL)	3.77E-10	cotinine
+52	# days smoked cigs during past 30 days	3.96E-10	smoking behavior
+53	Protein (gm)	4.23E-10	food component recall
+54	Does anyone smoke in home?	4.38E-10	smoking family
+55	Cotinine (ng/mL)	6.38E-10	cotinine
+56	FTC Tar Content	6.48E-10	smoking behavior
+57	Does anyone smoke in home?	6.5E-10	smoking family
+58	Cadmium (ug/L)	9.74E-10	heavy metals
+59	Lutein and zeaxanthin (ug/dL)	1.12E-09	nutrients
+60	Folic acid (mcg)	1.3E-09	food component recall
+61	Avg # cigarettes/day during past 30 days	1.49E-09	smoking behavior
+62	Vitamin E (ug/dL)	1.5E-09	nutrients
+63	Vitamin E (ug/dL)	1.61E-09	nutrients
+64	total supplement count	2.25E-09	supplement use
+65	Cotinine (ng/mL)	2.43E-09	cotinine
+66	# days smoked cigs during past 30 days	2.77E-09	smoking behavior
+67	"Folate, RBC (ng/mL RBC)"	3.07E-09	nutrients
+68	Cadmium (ug/L)	3.58E-09	heavy metals
+69	"Folate, DFE (mcg)"	3.7E-09	food component recall
+70	Avg # cigarettes/day during past 30 days	4.29E-09	smoking behavior
+71	Smoked at least 100 cigarettes in life	4.35E-09	smoking behavior
+72	"Folate, RBC (ng/mL RBC)"	4.47E-09	nutrients
+73	Vitamin E (ug/dL)	5.14E-09	nutrients
+74	Does anyone smoke in home?	5.45E-09	smoking family
+75	Retinyl Palmitate (ug/dL)	6.27E-09	nutrients
+76	trans-Beta carotene (ug/dL)	6.43E-09	nutrients
+77	cis-Beta carotene (ug/dL)	7.1E-09	nutrients
+78	Cholesterol (mg)	7.45E-09	food component recall
+79	Do you now smoke cigarettes...	7.69E-09	smoking behavior
+80	Cadmium (ug/L)	8.41E-09	heavy metals
+81	Selenium (mcg)	9.43E-09	food component recall
+82	Mono-isobutyl pthalate	1.12E-08	phthalates
+83	# days smoked cigs during past 30 days	1.26E-08	smoking behavior
+84	g-Tocopherol (ug/dL)	1.28E-08	nutrients
+85	Alpha-carotene (ug/dL)	0.000000013	nutrients
+86	Do you now smoke cigarettes...	1.53E-08	smoking behavior
+87	FOLIC_ACID_mcg	0.000000017	supplement use
+88	Do you now smoke cigarettes...	1.72E-08	smoking behavior
+89	g-Tocopherol (ug/dL)	1.87E-08	nutrients
+90	Does anyone smoke in home?	1.98E-08	smoking family
+91	"Folate, RBC (ng/mL RBC)"	2.06E-08	nutrients
+92	Vitamin E (ug/dL)	2.08E-08	nutrients
+93	Cadmium (ug/L)	2.24E-08	heavy metals
+94	taking_birth_control	2.38E-08	pharmaceutical
+95	Vitamin A (ug/dL)	2.51E-08	nutrients
+96	b-Cryptoxanthin (ug/dL)	2.92E-08	nutrients
+97	MFA 16:1 (Hexadecenoic) (gm)	2.96E-08	food component recall
+98	days drink in year	3.04E-08	alcohol use
+99	Iron (mg)	0.000000032	food component recall
+100	Riboflavin (Vitamin B2) (mg)	3.84E-08	food component recall
+101	Do you now smoke cigarettes...	4.27E-08	smoking behavior
+102	# cigarettes smoked per day now	4.53E-08	smoking behavior
+103	g-Tocopherol (ug/dL)	4.58E-08	nutrients
+104	Does anyone smoke in home?	4.63E-08	smoking family
+105	Thiamin (Vitamin B1) (mg)	4.69E-08	food component recall
+106	Lutein and zeaxanthin (ug/dL)	0.000000047	nutrients
+107	Cadmium (ug/L)	4.71E-08	heavy metals
+108	PFA 20:4 (Eicosatetraenoic) (gm)	4.87E-08	food component recall
+109	# days smoked cigs during past 30 days	0.000000051	smoking behavior
+110	b-Cryptoxanthin (ug/dL)	5.16E-08	nutrients
+111	Cotinine (ng/mL)	5.85E-08	cotinine
+112	Do you now smoke cigarettes...	6.37E-08	smoking behavior
+113	trans-Beta carotene (ug/dL)	6.44E-08	nutrients
+114	Cadmium (ug/L)	6.52E-08	heavy metals
+115	Vitamin A (ug/dL)	6.64E-08	nutrients
+116	Lead (ug/dL)	6.82E-08	heavy metals
+117	# days smoked cigs during past 30 days	7.56E-08	smoking behavior
+118	b-Cryptoxanthin (ug/dL)	7.57E-08	nutrients
+119	Avg # cigarettes/day during past 30 days	7.82E-08	smoking behavior
+120	Does anyone smoke in home?	7.85E-08	smoking family
+121	Blood Benzene (ng/mL)	9.04E-08	volatile compounds
+122	b-Cryptoxanthin (ug/dL)	9.18E-08	nutrients
+123	Vitamin A (ug/dL)	9.43E-08	nutrients
+124	trans-Lycopene (ug/dL)	9.64E-08	nutrients
+125	Vitamin E (ug/dL)	9.65E-08	nutrients
+126	Blood Benzene (ng/mL)	9.71E-08	volatile compounds
+127	cis-Beta carotene (ug/dL)	0.000000103	nutrients
+128	Vitamin A (ug/dL)	0.000000111	nutrients
+129	b-Cryptoxanthin (ug/dL)	0.000000111	nutrients
+130	Dietary fiber (gm)	0.000000114	food component recall
+131	g-Tocopherol (ug/dL)	0.000000116	nutrients
+132	Does anyone smoke in home?	0.000000128	smoking family
+133	"Beryllium, urine (ng/mL)"	0.00000013	heavy metals
+134	MAGNESIUM_mg	0.000000136	supplement use
+135	Riboflavin (Vitamin B2) (mg)	0.000000144	food component recall
+136	Current Cigarette Smoker?	0.000000148	smoking behavior
+137	Current Cigarette Smoker?	0.000000156	smoking behavior
+138	Current Cigarette Smoker?	0.000000171	smoking behavior
+139	Cotinine (ng/mL)	0.000000183	cotinine
+140	days drink in year	0.000000185	alcohol use
+141	Smoked at least 100 cigarettes in life	0.00000019	smoking behavior
+142	Smoked at least 100 cigarettes in life	0.000000192	smoking behavior
+143	Vitamin A (ug/dL)	0.000000197	nutrients
+144	trans-Beta carotene (ug/dL)	0.000000217	nutrients
+145	Potassium (mg)	0.000000222	food component recall
+146	"Beryllium, urine (ng/mL)"	0.000000232	heavy metals
+147	g-Tocopherol (ug/dL)	0.000000246	nutrients
+148	Dietary fiber (gm)	0.000000256	food component recall
+149	Cotinine (ng/mL)	0.000000261	cotinine
+150	Cadmium (ug/L)	0.000000272	heavy metals
+151	b-Cryptoxanthin (ug/dL)	0.000000278	nutrients
+152	Vitamin A (ug/dL)	0.000000283	nutrients
+153	Dietary fiber (gm)	0.000000288	food component recall
+154	Potassium (mg)	0.000000306	food component recall
+155	Cadmium (ug/L)	0.000000317	heavy metals
+156	Alcohol (gm)	0.000000317	food component recall
+157	IRON_mg	0.000000333	supplement use
+158	Phosphorus (mg)	0.000000369	food component recall
+159	trans-Lycopene (ug/dL)	0.000000406	nutrients
+160	FTC Carbon Monoxide Content	0.00000041	smoking behavior
+161	Vitamin A (ug/dL)	0.000000412	nutrients
+162	Vitamin A (ug/dL)	0.000000414	nutrients
+163	Does anyone smoke in home?	0.000000417	smoking family
+164	b-Cryptoxanthin (ug/dL)	0.000000426	nutrients
+165	Does anyone smoke in home?	0.000000437	smoking family
+166	Alpha-carotene (ug/dL)	0.000000437	nutrients
+167	cis-Beta carotene (ug/dL)	0.000000472	nutrients
+168	days drink in year	0.00000048	alcohol use
+169	Cotinine (ng/mL)	0.000000499	cotinine
+170	Cotinine (ng/mL)	0.000000509	cotinine
+171	Vitamin E (ug/dL)	0.00000054	nutrients
+172	Cadmium (ug/L)	0.000000543	heavy metals
+173	Does anyone smoke in home?	0.000000546	smoking family
+174	Phosphorus (mg)	0.000000646	food component recall
+175	trans-Beta carotene (ug/dL)	0.000000672	nutrients
+176	Lutein and zeaxanthin (ug/dL)	0.000000689	nutrients
+177	Vitamin B6 (mg)	0.000000699	food component recall
+178	"Mercury, total (ug/L)"	0.000000724	heavy metals
+179	Magnesium (mg)	0.000000746	food component recall
+180	Vitamin E (ug/dL)	0.000000766	nutrients
+181	Caffeine (mg)	0.000000774	food component recall
+182	taking_birth_control	0.000000892	pharmaceutical
+183	Niacin (mg)	0.000000895	food component recall
+184	Does anyone smoke in home?	0.000000909	smoking family
+185	Selenium (mcg)	0.000000921	food component recall
+186	Vitamin A (ug/dL)	0.000000928	nutrients
+187	Total sugars (gm)	0.00000093	food component recall
+188	Do you now smoke cigarettes...	0.00000101	smoking behavior
+189	Calcium (mg)	0.00000105	food component recall
+190	Lead (ug/dL)	0.00000113	heavy metals
+191	Alpha-carotene (ug/dL)	0.00000118	nutrients
+192	Alpha-carotene (ug/dL)	0.00000123	nutrients
+193	g-Tocopherol (ug/dL)	0.00000126	nutrients
+194	VITAMIN_C_mg	0.00000131	supplement use
+195	Cotinine (ng/mL)	0.00000137	cotinine
+196	days drink in year	0.00000161	alcohol use
+197	Blood Benzene (ng/mL)	0.00000163	volatile compounds
+198	drink per day	0.00000165	alcohol use
+199	Smoked at least 100 cigarettes in life	0.00000169	smoking behavior
+200	Caffeine (mg)	0.00000176	food component recall
+201	days drink in year	0.00000178	alcohol use
+202	Smoked at least 100 cigarettes in life	0.00000202	smoking behavior
+203	Carbohydrate (gm)	0.00000205	food component recall
+204	Alcohol (gm)	0.00000208	food component recall
+205	Alpha-carotene (ug/dL)	0.00000232	nutrients
+206	Mono-benzyl phthalate	0.00000235	phthalates
+207	total supplement count	0.00000245	supplement use
+208	Smoked at least 100 cigarettes in life	0.00000246	smoking behavior
+209	g-Tocopherol (ug/dL)	0.00000262	nutrients
+210	Do you now smoke cigarettes...	0.00000266	smoking behavior
+211	Lutein and zeaxanthin (ug/dL)	0.00000275	nutrients
+212	Calcium (mg)	0.00000294	food component recall
+213	Cotinine (ng/mL)	0.00000294	cotinine
+214	Vitamin E (ug/dL)	0.00000307	nutrients
+215	"Folate, RBC (ng/mL RBC)"	0.00000312	nutrients
+216	Lutein and zeaxanthin (ug/dL)	0.00000319	nutrients
+217	Do you now smoke cigarettes...	0.00000321	smoking behavior
+218	Dietary fiber (gm)	0.00000327	food component recall
+219	"Folate, serum (ng/mL)"	0.00000334	nutrients
+220	b-Cryptoxanthin (ug/dL)	0.0000034	nutrients
+221	Potassium (mg)	0.00000357	food component recall
+222	Do you now smoke cigarettes...	0.0000036	smoking behavior
+223	Smoked at least 100 cigarettes in life	0.00000361	smoking behavior
+224	Magnesium (mg)	0.00000362	food component recall
+225	Do you now smoke cigarettes...	0.00000366	smoking behavior
+226	Potassium (mg)	0.00000378	food component recall
+227	Dietary fiber (gm)	0.00000398	food component recall
+228	Cotinine (ng/mL)	0.00000405	cotinine
+229	g-Tocopherol (ug/dL)	0.00000418	nutrients
+230	Cadmium (ug/L)	0.00000426	heavy metals
+231	Alcohol (gm)	0.0000043	food component recall
+232	Vitamin A (ug/dL)	0.00000434	nutrients
+233	Smoked at least 100 cigarettes in life	0.00000445	smoking behavior
+234	Protein (gm)	0.00000473	food component recall
+235	Does anyone smoke in home?	0.00000505	smoking family
+236	days drink in year	0.00000514	alcohol use
+237	Lead (ug/dL)	0.00000531	heavy metals
+238	Smoked at least 100 cigarettes in life	0.00000534	smoking behavior
+239	Vitamin E (ug/dL)	0.00000546	nutrients
+240	Cadmium (ug/L)	0.00000548	heavy metals
+241	Cadmium (ug/L)	0.00000601	heavy metals
+242	Niacin (mg)	0.00000623	food component recall
+243	Cadmium (ug/L)	0.00000637	heavy metals
+244	Ever use female hormones?	0.00000672	pharmaceutical
+245	Does anyone smoke in home?	0.00000677	smoking family
+246	Alcohol (gm)	0.00000726	food component recall
+247	Alpha-carotene (ug/dL)	0.00000735	nutrients
+248	Vitamin A (ug/dL)	0.00000739	nutrients
+249	Vitamin E as alpha-tocopherol (mg)	0.00000747	food component recall
+250	b-Cryptoxanthin (ug/dL)	0.00000797	nutrients
+251	Vitamin B6 (mg)	0.00000923	food component recall
+252	trans-Beta carotene (ug/dL)	0.00000953	nutrients
+253	Potassium (mg)	0.00000958	food component recall
+254	Current Cigarette Smoker?	0.00000981	smoking behavior
+255	Do you now smoke cigarettes...	0.00000996	smoking behavior
+256	days drink in year	0.00000996	alcohol use
+257	Cadmium (ug/L)	0.0000106	heavy metals
+258	Magnesium (mg)	0.0000108	food component recall
+259	Do you now smoke cigarettes...	0.0000112	smoking behavior
+260	g-Tocopherol (ug/dL)	0.0000116	nutrients
+261	Lead (ug/dL)	0.0000122	heavy metals
+262	Daidzein (ng/mL)	0.0000125	phytoestrogens
+263	g-Tocopherol (ug/dL)	0.0000125	nutrients
+264	Alpha-carotene (ug/dL)	0.0000128	nutrients
+265	taking_birth_control	0.000013	pharmaceutical
+266	g-Tocopherol (ug/dL)	0.0000131	nutrients
+267	"Vitamin A, RAE (mcg)"	0.0000134	food component recall
+268	"Molybdenum, urine (ng/mL)"	0.0000144	heavy metals
+269	Vitamin B6 (mg)	0.0000149	food component recall
+270	Lutein and zeaxanthin (ug/dL)	0.000015	nutrients
+271	Magnesium (mg)	0.0000155	food component recall
+272	Does anyone smoke in home?	0.0000156	smoking family
+273	Niacin (mg)	0.0000164	food component recall
+274	Caffeine (mg)	0.0000165	food component recall
+275	Cadmium (ug/L)	0.0000168	heavy metals
+276	Protein (gm)	0.0000169	food component recall
+277	Ever use female hormones?	0.000017	pharmaceutical
+278	Magnesium (mg)	0.0000171	food component recall
+279	Fish eaten during past 30 days	0.0000175	food component recall
+280	Does anyone smoke in home?	0.0000175	smoking family
+281	Food folate (mcg)	0.0000175	food component recall
+282	"Folate, RBC (ng/mL RBC)"	0.0000175	nutrients
+283	"Tungsten, urine (ng/mL)"	0.000018	heavy metals
+284	Mono-(2-ethyl-5-hydroxyhexyl) phthalate	0.0000181	phthalates
+285	Alcohol (gm)	0.0000182	food component recall
+286	Magnesium (mg)	0.0000182	food component recall
+287	Iron (mg)	0.0000186	food component recall
+288	days 5 drinks in year	0.0000186	alcohol use
+289	drink per day	0.0000188	alcohol use
+290	trans-Beta carotene (ug/dL)	0.0000194	nutrients
+291	"Molybdenum, urine (ng/mL)"	0.0000194	heavy metals
+292	"Folate, RBC (ng/mL RBC)"	0.0000197	nutrients
+293	Food folate (mcg)	0.0000198	food component recall
+294	taking_birth_control	0.0000201	pharmaceutical
+295	cis-Beta carotene (ug/dL)	0.0000202	nutrients
+296	cis-Beta carotene (ug/dL)	0.0000206	nutrients
+297	Vitamin A (ug/dL)	0.0000207	nutrients
+298	Vitamin D (ng/mL)	0.0000207	nutrients
+299	Smoked at least 100 cigarettes in life	0.0000213	smoking behavior
+300	Does anyone smoke in home?	0.0000214	smoking family
+301	Phosphorus (mg)	0.0000216	food component recall
+302	total supplement count	0.0000219	supplement use
+303	Smoked at least 100 cigarettes in life	0.0000221	smoking behavior
+304	Lutein and zeaxanthin (ug/dL)	0.0000224	nutrients
+305	g-Tocopherol (ug/dL)	0.0000236	nutrients
+306	b-Cryptoxanthin (ug/dL)	0.0000241	nutrients
+307	total supplement count	0.0000243	supplement use
+308	days 5 drinks in year	0.0000248	alcohol use
+309	Smoked at least 100 cigarettes in life	0.0000252	smoking behavior
+310	cis-Beta carotene (ug/dL)	0.0000256	nutrients
+311	SFA 8:0 (Octanoic) (gm)	0.0000265	food component recall
+312	Caffeine (mg)	0.000028	food component recall
+313	drink 5 in a day	0.0000282	alcohol use
+314	Does anyone smoke in home?	0.0000287	smoking family
+315	Cotinine (ng/mL)	0.0000298	cotinine
+316	Total sugars (gm)	0.0000302	food component recall
+317	"Thallium, urine (ng/mL)"	0.000032	heavy metals
+318	Vitamin C (mg)	0.0000328	food component recall
+319	Phosphorus (mg)	0.0000333	food component recall
+320	Does anyone smoke in home?	0.0000335	smoking family
+321	g-Tocopherol (ug/dL)	0.0000356	nutrients
+322	Alcohol (gm)	0.0000361	food component recall
+323	total supplement count	0.0000365	supplement use
+324	Cotinine (ng/mL)	0.0000367	cotinine
+325	Smoked at least 100 cigarettes in life	0.0000371	smoking behavior
+326	Calcium (mg)	0.0000385	food component recall
+327	total supplement count	0.0000389	supplement use
+328	trans-Beta carotene (ug/dL)	0.0000395	nutrients
+329	cis-Beta carotene (ug/dL)	0.0000396	nutrients
+330	Do you now smoke cigarettes...	0.0000406	smoking behavior
+331	"Molybdenum, urine (ng/mL)"	0.0000409	heavy metals
+332	trans-Beta carotene (ug/dL)	0.000042	nutrients
+333	Mono-(2-ethyl)-hexyl phthalate	0.0000438	phthalates
+334	LISINOPRIL	0.000044	pharmaceutical
+335	Mono-(2-ethyl-5-oxohexyl) phthalate	0.0000468	phthalates
+336	g-Tocopherol (ug/dL)	0.000047	nutrients
+337	Vitamin E (ug/dL)	0.0000491	nutrients
+338	Retinyl Stearate (ug/dL)	0.0000492	nutrients
+339	Selenium (mcg)	0.0000494	food component recall
+340	Vitamin A (ug/dL)	0.0000502	nutrients
+341	Cadmium (ug/L)	0.0000507	heavy metals
+342	Alpha-carotene (ug/dL)	0.0000512	nutrients
+343	Retinol (mcg)	0.0000516	food component recall
+344	days 5 drinks in year	0.000053	alcohol use
+345	Phosphorus (mg)	0.0000531	food component recall
+346	days drink in year	0.000054	alcohol use
+347	Cotinine (ng/mL)	0.0000549	cotinine
+348	# days smoked cigs during past 30 days	0.0000549	smoking behavior
+349	Retinyl Palmitate (ug/dL)	0.0000551	nutrients
+350	Hepatitis B core antibody	0.0000554	viral infection
+351	Retinyl Palmitate (ug/dL)	0.0000586	nutrients
+352	Protein (gm)	0.0000595	food component recall
+353	Potassium (mg)	0.0000605	food component recall
+354	"Tungsten, urine (ng/mL)"	0.0000606	heavy metals
+355	cis-Beta carotene (ug/dL)	0.000066	nutrients
+356	Cotinine (ng/mL)	0.0000666	cotinine
+357	Theobromine (mg)	0.000067	food component recall
+358	Retinyl Palmitate (ug/dL)	0.0000678	nutrients
+359	Do you now smoke cigarettes...	0.00007	smoking behavior
+360	g-Tocopherol (ug/dL)	0.0000718	nutrients
+361	Vitamin E (ug/dL)	0.0000719	nutrients
+362	g-Tocopherol (ug/dL)	0.0000748	nutrients
+363	taking_birth_control	0.0000765	pharmaceutical
+364	"Thallium, urine (ng/mL)"	0.0000769	heavy metals
+365	Riboflavin (Vitamin B2) (mg)	0.0000789	food component recall
+366	Cotinine (ng/mL)	0.0000852	cotinine
+367	Alcohol (gm)	0.0000853	food component recall
+368	Lead (ug/dL)	0.0000853	heavy metals
+369	total supplement count	0.000086	supplement use
+370	Vitamin B6 (mg)	0.0000871	food component recall
+371	Cotinine (ng/mL)	0.0000878	cotinine
+372	"Folate, RBC (ng/mL RBC)"	0.0000883	nutrients
+373	SFA 18:0 (Octadecanoic) (gm)	0.0000893	food component recall
+374	"Thallium, urine (ng/mL)"	0.0000897	heavy metals
+375	Avg # cigarettes/day during past 30 days	0.0000908	smoking behavior
+376	taking_birth_control	0.0000958	pharmaceutical
+377	days drink in year	0.000099	alcohol use
+378	Ever use female hormones?	0.0000995	pharmaceutical
+379	Thiamin (Vitamin B1) (mg)	0.000100793	food component recall
+380	Carbohydrate (gm)	0.000101288	food component recall
+381	Vitamin D (ng/mL)	0.000104131	nutrients
+382	MFA 18:1 (Octadecenoic) (gm)	0.000106209	food component recall
+383	trans-Beta carotene (ug/dL)	0.000107012	nutrients
+384	SFA 16:0 (Hexadecanoic) (gm)	0.00011	food component recall
+385	Vitamin C (mg)	0.000110279	food component recall
+386	Vitamin A (ug/dL)	0.000111582	nutrients
+387	Vitamin D (ng/mL)	0.000113732	nutrients
+388	FTC Carbon Monoxide Content	0.000115259	smoking behavior
+389	total supplement count	0.000115554	supplement use
+390	Do you now smoke cigarettes...	0.000116728	smoking behavior
+391	Cholesterol (mg)	0.000123512	food component recall
+392	Mono-isononyl phthalate	0.00012485	phthalates
+393	Vitamin A (ug/dL)	0.00012539	nutrients
+394	Vitamin A (ug/dL)	0.000128771	nutrients
+395	days drink in year	0.000131428	alcohol use
+396	Does anyone smoke in home?	0.000134527	smoking family
+397	drink per day	0.000134765	alcohol use
+398	Current Cigarette Smoker?	0.000137601	smoking behavior
+399	total supplement count	0.000140208	supplement use
+400	Smoked at least 100 cigarettes in life	0.00014144	smoking behavior
+401	Current Cigarette Smoker?	0.000144169	smoking behavior
+402	trans-Beta carotene (ug/dL)	0.000146142	nutrients
+403	Smoked at least 100 cigarettes in life	0.000146479	smoking behavior
+404	Total monounsaturated fatty acids (gm)	0.000151379	food component recall
+405	Hepatitis A Antibody (Anti-HAV)	0.000154695	viral infection
+406	3-fluorene (ng/L)	0.000157995	hydrocarbons
+407	Total fat (gm)	0.000160384	food component recall
+408	Retinyl Palmitate (ug/dL)	0.000160506	nutrients
+409	Thiamin (Vitamin B1) (mg)	0.000161268	food component recall
+410	g-Tocopherol (ug/dL)	0.000161794	nutrients
+411	Blood Styrene (ng/mL)	0.000162097	volatile compounds
+412	Smoked at least 100 cigarettes in life	0.000164728	smoking behavior
+413	PFA 20:5 (Eicosapentaenoic) (gm)	0.000165947	food component recall
+414	2-fluorene (ng/L)	0.000167027	hydrocarbons
+415	Dietary fiber (gm)	0.000173648	food component recall
+416	SFA 14:0 (Tetradecanoic) (gm)	0.000176188	food component recall
+417	Vitamin A (ug/dL)	0.000177043	nutrients
+418	taking_birth_control	0.000177329	pharmaceutical
+419	Selenium (mcg)	0.000182776	food component recall
+420	Current Cigarette Smoker?	0.000183941	smoking behavior
+421	"Cadmium, urine (ng/mL)"	0.000187446	heavy metals
+422	"Thallium, urine (ng/mL)"	0.00018925	heavy metals
+423	Vitamin E (ug/dL)	0.000189468	nutrients
+424	PFA 22:6 (Docosahexaenoic) (gm)	0.000189505	food component recall
+425	Lead (ug/dL)	0.000194853	heavy metals
+426	Alpha-carotene (ug/dL)	0.000198723	nutrients
+427	Niacin (mg)	0.000202391	food component recall
+428	Hepatitis A Antibody (Anti-HAV)	0.000203208	viral infection
+429	taking_birth_control	0.000206173	pharmaceutical
+430	SFA 18:0 (Octadecanoic) (gm)	0.000206647	food component recall
+431	Current Cigarette Smoker?	0.00021039	smoking behavior
+432	"Folate, RBC (ng/mL RBC)"	0.000215326	nutrients
+433	THIAMIN_mg	0.000216164	supplement use
+434	RIBOFLAVIN_mg	0.000216731	supplement use
+435	# cigarettes smoked per day now	0.000217564	smoking behavior
+436	Do you now smoke cigarettes...	0.000220505	smoking behavior
+437	Total saturated fatty acids (gm)	0.000221704	food component recall
+438	Energy (kcal)	0.000223138	food component recall
+439	Smoked at least 100 cigarettes in life	0.000229088	smoking behavior
+440	Niacin (mg)	0.000232735	food component recall
+441	SFA 16:0 (Hexadecanoic) (gm)	0.000247097	food component recall
+442	Current Cigarette Smoker?	0.000248065	smoking behavior
+443	Current Cigarette Smoker?	0.000248472	smoking behavior
+444	days drink in year	0.000256703	alcohol use
+445	Do you now smoke cigarettes...	0.000259056	smoking behavior
+446	Vitamin B6 (mg)	0.000268737	food component recall
+447	Lead (ug/dL)	0.00026981	heavy metals
+448	Do you now smoke cigarettes...	0.000269854	smoking behavior
+449	Lutein and zeaxanthin (ug/dL)	0.000273206	nutrients
+450	number of days since quit	0.000278986	smoking behavior
+451	Retinyl Palmitate (ug/dL)	0.0002827	nutrients
+452	Iron (mg)	0.000287791	food component recall
+453	THIAMIN_mg	0.000292508	supplement use
+454	"Platinum, urine (ng/mL)"	0.000296154	heavy metals
+455	Total fat (gm)	0.000299252	food component recall
+456	g-Tocopherol (ug/dL)	0.000303033	nutrients
+457	cis-Beta carotene (ug/dL)	0.000309314	nutrients
+458	Smoked a pipe at least 20 times in life	0.000310545	smoking behavior
+459	"Molybdenum, urine (ng/mL)"	0.000315874	heavy metals
+460	Beta-carotene (mcg)	0.000319147	food component recall
+461	Do you now smoke cigarettes...	0.000328256	smoking behavior
+462	days drink in year	0.000336263	alcohol use
+463	Cotinine (ng/mL)	0.000340585	cotinine
+464	drink 5 in a day	0.000351854	alcohol use
+465	g-Tocopherol (ug/dL)	0.000353988	nutrients
+466	Protein (gm)	0.000358557	food component recall
+467	Niacin (mg)	0.000365911	food component recall
+468	Retinyl Palmitate (ug/dL)	0.000367252	nutrients
+469	Vitamin B6 (mg)	0.000368741	food component recall
+470	SFA 10:0 (Decanoic) (gm)	0.000369629	food component recall
+471	Vitamin A (ug/dL)	0.00037226	nutrients
+472	Carbohydrate (gm)	0.000377788	food component recall
+473	b-Cryptoxanthin (ug/dL)	0.000385468	nutrients
+474	SFA 18:0 (Octadecanoic) (gm)	0.000403147	food component recall
+475	Vitamin E (ug/dL)	0.000403767	nutrients
+476	taking_birth_control	0.000407062	pharmaceutical
+477	Blood Styrene (ng/mL)	0.000415231	volatile compounds
+478	Caffeine (mg)	0.000416029	food component recall
+479	g-Tocopherol (ug/dL)	0.00042426	nutrients
+480	PFA 22:6 (Docosahexaenoic) (gm)	0.0004323	food component recall
+481	Vitamin A (ug/dL)	0.000435085	nutrients
+482	Total monounsaturated fatty acids (gm)	0.000438056	food component recall
+483	SFA 6:0 (Hexanoic) (gm)	0.000438902	food component recall
+484	Cadmium (ug/L)	0.00044352	heavy metals
+485	Does anyone smoke in home?	0.000462607	smoking family
+486	"1,2,3,7,8-pncdd (fg/g)"	0.000476263	dioxins
+487	Hepatitis B core antibody	0.000485696	viral infection
+488	"Mercury, total (ug/L)"	0.000489527	heavy metals
+489	Lutein and zeaxanthin (ug/dL)	0.000491153	nutrients
+490	drink per day	0.000493626	alcohol use
+491	Oxychlordane (ng/g)	0.000495169	pesticides
+492	PCB172 (ng/g)	0.000496009	pcbs
+493	Current Cigarette Smoker?	0.00049931	smoking behavior
+494	Cotinine (ng/mL)	0.000506073	cotinine
+495	Vitamin A (ug/dL)	0.000513567	nutrients
+496	Current Cigarette Smoker?	0.000518033	smoking behavior
+497	taking_birth_control	0.00052302	pharmaceutical
+498	Retinyl Palmitate (ug/dL)	0.000526364	nutrients
+499	Vitamin E as alpha-tocopherol (mg)	0.000530736	food component recall
+500	"Folate, RBC (ng/mL RBC)"	0.0005428	nutrients
+501	Potassium (mg)	0.000545668	food component recall
+502	Smoked at least 100 cigarettes in life	0.000546796	smoking behavior
+503	Copper (mg)	0.000551032	food component recall
+504	PFA 22:5 (Docosapentaenoic) (gm)	0.000559148	food component recall
+505	SFA 4:0 (Butanoic) (gm)	0.000566381	food component recall
+506	Dietary fiber (gm)	0.000571213	food component recall
+507	SFA 14:0 (Tetradecanoic) (gm)	0.000579065	food component recall
+508	"Mercury, total (ug/L)"	0.000597507	heavy metals
+509	total supplement count	0.000601019	supplement use
+510	Alpha-carotene (ug/dL)	0.000624521	nutrients
+511	total supplement count	0.000631179	supplement use
+512	"Antimony, urine (ng/mL)"	0.000647966	heavy metals
+513	"Thallium, urine (ng/mL)"	0.0006503	heavy metals
+514	Iron (mg)	0.000655257	food component recall
+515	Current Cigarette Smoker?	0.000663185	smoking behavior
+516	g-Tocopherol (ug/dL)	0.000672864	nutrients
+517	Retinyl Stearate (ug/dL)	0.000674486	nutrients
+518	Smoked at least 100 cigarettes in life	0.000680538	smoking behavior
+519	Genistein (ng/mL)	0.000686724	phytoestrogens
+520	Riboflavin (Vitamin B2) (mg)	0.000689035	food component recall
+521	drink per day	0.000692768	alcohol use
+522	3-fluorene (ng/L)	0.0006956	hydrocarbons
+523	3-fluorene (ng/L)	0.0006956	hydrocarbons
+524	IRON_mg	0.000697607	supplement use
+525	SFA 10:0 (Decanoic) (gm)	0.00072386	food component recall
+526	Cotinine (ng/mL)	0.000737244	cotinine
+527	Riboflavin (Vitamin B2) (mg)	0.000755286	food component recall
+528	MFA 18:1 (Octadecenoic) (gm)	0.000764354	food component recall
+529	Hepatitis B core antibody	0.00076558	viral infection
+530	PFA 20:4 (Eicosatetraenoic) (gm)	0.000793626	food component recall
+531	use water treatment	0.000804641	housing
+532	use water treatment	0.000809142	housing
+533	Cholesterol (mg)	0.000820929	food component recall
+534	"Molybdenum, urine (ng/mL)"	0.000821223	heavy metals
+535	Lead (ug/dL)	0.000846805	heavy metals
+536	SFA 16:0 (Hexadecanoic) (gm)	0.000856413	food component recall
+537	Current Cigarette Smoker?	0.000873015	smoking behavior
+538	total supplement count	0.000881926	supplement use
+539	"Uranium, urine (ng/mL)"	0.00089759	heavy metals
+540	Calcium (mg)	0.00095963	food component recall
+541	2-fluorene (ng/L)	0.000988666	hydrocarbons
+542	2-fluorene (ng/L)	0.000988666	hydrocarbons
+543	Magnesium (mg)	0.000986856	food component recall
+544	Protein (gm)	0.000990521	food component recall
+545	MFA 22:1 (Docosenoic) (gm)	0.001000496	food component recall
+546	drink per day	0.001003962	alcohol use
+547	Vitamin E (ug/dL)	0.001015052	nutrients
+548	Cadmium (ug/L)	0.001013494	heavy metals
+549	Total saturated fatty acids (gm)	0.001013076	food component recall
+550	Vitamin E as alpha-tocopherol (mg)	0.001031136	food component recall
+551	ATENOLOL	0.001034715	pharmaceutical
+552	Blood Benzene (ng/mL)	0.001035541	volatile compounds
+553	"Lead, urine (ng/mL)"	0.001055874	heavy metals
+554	"Mercury, total (ug/L)"	0.001054575	heavy metals
+555	Riboflavin (Vitamin B2) (mg)	0.001071378	food component recall
+556	Vitamin B6 (mg)	0.001112988	food component recall
+557	SFA 6:0 (Hexanoic) (gm)	0.001131377	food component recall
+558	Retinyl Palmitate (ug/dL)	0.001134414	nutrients
+559	Mono-isononyl phthalate	0.001142381	phthalates
+560	"Mercury, total (ug/L)"	0.001146845	heavy metals
+561	Ever use female hormones?	0.001151202	pharmaceutical
+562	SFA 10:0 (Decanoic) (gm)	0.001198221	food component recall
+563	PCB183 (ng/g)	0.001210288	pcbs
+564	total supplement count	0.001208902	supplement use
+565	total supplement count	0.001224248	supplement use
+566	"Platinum, urine (ng/mL)"	0.001253881	heavy metals
+567	Phosphorus (mg)	0.001260552	food component recall
+568	POTASSIUM_mg	0.001270253	supplement use
+569	g-Tocopherol (ug/dL)	0.001303442	nutrients
+570	LISINOPRIL	0.001317741	pharmaceutical
+571	PFA 18:3 (Octadecatrienoic) (gm)	0.001319156	food component recall
+572	Current Cigarette Smoker?	0.001316787	smoking behavior
+573	Vitamin E as alpha-tocopherol (mg)	0.001313558	food component recall
+574	trans-Lycopene (ug/dL)	0.001314789	nutrients
+575	SFA 8:0 (Octanoic) (gm)	0.001330328	food component recall
+576	"Cadmium, urine (ng/mL)"	0.001334846	heavy metals
+577	pneumonia	0.001360268	immunization
+578	1-napthol	0.001368359	hydrocarbons
+579	Energy (kcal)	0.001374276	food component recall
+580	Equol (ng/mL)	0.001372741	phytoestrogens
+581	Vitamin B6 (mg)	0.001390844	food component recall
+582	MFA 16:1 (Hexadecenoic) (gm)	0.001398627	food component recall
+583	3-fluorene (ng/L)	0.001460033	hydrocarbons
+584	SFA 14:0 (Tetradecanoic) (gm)	0.001472524	food component recall
+585	total supplement count	0.001470374	supplement use
+586	Mono-ethyl phthalate	0.001474704	phthalates
+587	SFA 4:0 (Butanoic) (gm)	0.001487961	food component recall
+588	trans-Beta carotene (ug/dL)	0.001509035	nutrients
+589	Total monounsaturated fatty acids (gm)	0.001535305	food component recall
+590	Total fat (gm)	0.001539678	food component recall
+591	"Mercury, urine (ng/mL)"	0.001550317	heavy metals
+592	MFA 18:1 (Octadecenoic) (gm)	0.001563803	food component recall
+593	"Folate, DFE (mcg)"	0.00165189	food component recall
+594	Magnesium (mg)	0.00165179	food component recall
+595	days 5 drinks in year	0.001648462	alcohol use
+596	POTASSIUM_mg	0.00167933	supplement use
+597	SFA 6:0 (Hexanoic) (gm)	0.001689662	food component recall
+598	Lutein and zeaxanthin (ug/dL)	0.001696044	nutrients
+599	Energy (kcal)	0.001709301	food component recall
+600	Energy (kcal)	0.001748853	food component recall
+601	Blood Trichloroethene (ng/mL)	0.001782663	volatile compounds
+602	Retinyl Palmitate (ug/dL)	0.001811919	nutrients
+603	Lutein and zeaxanthin (ug/dL)	0.00181036	nutrients
+604	Heptachlor Epoxide (ng/g)	0.001852847	pesticides
+605	g-Tocopherol (ug/dL)	0.001890742	nutrients
+606	days 5 drinks in year	0.001897686	alcohol use
+607	Magnesium (mg)	0.00190264	food component recall
+608	"Thallium, urine (ng/mL)"	0.001918552	heavy metals
+609	Selenium (mcg)	0.001928049	food component recall
+610	COPPER_mg	0.001937427	supplement use
+611	PCB153 (ng/g)	0.001989529	pcbs
+612	Ever use female hormones?	0.001987524	pharmaceutical
+613	Thiamin (Vitamin B1) (mg)	0.001999279	food component recall
+614	Cotinine (ng/mL)	0.002014726	cotinine
+615	SFA 4:0 (Butanoic) (gm)	0.002033116	food component recall
+616	age_started_birth_control	0.00203307	pharmaceutical
+617	IRON_mg	0.002055604	supplement use
+618	"Folate, RBC (ng/mL RBC)"	0.002064944	nutrients
+619	total supplement count	0.002070458	supplement use
+620	Vitamin C (mg)	0.002102084	food component recall
+621	Caffeine (mg)	0.002128756	food component recall
+622	"Platinum, urine (ng/mL)"	0.002159365	heavy metals
+623	"Mercury, urine (ng/mL)"	0.002213873	heavy metals
+624	PCB178 (ng/g)	0.002296973	pcbs
+625	Equol (ng/mL)	0.002355844	phytoestrogens
+626	"1,2,3,4,7,8-hcxdf (fg/g)"	0.00236632	furans
+627	cis-Beta carotene (ug/dL)	0.002364484	nutrients
+628	days 5 drinks in year	0.002372913	alcohol use
+629	"1,2,3,6,7,8-hxcdd (fg/g)"	0.002385687	dioxins
+630	PCB177 (ng/g)	0.002389702	pcbs
+631	Retinyl Stearate (ug/dL)	0.002479496	nutrients
+632	Blood Benzene (ng/mL)	0.002550606	volatile compounds
+633	total supplement count	0.00256043	supplement use
+634	Vitamin A (ug/dL)	0.002559068	nutrients
+635	"1,2,3,4,6,7,8,9-ocdf (fg/g)"	0.002611635	furans
+636	PFA 20:4 (Eicosatetraenoic) (gm)	0.002633406	food component recall
+637	Phosphorus (mg)	0.002663649	food component recall
+638	Vitamin B12 (mcg)	0.002676695	food component recall
+639	"Folate, DFE (mcg)"	0.002689694	food component recall
+640	# days smoked cigs during past 30 days	0.002706894	smoking behavior
+641	days drink in year	0.002721287	alcohol use
+642	Total polyunsaturated fatty acids (gm)	0.002752537	food component recall
+643	Cadmium (ug/L)	0.002774047	heavy metals
+644	Ever use female hormones?	0.002778401	pharmaceutical
+645	"2,3,4,7,8-pncdf (fg/g)"	0.002826796	furans
+646	Ever use female hormones?	0.002848392	pharmaceutical
+647	how_long_estrogen	0.002846229	pharmaceutical
+648	Carbohydrate (gm)	0.002882695	food component recall
+649	Hepatitis B core antibody	0.002888939	viral infection
+650	PFA 22:6 (Docosahexaenoic) (gm)	0.002947048	food component recall
+651	Calcium (mg)	0.002952284	food component recall
+652	IRON_mg	0.002968441	supplement use
+653	b-Cryptoxanthin (ug/dL)	0.002985452	nutrients
+654	Current Cigarette Smoker?	0.002989289	smoking behavior
+655	cis-Beta carotene (ug/dL)	0.003011709	nutrients
+656	PFA 20:4 (Eicosatetraenoic) (gm)	0.003019152	food component recall
+657	g-Tocopherol (ug/dL)	0.003037604	nutrients
+658	2-napthol	0.003051119	hydrocarbons
+659	Dietary fiber (gm)	0.003067613	food component recall
+660	"3,3',4,4',5,5'-hxcb (fg/g)"	0.003104932	pcbs
+661	Niacin (mg)	0.003122067	food component recall
+662	how_long_estrogen	0.003146976	pharmaceutical
+663	Mirex (ng/g)	0.00315215	pesticides
+664	Thiamin (Vitamin B1) (mg)	0.003179678	food component recall
+665	"Uranium, urine (ng/mL)"	0.003183251	heavy metals
+666	SFA 8:0 (Octanoic) (gm)	0.003226443	food component recall
+667	Caffeine (mg)	0.003245393	food component recall
+668	"1,2,3,6,7,8-hxcdf (fg/g)"	0.003299248	furans
+669	"Folate, RBC (ng/mL RBC)"	0.003298119	nutrients
+670	2-fluorene (ng/L)	0.003302318	hydrocarbons
+671	Vitamin E (ug/dL)	0.003290127	nutrients
+672	MFA 18:1 (Octadecenoic) (gm)	0.003312886	food component recall
+673	Vitamin A (ug/dL)	0.003320907	nutrients
+674	Ever used cocaine or other street drug	0.003333088	street drug
+675	2-fluorene (ng/L)	0.003337838	hydrocarbons
+676	VITAMIN_B_12_mcg	0.003327331	supplement use
+677	Hepatitis B core antibody	0.003336099	viral infection
+678	Phosphorus (mg)	0.003355192	food component recall
+679	Genistein (ng/mL)	0.003404879	phytoestrogens
+680	DSDCOUNT	0.003414292	supplement use
+681	Protein (gm)	0.003418828	food component recall
+682	COPPER_mg	0.003450058	supplement use
+683	Do you now smoke cigarettes...	0.003452958	smoking behavior
+684	IRON_mg	0.00354265	supplement use
+685	Fish eaten during past 30 days	0.003537679	food component recall
+686	Ever use female hormones?	0.003567547	pharmaceutical
+687	Calcium (mg)	0.003632075	food component recall
+688	"Lead, urine (ng/mL)"	0.003723058	heavy metals
+689	PCB138 (ng/g)	0.003809249	pcbs
+690	drink per day	0.003815846	alcohol use
+691	Protein (gm)	0.003906356	food component recall
+692	"Folate, RBC (ng/mL RBC)"	0.003924878	nutrients
+693	Vitamin C (mg)	0.003944907	food component recall
+694	IRON_mg	0.00395176	supplement use
+695	PCB167 (ng/g)	0.003994136	pcbs
+696	Smoked at least 100 cigarettes in life	0.003990463	smoking behavior
+697	3-benzo(a) pyrene	0.004013346	hydrocarbons
+698	Hepatitis B core antibody	0.004044021	viral infection
+699	SFA 16:0 (Hexadecanoic) (gm)	0.004053197	food component recall
+700	cis-Beta carotene (ug/dL)	0.004058916	nutrients
+701	Total monounsaturated fatty acids (gm)	0.004102041	food component recall
+702	PHOSPHORUS_mg	0.004162757	supplement use
+703	total supplement count	0.004208766	supplement use
+704	Vitamin E (ug/dL)	0.004220048	nutrients
+705	"Mercury, urine (ng/mL)"	0.004238532	heavy metals
+706	age_stopped_birth_control	0.004316107	pharmaceutical
+707	total supplement count	0.004339873	supplement use
+708	"Lead, urine (ng/mL)"	0.004334989	heavy metals
+709	PFA 18:2 (Octadecadienoic) (gm)	0.004411993	food component recall
+710	PCB105 (ng/g)	0.004495415	pcbs
+711	PCB118 (ng/g)	0.004503426	pcbs
+712	Smoked at least 100 cigarettes in life	0.004517307	smoking behavior
+713	IRON_mg	0.004558662	supplement use
+714	Alcohol (gm)	0.004595431	food component recall
+715	drink per day	0.004600647	alcohol use
+716	"Molybdenum, urine (ng/mL)"	0.004632533	heavy metals
+717	Vitamin B6 (mg)	0.00465752	food component recall
+718	"Cadmium, urine (ng/mL)"	0.004705642	heavy metals
+719	Does anyone smoke in home?	0.004818027	smoking family
+720	taking_birth_control	0.004849829	pharmaceutical
+721	Blood Chloroform (pg/mL)	0.004916463	volatile compounds
+722	drink per day	0.004953105	alcohol use
+723	PCB187 (ng/g)	0.004994333	pcbs
+724	Dietary fiber (gm)	0.005008744	food component recall
+725	Potassium (mg)	0.00501509	food component recall
+726	PFA 18:2 (Octadecadienoic) (gm)	0.005034662	food component recall
+727	"p,p'-DDE (ng/g)"	0.005073001	pesticides
+728	VITAMIN_B_6_mg	0.005071432	supplement use
+729	Hepatitis B core antibody	0.005062455	viral infection
+730	Zinc (mg)	0.005083875	food component recall
+731	trans-Beta carotene (ug/dL)	0.005237432	nutrients
+732	Magnesium (mg)	0.005275703	food component recall
+733	DSDCOUNT	0.005275282	supplement use
+734	Folic acid (mcg)	0.005525507	food component recall
+735	2-fluorene (ng/L)	0.005679732	hydrocarbons
+736	VITAMIN_A_IU	0.005694153	supplement use
+737	FOLIC_ACID_mcg	0.005705827	supplement use
+738	Total sugars (gm)	0.005716042	food component recall
+739	Selenium (mcg)	0.00578492	food component recall
+740	PFA 18:4 (Octadecatetraenoic) (gm)	0.005921459	food component recall
+741	PCB146 (ng/g)	0.005950577	pcbs
+742	Total polyunsaturated fatty acids (gm)	0.005968862	food component recall
+743	Selenium (mcg)	0.005969343	food component recall
+744	Caffeine (mg)	0.006028989	food component recall
+745	Total sugars (gm)	0.006086948	food component recall
+746	1-chrysene	0.006094219	hydrocarbons
+747	3-fluorene (ng/L)	0.006135047	hydrocarbons
+748	PFA 18:2 (Octadecadienoic) (gm)	0.006209698	food component recall
+749	Protein (gm)	0.006225153	food component recall
+750	Mono-benzyl phthalate	0.006272705	phthalates
+751	2-benzo[c] phenanthrene (ng/L)	0.00635543	hydrocarbons
+752	MFA 16:1 (Hexadecenoic) (gm)	0.006364701	food component recall
+753	"Folate, RBC (ng/mL RBC)"	0.006387059	nutrients
+754	Magnesium (mg)	0.006461501	food component recall
+755	COPPER_mg	0.006480807	supplement use
+756	O-Desmethylangolensin (O-DMA) (ng/mL)	0.006544171	phytoestrogens
+757	Heptachlor Epoxide (ng/g)	0.006558077	pesticides
+758	g-Tocopherol (ug/dL)	0.006595229	nutrients
+759	Magnesium (mg)	0.006642323	food component recall
+760	age_stopped_birth_control	0.006690575	pharmaceutical
+761	Potassium (mg)	0.006698791	food component recall
+762	Vitamin B12 (mcg)	0.006721631	food component recall
+763	Do you now smoke cigarettes...	0.006739108	smoking behavior
+764	Ever use female hormones?	0.006939555	pharmaceutical
+765	LISINOPRIL	0.006997525	pharmaceutical
+766	Blood Chloroform (pg/mL)	0.007125497	volatile compounds
+767	3-fluorene (ng/L)	0.007148762	hydrocarbons
+768	"Mercury, total (ug/L)"	0.00715383	heavy metals
+769	Alcohol (gm)	0.007184199	food component recall
+770	3-benzo(a) pyrene	0.007206086	hydrocarbons
+771	PCB99 (ng/g)	0.007222564	pcbs
+772	PFA 22:5 (Docosapentaenoic) (gm)	0.007269965	food component recall
+773	number of days since quit	0.007306754	smoking behavior
+774	Total fat (gm)	0.007357625	food component recall
+775	Retinyl Palmitate (ug/dL)	0.007486681	nutrients
+776	FOLIC_ACID_mcg	0.007734433	supplement use
+777	Fish eaten during past 30 days	0.00776202	food component recall
+778	Blood Trichloroethene (ng/mL)	0.007779796	volatile compounds
+779	Mirex (ng/g)	0.007822417	pesticides
+780	Total fat (gm)	0.007929298	food component recall
+781	Alcohol (gm)	0.007973892	food component recall
+782	FOLIC_ACID_mcg	0.008018703	supplement use
+783	Total saturated fatty acids (gm)	0.008065111	food component recall
+784	trans-Beta carotene (ug/dL)	0.008150572	nutrients
+785	Vitamin D (ng/mL)	0.008191558	nutrients
+786	"Lead, urine (ng/mL)"	0.008318277	heavy metals
+787	Dietary fiber (gm)	0.008459372	food component recall
+788	Ever use female hormones?	0.00846505	pharmaceutical
+789	3-fluorene (ng/L)	0.008565837	hydrocarbons
+790	Retinyl Stearate (ug/dL)	0.008563148	nutrients
+791	Total polyunsaturated fatty acids (gm)	0.00859383	food component recall
+792	Niacin (mg)	0.00866618	food component recall
+793	PFA 20:5 (Eicosapentaenoic) (gm)	0.008688181	food component recall
+794	Lutein and zeaxanthin (ug/dL)	0.008713756	nutrients
+795	Vitamin C (mg)	0.008887504	food component recall
+796	"Lead, urine (ng/mL)"	0.00891837	heavy metals
+797	Shellfish eaten during past 30 days	0.008983163	food component recall
+798	PFA 22:6 (Docosahexaenoic) (gm)	0.008999598	food component recall
+799	Phosphorus (mg)	0.009028746	food component recall
+800	PFA 22:6 (Docosahexaenoic) (gm)	0.009181984	food component recall
+801	VITAMIN_A_IU	0.009174996	supplement use
+802	MAGNESIUM_mg	0.009280358	supplement use
+803	# cigarettes smoked per day now	0.009304288	smoking behavior
+804	PCB66 (ng/g)	0.00934068	pcbs
+805	1-phenanthrene (ng/L)	0.009401664	hydrocarbons
+806	Enterolactone (ng/mL)	0.009488067	phytoestrogens
+807	PCB118 (ng/g)	0.00967131	pcbs
+808	Zinc (mg)	0.009759524	food component recall
+809	Mono-(2-ethyl)-hexyl phthalate	0.009751752	phthalates
+810	days drink in year	0.00974459	alcohol use
+811	6-chrysene (ng/L)	0.009773262	hydrocarbons
+812	Zinc (mg)	0.009795869	food component recall
+813	Diethyldithiophosphate (ug/L)	0.009959466	diakyl
+814	Dimethylthiophosphate (ug/L)	0.010029207	diakyl
+815	Bacterial Vaginosis	0.0101107	bacterial infection
+816	Lutein and zeaxanthin (ug/dL)	0.010159717	nutrients
+817	COPPER_mg	0.010211793	supplement use
+818	use water treatment	0.010263513	housing
+819	Potassium (mg)	0.010506263	food component recall
+820	"Mercury, total (ug/L)"	0.01059154	heavy metals
+821	days drink in year	0.010796901	alcohol use
+822	"Folate, serum (ng/mL)"	0.010896114	nutrients
+823	Hepatitis A Antibody (Anti-HAV)	0.01088354	viral infection
+824	MFA 20:1 (Eicosenoic) (gm)	0.011072738	food component recall
+825	taking_birth_control	0.011071336	pharmaceutical
+826	Blood Chloroform (pg/mL)	0.01127025	volatile compounds
+827	IRON_mg	0.011308814	supplement use
+828	days drink in year	0.011619326	alcohol use
+829	Oxychlordane (ng/g)	0.011963396	pesticides
+830	POTASSIUM_mg	0.012153598	supplement use
+831	Alcohol (gm)	0.012172422	food component recall
+832	Dimethylthiophosphate (ug/L)	0.012208982	diakyl
+833	"Mercury, total (ug/L)"	0.012238934	heavy metals
+834	PCB146 (ng/g)	0.012576129	pcbs
+835	Riboflavin (Vitamin B2) (mg)	0.012650395	food component recall
+836	Food folate (mcg)	0.012689301	food component recall
+837	Potassium (mg)	0.012876954	food component recall
+838	pneumonia	0.012944767	immunization
+839	"Folate, RBC (ng/mL RBC)"	0.013424227	nutrients
+840	2-fluorene (ng/L)	0.013495681	hydrocarbons
+841	Salmon eaten during past 30 days	0.013516189	food component recall
+842	"2,3,4,7,8-pncdf (fg/g)"	0.01362731	furans
+843	"1,2,3,6,7,8-hxcdf (fg/g)"	0.013945351	furans
+844	PCB180 (ng/g)	0.014011727	pcbs
+845	2-napthol	0.014062645	hydrocarbons
+846	2-napthol	0.014062645	hydrocarbons
+847	Heptachlor Epoxide (ng/g)	0.014032306	pesticides
+848	Cadmium (ug/L)	0.014155193	heavy metals
+849	g-Tocopherol (ug/dL)	0.014319569	nutrients
+850	Ever used cocaine or other street drug	0.014382609	street drug
+851	Current Cigarette Smoker?	0.014566584	smoking behavior
+852	Blood Ethylbenzene (ng/mL)	0.014739954	volatile compounds
+853	days 5 drinks in year	0.014787134	alcohol use
+854	PHOSPHORUS_mg	0.014850722	supplement use
+855	Avg # cigarettes/day during past 30 days	0.015109053	smoking behavior
+856	"1,2,3,6,7,8-hxcdd (fg/g)"	0.015254267	dioxins
+857	3-benzo[c] phenanthrene (ng/L)	0.015472399	hydrocarbons
+858	taking_birth_control	0.015588343	pharmaceutical
+859	PFA 20:4 (Eicosatetraenoic) (gm)	0.015977436	food component recall
+860	Oxychlordane (ng/g)	0.016080658	pesticides
+861	days drink in year	0.01615396	alcohol use
+862	Thiamin (Vitamin B1) (mg)	0.016256879	food component recall
+863	Ever use female hormones?	0.016326425	pharmaceutical
+864	pneumonia	0.016384599	immunization
+865	Vitamin E (ug/dL)	0.016534592	nutrients
+866	PFA 18:4 (Octadecatetraenoic) (gm)	0.016603091	food component recall
+867	Magnesium (mg)	0.016711848	food component recall
+868	Mirex (ng/g)	0.016853705	pesticides
+869	"Folate, serum (ng/mL)"	0.016907846	nutrients
+870	Mono-isononyl phthalate	0.016971915	phthalates
+871	PCB170 (ng/g)	0.017052271	pcbs
+872	drink per day	0.017081899	alcohol use
+873	"1,2,3,4,7,8-hcxdf (fg/g)"	0.017126764	furans
+874	Cotinine (ng/mL)	0.017267582	cotinine
+875	"Folate, serum (ng/mL)"	0.017495851	nutrients
+876	Mirex (ng/g)	0.017561642	pesticides
+877	3-benzo[c] phenanthrene (ng/L)	0.017711773	hydrocarbons
+878	Enterolactone (ng/mL)	0.017806444	phytoestrogens
+879	PFA 18:3 (Octadecatrienoic) (gm)	0.018176745	food component recall
+880	PCB195 (ng/g)	0.018246751	pcbs
+881	"Cadmium, urine (ng/mL)"	0.018248154	heavy metals
+882	Ever used cocaine or other street drug	0.018434529	street drug
+883	PCB74 (ng/g)	0.018572366	pcbs
+884	IRON_mg	0.018532716	supplement use
+885	PFA 18:3 (Octadecatrienoic) (gm)	0.018551513	food component recall
+886	Retinyl Stearate (ug/dL)	0.018793945	nutrients
+887	PFA 20:5 (Eicosapentaenoic) (gm)	0.018971782	food component recall
+888	"2,3,7,8-tcdf (fg/g)"	0.018962744	furans
+889	"2,3,7,8-tcdf (fg/g)"	0.018962744	furans
+890	Ever use female hormones?	0.019065305	pharmaceutical
+891	Blood m-/p-Xylene (ng/mL)	0.019047797	volatile compounds
+892	Niacin (mg)	0.019455944	food component recall
+893	3-benzo[c] phenanthrene (ng/L)	0.019519451	hydrocarbons
+894	"Blood 1,1,1-Trichloroethene (ng/ml)"	0.019702976	volatile compounds
+895	MFA 22:1 (Docosenoic) (gm)	0.019830574	food component recall
+896	3-benzo(a) pyrene	0.020047302	hydrocarbons
+897	"Folate, serum (ng/mL)"	0.020619383	nutrients
+898	Ever used cocaine or other street drug	0.020685968	street drug
+899	trans-Nonachlor (ng/g)	0.020910259	pesticides
+900	Blood Trichloroethene (ng/mL)	0.020968013	volatile compounds
+901	"Molybdenum, urine (ng/mL)"	0.021377201	heavy metals
+902	"2,3,4,7,8-pncdf (fg/g)"	0.021405715	furans
+903	Vitamin D (ng/mL)	0.021493206	nutrients
+904	total supplement count	0.02153587	supplement use
+905	"2,3,7,8-tcdd (fg/g)"	0.021482366	dioxins
+906	Retinyl Palmitate (ug/dL)	0.021536451	nutrients
+907	days 5 drinks in year	0.021745607	alcohol use
+908	"2,3,7,8-tcdf (fg/g)"	0.021792632	furans
+909	Ever use female hormones?	0.022001632	pharmaceutical
+910	Hepatitis A Antibody (Anti-HAV)	0.022007282	viral infection
+911	PFA 20:4 (Eicosatetraenoic) (gm)	0.022083347	food component recall
+912	"2,3,7,8-tcdf (fg/g)"	0.022799922	furans
+913	"1,2,3,7,8-pncdd (fg/g)"	0.022859919	dioxins
+914	Heptachlor Epoxide (ng/g)	0.022966009	pesticides
+915	pneumonia	0.022989149	immunization
+916	days drink in year	0.023236677	alcohol use
+917	MAGNESIUM_mg	0.023278366	supplement use
+918	Oxychlordane (ng/g)	0.02336056	pesticides
+919	"Folate, serum (ng/mL)"	0.023614691	nutrients
+920	Mono-isononyl phthalate	0.024004381	phthalates
+921	"Mercury, total (ug/L)"	0.024077729	heavy metals
+922	Beta-cryptoxanthin (mcg)	0.024302315	food component recall
+923	ATENOLOL	0.024437254	pharmaceutical
+924	3-benz[a] anthracene (ng/L)	0.024466163	hydrocarbons
+925	3-benz[a] anthracene (ng/L)	0.024466163	hydrocarbons
+926	Total monounsaturated fatty acids (gm)	0.024854892	food component recall
+927	Enterodiol (ng/mL)	0.025149668	phytoestrogens
+928	PFA 20:5 (Eicosapentaenoic) (gm)	0.025201067	food component recall
+929	SFA 16:0 (Hexadecanoic) (gm)	0.025287586	food component recall
+930	PCB66 (ng/g)	0.025483861	pcbs
+931	PCB118 (ng/g)	0.025756281	pcbs
+932	PFA 22:5 (Docosapentaenoic) (gm)	0.025812876	food component recall
+933	Zinc (mg)	0.025826139	food component recall
+934	SELENIUM_mcg	0.026261457	supplement use
+935	drink 5 in a day	0.026259519	alcohol use
+936	"Folate, serum (ng/mL)"	0.026481688	nutrients
+937	total supplement count	0.02654067	supplement use
+938	Hexachlorobenzene (ng/g)	0.026587335	pesticides
+939	Oxychlordane (ng/g)	0.026649275	pesticides
+940	Smoked at least 100 cigarettes in life	0.026627352	smoking behavior
+941	"Tungsten, urine (ng/mL)"	0.026928083	heavy metals
+942	Current Cigarette Smoker?	0.027013602	smoking behavior
+943	b-Cryptoxanthin (ug/dL)	0.027306859	nutrients
+944	IRON_mg	0.027392908	supplement use
+945	days 5 drinks in year	0.02748139	alcohol use
+946	Blood Trichloroethene (ng/mL)	0.027540302	volatile compounds
+947	O-Desmethylangolensin (O-DMA) (ng/mL)	0.027629639	phytoestrogens
+948	Oxychlordane (ng/g)	0.028285797	pesticides
+949	Oxychlordane (ng/g)	0.028285797	pesticides
+950	Diethyldithiophosphate (ug/L)	0.028578618	diakyl
+951	3-benzo[c] phenanthrene (ng/L)	0.028611006	hydrocarbons
+952	Carbohydrate (gm)	0.028903851	food component recall
+953	Fish eaten during past 30 days	0.02894569	food component recall
+954	Measles	0.029081906	bacterial infection
+955	Fish eaten during past 30 days	0.029201345	food component recall
+956	"Lead, urine (ng/mL)"	0.02943636	heavy metals
+957	VITAMIN_A_IU	0.029406845	supplement use
+958	COPPER_mg	0.029486958	supplement use
+959	Copper (mg)	0.029649049	food component recall
+960	trans-Lycopene (ug/dL)	0.030535345	nutrients
+961	PCB178 (ng/g)	0.030625287	pcbs
+962	Enterodiol (ng/mL)	0.030721523	phytoestrogens
+963	PCB128 (ng/g)	0.030809338	pcbs
+964	Phosphorus (mg)	0.030960016	food component recall
+965	PCB105 (ng/g)	0.031025177	pcbs
+966	"1,2,3,4,6,7,8,9-ocdf (fg/g)"	0.031152821	furans
+967	3-benz[a] anthracene (ng/L)	0.031388766	hydrocarbons
+968	Dimethyldithiophosphate (ug/L)	0.031553878	diakyl
+969	Blood Trichloroethene (ng/mL)	0.031596809	volatile compounds
+970	g-Tocopherol (ug/dL)	0.031900119	nutrients
+971	Caffeine (mg)	0.032463579	food component recall
+972	"Molybdenum, urine (ng/mL)"	0.03254019	heavy metals
+973	"Folate, serum (ng/mL)"	0.032633764	nutrients
+974	Selenium (mcg)	0.032696541	food component recall
+975	2-chrysene	0.032744979	hydrocarbons
+976	2-chrysene	0.032744979	hydrocarbons
+977	taking_birth_control	0.032801187	pharmaceutical
+978	Current Cigarette Smoker?	0.032915573	smoking behavior
+979	Riboflavin (Vitamin B2) (mg)	0.03311259	food component recall
+980	FTC Carbon Monoxide Content	0.033398236	smoking behavior
+981	PFA 20:5 (Eicosapentaenoic) (gm)	0.033377347	food component recall
+982	Mono-(2-ethyl)-hexyl phthalate	0.033570366	phthalates
+983	Cotinine (ng/mL)	0.033624109	cotinine
+984	MFA 18:1 (Octadecenoic) (gm)	0.033833738	food component recall
+985	number of days since quit	0.033828214	smoking behavior
+986	Tuna eaten during past 30 days	0.033918636	food component recall
+987	Mono-isononyl phthalate	0.033991013	phthalates
+988	LISINOPRIL	0.034026149	pharmaceutical
+989	Lead (ug/dL)	0.034588066	heavy metals
+990	2-phenanthrene (ng/L)	0.035017592	hydrocarbons
+991	smell_tobacco	0.0351064	occupation
+992	"Mercury, urine (ng/mL)"	0.035162173	heavy metals
+993	smell_tobacco	0.035517618	occupation
+994	Blood Trichloroethene (ng/mL)	0.035498486	volatile compounds
+995	drink 5 in a day	0.035659261	alcohol use
+996	Mirex (ng/g)	0.035952246	pesticides
+997	Mirex (ng/g)	0.035952246	pesticides
+998	Mono-(2-ethyl)-hexyl phthalate	0.036474053	phthalates
+999	Vitamin A (ug/dL)	0.036752787	nutrients
+1000	"Folate, serum (ng/mL)"	0.037228465	nutrients
+1001	Equol (ng/mL)	0.037246444	phytoestrogens
+1002	Alpha-carotene (mcg)	0.037760618	food component recall
+1003	"Blood 1,1,1-Trichloroethene (ng/ml)"	0.038023834	volatile compounds
+1004	3-benzo[c] phenanthrene (ng/L)	0.03820388	hydrocarbons
+1005	Smoked a pipe at least 20 times in life	0.039190273	smoking behavior
+1006	Smoked a pipe at least 20 times in life	0.039395101	smoking behavior
+1007	days 5 drinks in year	0.039439714	alcohol use
+1008	PFA 18:4 (Octadecatetraenoic) (gm)	0.039692235	food component recall
+1009	SFA 18:0 (Octadecanoic) (gm)	0.039876174	food component recall
+1010	days drink in year	0.039801952	alcohol use
+1011	IRON_mg	0.039837676	supplement use
+1012	total supplement count	0.040006087	supplement use
+1013	how_long_estrogen	0.040708324	pharmaceutical
+1014	MAGNESIUM_mg	0.040675194	supplement use
+1015	Doctor ever told you had genital warts	0.040835897	viral infection
+1016	"1,2,3,4,6,7,8,9-ocdf (fg/g)"	0.040882861	furans
+1017	3-benzo(a) pyrene	0.041303147	hydrocarbons
+1018	Vitamin C (mg)	0.041303163	food component recall
+1019	PCB183 (ng/g)	0.041264625	pcbs
+1020	Used DepoProvera or injectables?	0.04138285	pharmaceutical
+1021	3-fluorene (ng/L)	0.041744887	hydrocarbons
+1022	PCB177 (ng/g)	0.041945816	pcbs
+1023	cis-Beta carotene (ug/dL)	0.042059174	nutrients
+1024	Calcium (mg)	0.042375863	food component recall
+1025	PCB187 (ng/g)	0.042403485	pcbs
+1026	COPPER_mg	0.043355619	supplement use
+1027	DSDCOUNT	0.043432855	supplement use
+1028	PCB180 (ng/g)	0.044247193	pcbs
+1029	Retinyl Stearate (ug/dL)	0.044278777	nutrients
+1030	days 5 drinks in year	0.044427598	alcohol use
+1031	PFA 20:5 (Eicosapentaenoic) (gm)	0.044592588	food component recall
+1032	SELENIUM_mcg	0.044607768	supplement use
+1033	2-phenanthrene (ng/L)	0.044716603	hydrocarbons
+1034	2-phenanthrene (ng/L)	0.044716603	hydrocarbons
+1035	Cadmium (ug/L)	0.04496603	heavy metals
+1036	"3,3',4,4',5,5'-hxcb (fg/g)"	0.044909442	pcbs
+1037	"p,p'-DDE (ng/g)"	0.044933957	pesticides
+1038	PCB178 (ng/g)	0.045051112	pcbs
+1039	#days used street drugs over past year	0.045654874	street drug
+1040	Breaded fish products eaten past 30 days	0.046308069	food component recall
+1041	Potassium (mg)	0.046634287	food component recall
+1042	PCB183 (ng/g)	0.046694847	pcbs
+1043	Potassium (mg)	0.047430316	food component recall
+1044	MFA 22:1 (Docosenoic) (gm)	0.047648949	food component recall
+1045	"Tungsten, urine (ng/mL)"	0.047725399	heavy metals
+1046	Dimethylthiophosphate (ug/L)	0.048552258	diakyl
+1047	Oxychlordane (ng/g)	0.048652615	pesticides
+1048	3-benzo(a) pyrene	0.048774045	hydrocarbons
+1049	PCB187 (ng/g)	0.048837234	pcbs
+1050	Age last smoked cigarettes regularly	0.049104149	smoking behavior
+1051	2-chrysene	0.04921998	hydrocarbons
+1052	how_long_estrogen	0.049338666	pharmaceutical
+1053	use water treatment	0.049309423	housing
+1054	PCB183 (ng/g)	0.049676084	pcbs
+1055	Niacin (mg)	0.050536381	food component recall
+1056	"1,2,3,4,6,7,8-hpcdd (fg/g)"	0.050771318	dioxins
+1057	"Cobalt, urine (ng/mL)"	0.051480328	heavy metals
+1058	Age last smoked cigarettes regularly	0.051533264	smoking behavior
+1059	"1,2,3,4,7,8-hxcdd (fg/g)"	0.052069116	dioxins
+1060	SELENIUM_mcg	0.052194166	supplement use
+1061	Blood Dibromochloromethane (pg/mL)	0.052511764	volatile compounds
+1062	Mirex (ng/g)	0.052551368	pesticides
+1063	"Cadmium, urine (ng/mL)"	0.0527397	heavy metals
+1064	Protein (gm)	0.052937531	food component recall
+1065	Measles	0.053231901	bacterial infection
+1066	2-fluorene (ng/L)	0.053966522	hydrocarbons
+1067	Vitamin E (ug/dL)	0.054289561	nutrients
+1068	g-Tocopherol (ug/dL)	0.054255573	nutrients
+1069	num_months_longest_job	0.05472926	occupation
+1070	Caffeine (mg)	0.055199728	food component recall
+1071	"1,2,3,4,7,8-hcxdf (fg/g)"	0.055871294	furans
+1072	num_months_longest_job	0.056052523	occupation
+1073	"Folate, serum (ng/mL)"	0.056037103	nutrients
+1074	Mono-(2-ethyl)-hexyl phthalate	0.056228903	phthalates
+1075	drink per day	0.056199987	alcohol use
+1076	Cholesterol (mg)	0.056623255	food component recall
+1077	PCB153 (ng/g)	0.056982874	pcbs
+1078	PCB170 (ng/g)	0.056902727	pcbs
+1079	"Cesium, urine (ng/mL)"	0.05698416	heavy metals
+1080	"1,2,3,7,8-pncdf (fg/g)"	0.057109028	furans
+1081	PFA 20:5 (Eicosapentaenoic) (gm)	0.057104849	food component recall
+1082	"p,p'-DDE (ng/g)"	0.057292233	pesticides
+1083	"2,3,7,8-tcdf (fg/g)"	0.057316929	furans
+1084	Diethylthiophosphate (ug/L)	0.057965018	diakyl
+1085	"Cesium, urine (ng/mL)"	0.058106948	heavy metals
+1086	Smoked a pipe at least 20 times in life	0.058358945	smoking behavior
+1087	Dimethylthiophosphate (ug/L)	0.058450156	diakyl
+1088	COPPER_mg	0.058692683	supplement use
+1089	PCB128 (ng/g)	0.058916573	pcbs
+1090	PCB180 (ng/g)	0.059306589	pcbs
+1091	SELENIUM_mcg	0.059582443	supplement use
+1092	PCB101 (ng/g)	0.059612202	pcbs
+1093	Shellfish eaten during past 30 days	0.060076029	food component recall
+1094	Blood Benzene (ng/mL)	0.060030242	volatile compounds
+1095	PCB194 (ng/g)	0.060325589	pcbs
+1096	POTASSIUM_mg	0.060273833	supplement use
+1097	Potassium (mg)	0.060194843	food component recall
+1098	"Mercury, total (ug/L)"	0.060306408	heavy metals
+1099	Does anyone smoke in home?	0.060779199	smoking family
+1100	"Cesium, urine (ng/mL)"	0.060908802	heavy metals
+1101	Calcium (mg)	0.060955352	food component recall
+1102	MAGNESIUM_mg	0.061610038	supplement use
+1103	PFA 22:6 (Docosahexaenoic) (gm)	0.062025172	food component recall
+1104	Salmon eaten during past 30 days	0.062212481	food component recall
+1105	trans-Nonachlor (ng/g)	0.063040012	pesticides
+1106	"p,p'-DDE (ng/g)"	0.064236999	pesticides
+1107	SFA 14:0 (Tetradecanoic) (gm)	0.064798294	food component recall
+1108	Mono-isononyl phthalate	0.065048141	phthalates
+1109	Carbohydrate (gm)	0.065241616	food component recall
+1110	MFA 22:1 (Docosenoic) (gm)	0.06529111	food component recall
+1111	Riboflavin (Vitamin B2) (mg)	0.065161334	food component recall
+1112	MFA 22:1 (Docosenoic) (gm)	0.065274909	food component recall
+1113	Ever use female hormones?	0.065378844	pharmaceutical
+1114	Ever use female hormones?	0.066187341	pharmaceutical
+1115	"Mercury, total (ug/L)"	0.066725855	heavy metals
+1116	VITAMIN_A_IU	0.067326333	supplement use
+1117	"Cobalt, urine (ng/mL)"	0.067357421	heavy metals
+1118	Dimethylthiophosphate (ug/L)	0.067652055	diakyl
+1119	PCB146 (ng/g)	0.067817898	pcbs
+1120	#days used street drugs over past year	0.06957122	street drug
+1121	# of times catfish eaten in past 30 days	0.069868203	food component recall
+1122	PCB153 (ng/g)	0.070538608	pcbs
+1123	"Cadmium, urine (ng/mL)"	0.070928605	heavy metals
+1124	"2,3,7,8-tcdf (fg/g)"	0.071563693	furans
+1125	VITAMIN_A_IU	0.071542429	supplement use
+1126	Mono-cyclohexyl phthalate	0.071459006	phthalates
+1127	PFA 22:6 (Docosahexaenoic) (gm)	0.071407463	food component recall
+1128	PCB153 (ng/g)	0.071888367	pcbs
+1129	PCB153 (ng/g)	0.072606297	pcbs
+1130	PFA 20:5 (Eicosapentaenoic) (gm)	0.072601124	food component recall
+1131	num_months_longest_job	0.073585828	occupation
+1132	PCB146 (ng/g)	0.074363891	pcbs
+1133	Blood Trichloroethene (ng/mL)	0.074593075	volatile compounds
+1134	Alcohol (gm)	0.07470021	food component recall
+1135	"1,2,3,4,7,8-hcxdf (fg/g)"	0.074881292	furans
+1136	Blood m-/p-Xylene (ng/mL)	0.075809035	volatile compounds
+1137	2-benzo[c] phenanthrene (ng/L)	0.076007241	hydrocarbons
+1138	Measles	0.07647314	bacterial infection
+1139	PCB52 (ng/g)	0.076609553	pcbs
+1140	Toxoplasma (IgG)	0.07686315	bacterial infection
+1141	Do you now smoke cigarettes...	0.07680456	smoking behavior
+1142	"1,2,3,7,8,9-hxcdf (fg/g)"	0.077254503	furans
+1143	"1,2,3,7,8,9-hxcdf (fg/g)"	0.077254503	furans
+1144	Diethyldithiophosphate (ug/L)	0.077639457	diakyl
+1145	Shellfish eaten during past 30 days	0.078225522	food component recall
+1146	6-chrysene (ng/L)	0.078192067	hydrocarbons
+1147	6-chrysene (ng/L)	0.078192067	hydrocarbons
+1148	Cadmium (ug/L)	0.078228032	heavy metals
+1149	PCB187 (ng/g)	0.078046726	pcbs
+1150	"Uranium, urine (ng/mL)"	0.078680862	heavy metals
+1151	PCB138 (ng/g)	0.079669053	pcbs
+1152	"Cobalt, urine (ng/mL)"	0.079644258	heavy metals
+1153	Total sugars (gm)	0.079778573	food component recall
+1154	3-benzo[c] phenanthrene (ng/L)	0.080243222	hydrocarbons
+1155	MFA 22:1 (Docosenoic) (gm)	0.080404621	food component recall
+1156	PCB99 (ng/g)	0.080710145	pcbs
+1157	VITAMIN_B_12_mcg	0.081369276	supplement use
+1158	Age last smoked cigarettes regularly	0.081636824	smoking behavior
+1159	Vitamin E as alpha-tocopherol (mg)	0.082139977	food component recall
+1160	PCB128 (ng/g)	0.083130753	pcbs
+1161	Vitamin B6 (mg)	0.083542889	food component recall
+1162	"2,3,4,7,8-pncdf (fg/g)"	0.084129036	furans
+1163	days drink in year	0.084213972	alcohol use
+1164	2-benzo[c] phenanthrene (ng/L)	0.084554426	hydrocarbons
+1165	Blood Trichloroethene (ng/mL)	0.084578985	volatile compounds
+1166	MFA 22:1 (Docosenoic) (gm)	0.084708608	food component recall
+1167	"Thallium, urine (ng/mL)"	0.084896213	heavy metals
+1168	PCB170 (ng/g)	0.085250546	pcbs
+1169	smell_tobacco	0.085738177	occupation
+1170	Age last smoked cigarettes regularly	0.08633883	smoking behavior
+1171	Mirex (ng/g)	0.087001664	pesticides
+1172	Equol (ng/mL)	0.087879263	phytoestrogens
+1173	"Cobalt, urine (ng/mL)"	0.08804909	heavy metals
+1174	Hepatitis B Surface Antibody	0.088412199	viral infection
+1175	Rubella International Units	0.088673007	bacterial infection
+1176	drink per day	0.088844961	alcohol use
+1177	PCB99 (ng/g)	0.089120761	pcbs
+1178	drink per day	0.089157547	alcohol use
+1179	PCB153 (ng/g)	0.089267152	pcbs
+1180	Total polyunsaturated fatty acids (gm)	0.090462245	food component recall
+1181	LISINOPRIL	0.090653524	pharmaceutical
+1182	Scallops eaten during past 30 days	0.091548906	food component recall
+1183	Phosphorus (mg)	0.091842968	food component recall
+1184	"2,3,4,6,7,8-hxcdf (fg/g)"	0.092093257	furans
+1185	# of times shrimp eaten in past 30 days	0.093296822	food component recall
+1186	Blood Chloroform (pg/mL)	0.093402361	volatile compounds
+1187	Dimethyldithiophosphate (ug/L)	0.094151556	diakyl
+1188	VITAMIN_B_6_mg	0.094853698	supplement use
+1189	Energy (kcal)	0.09522333	food component recall
+1190	"2,3,4,7,8-pncdf (fg/g)"	0.095910867	furans
+1191	"1,2,3,7,8-pncdf (fg/g)"	0.096295004	furans
+1192	"1,2,3,6,7,8-hxcdd (fg/g)"	0.097278403	dioxins
+1193	"Molybdenum, urine (ng/mL)"	0.098264899	heavy metals
+1194	Fish eaten during past 30 days	0.098200372	food component recall
+1195	PFA 18:2 (Octadecadienoic) (gm)	0.09866608	food component recall
+1196	PCB177 (ng/g)	0.098920432	pcbs
+1197	MFA 20:1 (Eicosenoic) (gm)	0.098948833	food component recall
+1198	MAGNESIUM_mg	0.099554684	supplement use
+1199	taking_birth_control	0.09970424	pharmaceutical
+1200	Diethylphosphate (ug/L)	0.100286388	diakyl
+1201	trans-Beta carotene (ug/dL)	0.100337475	nutrients
+1202	Smoked a pipe at least 20 times in life	0.100683823	smoking behavior
+1203	Toxoplasma (IgG)	0.100963454	bacterial infection
+1204	Mono-isononyl phthalate	0.101000296	phthalates
+1205	Current Cigarette Smoker?	0.101156476	smoking behavior
+1206	PCB138 (ng/g)	0.10125291	pcbs
+1207	2-benzo[c] phenanthrene (ng/L)	0.102422805	hydrocarbons
+1208	# of times salmon eaten in past 30 days	0.102830077	food component recall
+1209	Are you circumcised or uncircumcised	0.103432086	sexual behavior
+1210	"Barium, urine (ng/mL)"	0.103595918	heavy metals
+1211	Blood Trichloroethene (ng/mL)	0.103826809	volatile compounds
+1212	Retinyl Palmitate (ug/dL)	0.104254939	nutrients
+1213	ever_loud_noise_gt3_2	0.104426292	occupation
+1214	Ever use female hormones?	0.107628804	pharmaceutical
+1215	Dimethylthiophosphate (ug/L)	0.107934508	diakyl
+1216	Mono-benzyl phthalate	0.107873424	phthalates
+1217	Iron (mg)	0.109860987	food component recall
+1218	trans-Nonachlor (ng/g)	0.110385461	pesticides
+1219	"2,3,4,6,7,8-hxcdf (fg/g)"	0.111847001	furans
+1220	"Uranium, urine (ng/mL)"	0.112599939	heavy metals
+1221	"1,2,3,6,7,8-hxcdf (fg/g)"	0.112588421	furans
+1222	PFA 20:4 (Eicosatetraenoic) (gm)	0.112906875	food component recall
+1223	PFA 20:4 (Eicosatetraenoic) (gm)	0.114372162	food component recall
+1224	2-benzo[c] phenanthrene (ng/L)	0.114327711	hydrocarbons
+1225	PCB183 (ng/g)	0.115413829	pcbs
+1226	"Platinum, urine (ng/mL)"	0.115935496	heavy metals
+1227	Beta-hexachlorocyclohexane (ng/g)	0.116010367	pesticides
+1228	Blood Styrene (ng/mL)	0.117396584	volatile compounds
+1229	"Cadmium, urine (ng/mL)"	0.117874905	heavy metals
+1230	Used chewing tobacco 20 times in life	0.117793519	smoking behavior
+1231	PFA 22:6 (Docosahexaenoic) (gm)	0.117865577	food component recall
+1232	"2,3,4,6,7,8-hxcdf (fg/g)"	0.118489067	furans
+1233	Rubella International Units	0.119073005	bacterial infection
+1234	Calcium (mg)	0.119856366	food component recall
+1235	3-benzo(a) pyrene	0.120084929	hydrocarbons
+1236	Blood o-Xylene (ng/mL)	0.120334692	volatile compounds
+1237	IRON_mg	0.120509626	supplement use
+1238	"1,2,3,4,7,8-hxcdd (fg/g)"	0.120612486	dioxins
+1239	Mono-isononyl phthalate	0.120798557	phthalates
+1240	SELENIUM_mcg	0.120715976	supplement use
+1241	Alcohol (gm)	0.121680383	food component recall
+1242	MAGNESIUM_mg	0.12190282	supplement use
+1243	"Mercury, Inorganic (ug/L)"	0.123090985	heavy metals
+1244	Blood Chloroform (pg/mL)	0.123335055	volatile compounds
+1245	Mirex (ng/g)	0.124035332	pesticides
+1246	Doctor ever told you had genital warts	0.124037443	viral infection
+1247	PCB66 (ng/g)	0.12413058	pcbs
+1248	PCB196 (ng/g)	0.124611124	pcbs
+1249	first_degree_support	0.125477316	social support
+1250	"1,2,3,7,8-pncdf (fg/g)"	0.126053058	furans
+1251	Current Cigarette Smoker?	0.126093899	smoking behavior
+1252	Iron (mg)	0.126245869	food component recall
+1253	Blood Trichloroethene (ng/mL)	0.12663437	volatile compounds
+1254	Cadmium (ug/L)	0.12849684	heavy metals
+1255	Varicella	0.128929498	bacterial infection
+1256	Mirex (ng/g)	0.129435717	pesticides
+1257	Enterolactone (ng/mL)	0.131355632	phytoestrogens
+1258	MAGNESIUM_mg	0.131352964	supplement use
+1259	Used chewing tobacco 20 times in life	0.131748178	smoking behavior
+1260	Used chewing tobacco 20 times in life	0.131983299	smoking behavior
+1261	Blood Styrene (ng/mL)	0.132208559	volatile compounds
+1262	Blood Trichloroethene (ng/mL)	0.132658873	volatile compounds
+1263	Equol (ng/mL)	0.132885731	phytoestrogens
+1264	FOLIC_ACID_mcg	0.133263834	supplement use
+1265	2-benzo[c] phenanthrene (ng/L)	0.134291525	hydrocarbons
+1266	Endrin (ng/g)	0.136062333	pesticides
+1267	Diethylphosphate (ug/L)	0.136231797	diakyl
+1268	"Cesium, urine (ng/mL)"	0.13658547	heavy metals
+1269	PCB187 (ng/g)	0.136533851	pcbs
+1270	"1,2,3,7,8-pncdd (fg/g)"	0.138084234	dioxins
+1271	"Cadmium, urine (ng/mL)"	0.138310613	heavy metals
+1272	PCB178 (ng/g)	0.139918788	pcbs
+1273	years in house	0.140160353	housing
+1274	"Folate, serum (ng/mL)"	0.140286337	nutrients
+1275	PCB146 (ng/g)	0.140434427	pcbs
+1276	PCB138 (ng/g)	0.141078241	pcbs
+1277	Herpes II	0.14157878	viral infection
+1278	Age last smoked cigarettes regularly	0.142298481	smoking behavior
+1279	Thiamin (Vitamin B1) (mg)	0.143301846	food component recall
+1280	Mirex (ng/g)	0.143525906	pesticides
+1281	PCB157 (ng/g)	0.143977613	pcbs
+1282	Do you now smoke cigarettes...	0.14403218	smoking behavior
+1283	Rubella International Units	0.145742016	bacterial infection
+1284	"1,2,3,4,6,7,8-hpcdf (fg/g)"	0.146071181	furans
+1285	PCB180 (ng/g)	0.14674254	pcbs
+1286	PFA 18:3 (Octadecatrienoic) (gm)	0.146992632	food component recall
+1287	Do you now smoke cigarettes...	0.147281679	smoking behavior
+1288	"Uranium, urine (ng/mL)"	0.147585478	heavy metals
+1289	PCB187 (ng/g)	0.148543335	pcbs
+1290	VITAMIN_C_mg	0.149270487	supplement use
+1291	Blood Trichloroethene (ng/mL)	0.151471737	volatile compounds
+1292	"Beryllium, urine (ng/mL)"	0.153346471	heavy metals
+1293	Does anyone smoke in home?	0.153673998	smoking family
+1294	Smoked a pipe at least 20 times in life	0.154932145	smoking behavior
+1295	# of times other fish eaten past 30 days	0.1548987	food component recall
+1296	first_degree_support	0.156466056	social support
+1297	Vitamin B12 (mcg)	0.157536324	food component recall
+1298	PCB156 (ng/g)	0.15839922	pcbs
+1299	Ever use female hormones?	0.158471319	pharmaceutical
+1300	PCB105 (ng/g)	0.158611198	pcbs
+1301	"1,2,3,4,7,8,9-hpcdf (fg/g)"	0.159382513	furans
+1302	"Blood 1,1,1-Trichloroethene (ng/ml)"	0.159993475	volatile compounds
+1303	Blood Chloroform (pg/mL)	0.1635003	volatile compounds
+1304	2-benzo[c] phenanthrene (ng/L)	0.164908346	hydrocarbons
+1305	Dimethylthiophosphate (ug/L)	0.166030944	diakyl
+1306	MFA 22:1 (Docosenoic) (gm)	0.167312744	food component recall
+1307	"Lead, urine (ng/mL)"	0.167629302	heavy metals
+1308	Mirex (ng/g)	0.168576876	pesticides
+1309	Copper (mg)	0.170731813	food component recall
+1310	Mono-benzyl phthalate	0.171468744	phthalates
+1311	Mono-n-butyl phthalate	0.171645194	phthalates
+1312	PCB167 (ng/g)	0.172007562	pcbs
+1313	Dimethyldithiophosphate (ug/L)	0.172725005	diakyl
+1314	"p,p'-DDE (ng/g)"	0.17306606	pesticides
+1315	PCB153 (ng/g)	0.173149918	pcbs
+1316	Blood Trichloroethene (ng/mL)	0.174494977	volatile compounds
+1317	2-benzo[c] phenanthrene (ng/L)	0.175812567	hydrocarbons
+1318	# of times shrimp eaten in past 30 days	0.177704046	food component recall
+1319	"Cadmium, urine (ng/mL)"	0.177645438	heavy metals
+1320	Mirex (ng/g)	0.17763574	pesticides
+1321	"Vitamin A, RAE (mcg)"	0.178748871	food component recall
+1322	Blood Trichloroethene (ng/mL)	0.179023165	volatile compounds
+1323	PCB118 (ng/g)	0.180688138	pcbs
+1324	"Folate, serum (ng/mL)"	0.181043013	nutrients
+1325	Lead (ug/dL)	0.182059986	heavy metals
+1326	PCB74 (ng/g)	0.183087746	pcbs
+1327	Total saturated fatty acids (gm)	0.183687951	food component recall
+1328	PCB178 (ng/g)	0.184675601	pcbs
+1329	Measles	0.184875894	bacterial infection
+1330	Ever use female hormones?	0.185166952	pharmaceutical
+1331	Mono-ethyl phthalate	0.185324515	phthalates
+1332	Mirex (ng/g)	0.187161094	pesticides
+1333	Mirex (ng/g)	0.187558917	pesticides
+1334	"Blood 1,1,1-Trichloroethene (ng/ml)"	0.188296966	volatile compounds
+1335	PCB138 (ng/g)	0.188435301	pcbs
+1336	"1,2,3,7,8-pncdf (fg/g)"	0.190705279	furans
+1337	Dimethylthiophosphate (ug/L)	0.19217772	diakyl
+1338	PCB167 (ng/g)	0.19343901	pcbs
+1339	Measles	0.19453455	bacterial infection
+1340	2-phenanthrene (ng/L)	0.194862965	hydrocarbons
+1341	"Antimony, urine (ng/mL)"	0.195358846	heavy metals
+1342	PCB167 (ng/g)	0.196177555	pcbs
+1343	Does anyone smoke in home?	0.197443592	smoking family
+1344	PCB183 (ng/g)	0.197308424	pcbs
+1345	Herpes I	0.198132135	viral infection
+1346	"Lead, urine (ng/mL)"	0.199111933	heavy metals
+1347	# cigarettes smoked per day now	0.19937491	smoking behavior
+1348	"Platinum, urine (ng/mL)"	0.201219371	heavy metals
+1349	PCB172 (ng/g)	0.201142497	pcbs
+1350	Dimethylthiophosphate (ug/L)	0.202127144	diakyl
+1351	Dimethylthiophosphate (ug/L)	0.203659233	diakyl
+1352	Cholesterol (mg)	0.204936643	food component recall
+1353	Are you circumcised or uncircumcised	0.205606115	sexual behavior
+1354	trans-Nonachlor (ng/g)	0.205398528	pesticides
+1355	Blood Trichloroethene (ng/mL)	0.205445714	volatile compounds
+1356	Calcium (mg)	0.205709555	food component recall
+1357	Catfish eaten during past 30 days	0.207205041	food component recall
+1358	PCB187 (ng/g)	0.207316021	pcbs
+1359	Enterolactone (ng/mL)	0.207536709	phytoestrogens
+1360	Equol (ng/mL)	0.208231408	phytoestrogens
+1361	PCB146 (ng/g)	0.20976002	pcbs
+1362	VITAMIN_B_6_mg	0.210631951	supplement use
+1363	number of days since quit	0.21210902	smoking behavior
+1364	Blood Carbon Tetrachloride (ng/mL)	0.212204255	volatile compounds
+1365	IRON_mg	0.213845716	supplement use
+1366	Other fish eaten during past 30 days	0.21435568	food component recall
+1367	# of times salmon eaten in past 30 days	0.215526207	food component recall
+1368	PCB177 (ng/g)	0.215831094	pcbs
+1369	2-phenanthrene (ng/L)	0.216086859	hydrocarbons
+1370	Current Cigarette Smoker?	0.216462589	smoking behavior
+1371	taking_birth_control	0.216616654	pharmaceutical
+1372	VITAMIN_C_mg	0.216975444	supplement use
+1373	PCB170 (ng/g)	0.217441413	pcbs
+1374	"3,3',4,4',5,5'-hxcb (fg/g)"	0.217341547	pcbs
+1375	PCB178 (ng/g)	0.218262468	pcbs
+1376	Hexachlorobenzene (ng/g)	0.219049553	pesticides
+1377	Total monounsaturated fatty acids (gm)	0.220205445	food component recall
+1378	"p,p'-DDE (ng/g)"	0.221304692	pesticides
+1379	2-benzo[c] phenanthrene (ng/L)	0.222718816	hydrocarbons
+1380	Blood Toluene (ng/mL)	0.224900962	volatile compounds
+1381	Diethyldithiophosphate (ug/L)	0.22738829	diakyl
+1382	Zinc (mg)	0.227466717	food component recall
+1383	1-pyrene (ng/L)	0.228682328	hydrocarbons
+1384	PCB153 (ng/g)	0.228593634	pcbs
+1385	2-benzo[c] phenanthrene (ng/L)	0.230007323	hydrocarbons
+1386	Blood Toluene (ng/mL)	0.23029365	volatile compounds
+1387	Dimethylthiophosphate (ug/L)	0.230784349	diakyl
+1388	"Cobalt, urine (ng/mL)"	0.231137458	heavy metals
+1389	Blood Trichloroethene (ng/mL)	0.233569867	volatile compounds
+1390	# of times catfish eaten in past 30 days	0.234420097	food component recall
+1391	3-phenanthrene (ng/L)	0.234418993	hydrocarbons
+1392	Mono-n-octyl phthalate	0.23514597	phthalates
+1393	MFA 22:1 (Docosenoic) (gm)	0.237963736	food component recall
+1394	Retinol (mcg)	0.23812278	food component recall
+1395	first_degree_support	0.238498873	social support
+1396	# days smoked cigs during past 30 days	0.240135817	smoking behavior
+1397	MFA 18:1 (Octadecenoic) (gm)	0.241473795	food component recall
+1398	COPPER_mg	0.241853931	supplement use
+1399	"1,2,3,7,8-pncdf (fg/g)"	0.241955687	furans
+1400	"Antimony, urine (ng/mL)"	0.241766173	heavy metals
+1401	"Mercury, Inorganic (ug/L)"	0.242327681	heavy metals
+1402	PCB206 (ng/g)	0.243165301	pcbs
+1403	Mono-isononyl phthalate	0.24288725	phthalates
+1404	"Antimony, urine (ng/mL)"	0.243304383	heavy metals
+1405	"1,2,3,6,7,8-hxcdd (fg/g)"	0.242966055	dioxins
+1406	Lobsters eaten during past 30 days	0.244064565	food component recall
+1407	PCB118 (ng/g)	0.244181686	pcbs
+1408	PCB66 (ng/g)	0.24568978	pcbs
+1409	"Uranium, urine (ng/mL)"	0.24622741	heavy metals
+1410	Dimethylthiophosphate (ug/L)	0.246637783	diakyl
+1411	Carbohydrate (gm)	0.246623168	food component recall
+1412	Herpes I	0.247111812	viral infection
+1413	Dimethyldithiophosphate (ug/L)	0.249070678	diakyl
+1414	Are you circumcised or uncircumcised	0.250833635	sexual behavior
+1415	PFA 20:5 (Eicosapentaenoic) (gm)	0.251838562	food component recall
+1416	Cotinine (ng/mL)	0.25332295	cotinine
+1417	Vitamin B6 (mg)	0.253667384	food component recall
+1418	# of times shrimp eaten in past 30 days	0.254042855	food component recall
+1419	Total monounsaturated fatty acids (gm)	0.253918511	food component recall
+1420	MFA 22:1 (Docosenoic) (gm)	0.254574533	food component recall
+1421	Blood Chloroform (pg/mL)	0.257123804	volatile compounds
+1422	PFA 18:2 (Octadecadienoic) (gm)	0.257122422	food component recall
+1423	Avg # cigarettes/day during past 30 days	0.257845838	smoking behavior
+1424	Dimethylthiophosphate (ug/L)	0.259297416	diakyl
+1425	Blood Trichloroethene (ng/mL)	0.260010148	volatile compounds
+1426	# of times catfish eaten in past 30 days	0.25998242	food component recall
+1427	days drink in year	0.260594876	alcohol use
+1428	Blood Trichloroethene (ng/mL)	0.260418225	volatile compounds
+1429	Salmon eaten during past 30 days	0.263054208	food component recall
+1430	MFA 20:1 (Eicosenoic) (gm)	0.263332269	food component recall
+1431	use water treatment	0.264070729	housing
+1432	Mono-isononyl phthalate	0.264464936	phthalates
+1433	MFA 20:1 (Eicosenoic) (gm)	0.264759815	food component recall
+1434	PCB99 (ng/g)	0.26499074	pcbs
+1435	PCB157 (ng/g)	0.268952719	pcbs
+1436	2-benzo[c] phenanthrene (ng/L)	0.269887428	hydrocarbons
+1437	Water Bromoform (ng/mL)	0.270166597	volatile compounds
+1438	"Mercury, Inorganic (ug/L)"	0.27033104	heavy metals
+1439	PCB170 (ng/g)	0.270575305	pcbs
+1440	Blood Bromoform (pg/mL)	0.27183648	volatile compounds
+1441	Total polyunsaturated fatty acids (gm)	0.272311461	food component recall
+1442	Mirex (ng/g)	0.273390099	pesticides
+1443	Equol (ng/mL)	0.273906237	phytoestrogens
+1444	2-benzo[c] phenanthrene (ng/L)	0.275637308	hydrocarbons
+1445	years in house	0.277290172	housing
+1446	"1,2,3,4,7,8-hcxdf (fg/g)"	0.277191717	furans
+1447	MFA 18:1 (Octadecenoic) (gm)	0.279213617	food component recall
+1448	days drink in year	0.282170999	alcohol use
+1449	pneumonia	0.282386156	immunization
+1450	Beta-hexachlorocyclohexane (ng/g)	0.283474939	pesticides
+1451	SFA 16:0 (Hexadecanoic) (gm)	0.285253009	food component recall
+1452	MFA 16:1 (Hexadecenoic) (gm)	0.28826231	food component recall
+1453	Mirex (ng/g)	0.289212681	pesticides
+1454	PCB189 (ng/g)	0.291555142	pcbs
+1455	PCB172 (ng/g)	0.295721347	pcbs
+1456	Measles	0.296009719	bacterial infection
+1457	Vitamin A (ug/dL)	0.296337833	nutrients
+1458	"p,p'-DDE (ng/g)"	0.296617214	pesticides
+1459	PCB178 (ng/g)	0.299717459	pcbs
+1460	Ever used cocaine or other street drug	0.30021837	street drug
+1461	Blood Bromoform (pg/mL)	0.302178473	volatile compounds
+1462	PCB156 (ng/g)	0.302222166	pcbs
+1463	PCB180 (ng/g)	0.303016756	pcbs
+1464	Dimethyldithiophosphate (ug/L)	0.304091578	diakyl
+1465	Mono-isononyl phthalate	0.304422879	phthalates
+1466	"1,2,3,7,8-pncdf (fg/g)"	0.305484685	furans
+1467	Blood Chloroform (pg/mL)	0.307850316	volatile compounds
+1468	Flatfish eaten during past 30 days	0.308301523	food component recall
+1469	"Folate, serum (ng/mL)"	0.3095064	nutrients
+1470	Mono-isononyl phthalate	0.309851716	phthalates
+1471	PCB199 (ng/g)	0.310152545	pcbs
+1472	MFA 22:1 (Docosenoic) (gm)	0.310517763	food component recall
+1473	PCB167 (ng/g)	0.311541857	pcbs
+1474	Calcium (mg)	0.311531616	food component recall
+1475	"1,2,3,7,8-pncdf (fg/g)"	0.316387849	furans
+1476	O-Desmethylangolensin (O-DMA) (ng/mL)	0.316602885	phytoestrogens
+1477	Age last smoked cigarettes regularly	0.317669468	smoking behavior
+1478	Ever used cocaine or other street drug	0.32049409	street drug
+1479	"Folate, serum (ng/mL)"	0.320656949	nutrients
+1480	"1,2,3,7,8,9-hxcdf (fg/g)"	0.321646866	furans
+1481	Mono-n-octyl phthalate	0.325239443	phthalates
+1482	Dimethylthiophosphate (ug/L)	0.325510389	diakyl
+1483	Beta-hexachlorocyclohexane (ng/g)	0.326697731	pesticides
+1484	Are you circumcised or uncircumcised	0.32750077	sexual behavior
+1485	PCB194 (ng/g)	0.328815054	pcbs
+1486	Blood Trichloroethene (ng/mL)	0.33257379	volatile compounds
+1487	MAGNESIUM_mg	0.332375509	supplement use
+1488	Blood Chloroform (pg/mL)	0.335632327	volatile compounds
+1489	3-benzo(a) pyrene	0.336142912	hydrocarbons
+1490	3-chrysene (ng/L)	0.338135752	hydrocarbons
+1491	Ever use female hormones?	0.33881083	pharmaceutical
+1492	Iron (mg)	0.34063728	food component recall
+1493	4-chrysene	0.341507372	hydrocarbons
+1494	Doctor ever told you had genital warts	0.342845247	viral infection
+1495	"1,2,3,7,8,9-hxcdf (fg/g)"	0.344842279	furans
+1496	Diethylphosphate (ug/L)	0.344984079	diakyl
+1497	"1,2,3,4,6,7,8,9-ocdf (fg/g)"	0.345237897	furans
+1498	"Beryllium, urine (ng/mL)"	0.34942482	heavy metals
+1499	Mono-n-butyl phthalate	0.351558575	phthalates
+1500	"p,p'-DDT (ng/g)"	0.352824749	pesticides
+1501	Vitamin C (mg)	0.352665147	food component recall
+1502	3-chrysene (ng/L)	0.355143926	hydrocarbons
+1503	Blood Trichloroethene (ng/mL)	0.355790498	volatile compounds
+1504	trans-Nonachlor (ng/g)	0.359339583	pesticides
+1505	PFA 20:4 (Eicosatetraenoic) (gm)	0.359153806	food component recall
+1506	Blood Styrene (ng/mL)	0.359090177	volatile compounds
+1507	Mirex (ng/g)	0.360110325	pesticides
+1508	Varicella	0.360069761	bacterial infection
+1509	"1,2,3,4,6,7,8,9-ocdd (fg/g)"	0.35976644	dioxins
+1510	PCB52 (ng/g)	0.361411603	pcbs
+1511	"2,3,4,7,8-pncdf (fg/g)"	0.362494228	furans
+1512	PCB66 (ng/g)	0.364214798	pcbs
+1513	Alcohol (gm)	0.367427772	food component recall
+1514	PFA 20:5 (Eicosapentaenoic) (gm)	0.368931608	food component recall
+1515	Diethylphosphate (ug/L)	0.368769234	diakyl
+1516	Hepatitis B core antibody	0.369828418	viral infection
+1517	days drink in year	0.370537225	alcohol use
+1518	MFA 22:1 (Docosenoic) (gm)	0.370508118	food component recall
+1519	Mono-isononyl phthalate	0.371289426	phthalates
+1520	"1,2,3,4,6,7,8-hpcdd (fg/g)"	0.37363411	dioxins
+1521	Vitamin A (ug/dL)	0.374172906	nutrients
+1522	PCB74 (ng/g)	0.374547451	pcbs
+1523	SFA 6:0 (Hexanoic) (gm)	0.374978283	food component recall
+1524	"3,3',4,4',5,5'-hxcb (fg/g)"	0.376097937	pcbs
+1525	# of times salmon eaten in past 30 days	0.375963667	food component recall
+1526	Used chewing tobacco 20 times in life	0.376058994	smoking behavior
+1527	PCB52 (ng/g)	0.376803912	pcbs
+1528	Protein (gm)	0.377557809	food component recall
+1529	"2,3,7,8-tcdf (fg/g)"	0.377839103	furans
+1530	Hepatitis B core antibody	0.379256132	viral infection
+1531	Dimethylthiophosphate (ug/L)	0.381343497	diakyl
+1532	"2,3,7,8-tcdf (fg/g)"	0.381262241	furans
+1533	Water Bromoform (ng/mL)	0.382559522	volatile compounds
+1534	Cholesterol (mg)	0.384317699	food component recall
+1535	3-benz[a] anthracene (ng/L)	0.386304106	hydrocarbons
+1536	3-benzo(a) pyrene	0.387788124	hydrocarbons
+1537	Mono-ethyl phthalate	0.388288852	phthalates
+1538	Mirex (ng/g)	0.38832803	pesticides
+1539	number of days since quit	0.392274525	smoking behavior
+1540	Oysters eaten during past 30 days	0.395141957	food component recall
+1541	"Cesium, urine (ng/mL)"	0.396285186	heavy metals
+1542	Other unknown fish eaten in past 30 days	0.396111473	food component recall
+1543	Hepatitis B core antibody	0.397116676	viral infection
+1544	PCB170 (ng/g)	0.39744773	pcbs
+1545	Mono-isobutyl pthalate	0.397804487	phthalates
+1546	2-benzo[c] phenanthrene (ng/L)	0.398932243	hydrocarbons
+1547	PCB195 (ng/g)	0.399119494	pcbs
+1548	Catfish eaten during past 30 days	0.39949932	food component recall
+1549	POTASSIUM_mg	0.399702921	supplement use
+1550	Toxoplasma (IgG)	0.401321465	bacterial infection
+1551	Blood Chloroform (pg/mL)	0.403041347	volatile compounds
+1552	CALCIUM_mg	0.405743538	supplement use
+1553	# of times crabs eaten in past 30 days	0.407427568	food component recall
+1554	SELENIUM_mcg	0.414078403	supplement use
+1555	Equol (ng/mL)	0.414083705	phytoestrogens
+1556	g-Tocopherol (ug/dL)	0.414154564	nutrients
+1557	PCB180 (ng/g)	0.415108218	pcbs
+1558	POTASSIUM_mg	0.417133636	supplement use
+1559	Mono-n-butyl phthalate	0.418382158	phthalates
+1560	"1,2,3,4,7,8,9-hpcdf (fg/g)"	0.422113849	furans
+1561	Dimethylthiophosphate (ug/L)	0.422021251	diakyl
+1562	Blood Chloroform (pg/mL)	0.423333782	volatile compounds
+1563	Mono-isononyl phthalate	0.424720724	phthalates
+1564	Rubella International Units	0.42472343	bacterial infection
+1565	Blood Chloroform (pg/mL)	0.425431814	volatile compounds
+1566	"2,3,7,8-tcdf (fg/g)"	0.42534459	furans
+1567	PCB167 (ng/g)	0.426100742	pcbs
+1568	MFA 20:1 (Eicosenoic) (gm)	0.426275277	food component recall
+1569	Herpes I	0.427416903	viral infection
+1570	6-chrysene (ng/L)	0.428268419	hydrocarbons
+1571	SFA 4:0 (Butanoic) (gm)	0.428241577	food component recall
+1572	Enterodiol (ng/mL)	0.429696154	phytoestrogens
+1573	Equol (ng/mL)	0.429811195	phytoestrogens
+1574	"2,3,4,6,7,8-hxcdf (fg/g)"	0.430626051	furans
+1575	# of times lobsters eaten past 30 days	0.431584769	food component recall
+1576	"3,3',4,4',5,5'-hxcb (fg/g)"	0.432900468	pcbs
+1577	PCB189 (ng/g)	0.432637888	pcbs
+1578	smell_tobacco	0.433189115	occupation
+1579	PCB170 (ng/g)	0.434507827	pcbs
+1580	Ever used cocaine or other street drug	0.435514973	street drug
+1581	"Vitamin B12, serum (pg/mL)"	0.435984401	nutrients
+1582	"o,p'-DDT (ng/g)"	0.441680727	pesticides
+1583	"Folate, serum (ng/mL)"	0.442792385	nutrients
+1584	Blood Trichloroethene (ng/mL)	0.444178976	volatile compounds
+1585	MFA 20:1 (Eicosenoic) (gm)	0.444496314	food component recall
+1586	2-chrysene	0.44510059	hydrocarbons
+1587	trans-Nonachlor (ng/g)	0.44864072	pesticides
+1588	2-benzo[c] phenanthrene (ng/L)	0.450987431	hydrocarbons
+1589	PCB87 (ng/g)	0.451209215	pcbs
+1590	MFA 22:1 (Docosenoic) (gm)	0.451289688	food component recall
+1591	"Antimony, urine (ng/mL)"	0.456197014	heavy metals
+1592	Vitamin B12 (mcg)	0.456094509	food component recall
+1593	3-benzo[c] phenanthrene (ng/L)	0.456097108	hydrocarbons
+1594	VITAMIN_C_mg	0.457313937	supplement use
+1595	PFA 20:5 (Eicosapentaenoic) (gm)	0.458101746	food component recall
+1596	2-benzo[c] phenanthrene (ng/L)	0.458913102	hydrocarbons
+1597	Blood Chloroform (pg/mL)	0.45968871	volatile compounds
+1598	"2,3,4,6,7,8-hxcdf (fg/g)"	0.460124526	furans
+1599	"2,3,4,6,7,8-hxcdf (fg/g)"	0.460124526	furans
+1600	Smoked a pipe at least 20 times in life	0.459372535	smoking behavior
+1601	MFA 22:1 (Docosenoic) (gm)	0.459046537	food component recall
+1602	"1,2,3,7,8-pncdf (fg/g)"	0.461456385	furans
+1603	PCB157 (ng/g)	0.46148087	pcbs
+1604	# of times catfish eaten in past 30 days	0.462355717	food component recall
+1605	Herpes II	0.46520476	viral infection
+1606	Endrin (ng/g)	0.465725332	pesticides
+1607	2-chrysene	0.466876555	hydrocarbons
+1608	Smoked a pipe at least 20 times in life	0.469926699	smoking behavior
+1609	2-phenanthrene (ng/L)	0.470055638	hydrocarbons
+1610	VITAMIN_A_IU	0.47024019	supplement use
+1611	MFA 22:1 (Docosenoic) (gm)	0.471271921	food component recall
+1612	Current Cigarette Smoker?	0.472300714	smoking behavior
+1613	"1,2,3,4,7,8,9-hpcdf (fg/g)"	0.472784185	furans
+1614	PCB157 (ng/g)	0.474147793	pcbs
+1615	S. aureus present 1	0.476436645	bacterial infection
+1616	Flatfish eaten during past 30 days	0.481927325	food component recall
+1617	"Mercury, Inorganic (ug/L)"	0.483736633	heavy metals
+1618	"Blood 1,1,1-Trichloroethene (ng/ml)"	0.484580113	volatile compounds
+1619	Blood Trichloroethene (ng/mL)	0.485592466	volatile compounds
+1620	Zinc (mg)	0.485425237	food component recall
+1621	"1,2,3,4,7,8,9-hpcdf (fg/g)"	0.486827598	furans
+1622	Blood Trichloroethene (ng/mL)	0.488204842	volatile compounds
+1623	VITAMIN_A_IU	0.48971693	supplement use
+1624	Flatfish eaten during past 30 days	0.491232216	food component recall
+1625	b-Cryptoxanthin (ug/dL)	0.494683505	nutrients
+1626	"1,2,3,7,8-pncdf (fg/g)"	0.494776262	furans
+1627	MFA 22:1 (Docosenoic) (gm)	0.496938383	food component recall
+1628	2-benzo[c] phenanthrene (ng/L)	0.496839539	hydrocarbons
+1629	"1,2,3,6,7,8-hxcdf (fg/g)"	0.498332252	furans
+1630	Rubella International Units	0.499659854	bacterial infection
+1631	PCB195 (ng/g)	0.499734052	pcbs
+1632	how_long_estrogen	0.500084547	pharmaceutical
+1633	SFA 14:0 (Tetradecanoic) (gm)	0.501928007	food component recall
+1634	Blood Chloroform (pg/mL)	0.505516901	volatile compounds
+1635	Blood Trichloroethene (ng/mL)	0.50641927	volatile compounds
+1636	# cigarettes smoked per day when quit	0.507442787	smoking behavior
+1637	Scallops eaten during past 30 days	0.509853167	food component recall
+1638	PCB178 (ng/g)	0.513521988	pcbs
+1639	"1,2,3,4,7,8,9-hpcdf (fg/g)"	0.514055027	furans
+1640	number of days since quit	0.516803753	smoking behavior
+1641	Enterolactone (ng/mL)	0.518841225	phytoestrogens
+1642	days drink in year	0.519406863	alcohol use
+1643	PCB187 (ng/g)	0.519685936	pcbs
+1644	Vitamin B12 (mcg)	0.52315094	food component recall
+1645	Shellfish eaten during past 30 days	0.528655893	food component recall
+1646	3-fluorene (ng/L)	0.531971708	hydrocarbons
+1647	Diethyldithiophosphate (ug/L)	0.532872977	diakyl
+1648	Blood Styrene (ng/mL)	0.533847792	volatile compounds
+1649	2-benzo[c] phenanthrene (ng/L)	0.534994978	hydrocarbons
+1650	"1,2,3,4,7,8-hcxdf (fg/g)"	0.53528782	furans
+1651	Enterolactone (ng/mL)	0.535167607	phytoestrogens
+1652	COPPER_mg	0.535936725	supplement use
+1653	4-chrysene	0.536663866	hydrocarbons
+1654	taking_birth_control	0.538055867	pharmaceutical
+1655	Diethyldithiophosphate (ug/L)	0.541172041	diakyl
+1656	Blood Chloroform (pg/mL)	0.542204119	volatile compounds
+1657	PCB128 (ng/g)	0.54267992	pcbs
+1658	Total monounsaturated fatty acids (gm)	0.543580393	food component recall
+1659	Alcohol (gm)	0.546653284	food component recall
+1660	1-benzo[a] anthracene (ng/L)	0.548141362	hydrocarbons
+1661	Mono-n-butyl phthalate	0.548625755	phthalates
+1662	"Beryllium, urine (ng/mL)"	0.549560599	heavy metals
+1663	COPPER_mg	0.551713653	supplement use
+1664	Diethylphosphate (ug/L)	0.553855263	diakyl
+1665	MFA 22:1 (Docosenoic) (gm)	0.556135969	food component recall
+1666	Age started smoking cigarettes regularly	0.556724235	smoking behavior
+1667	# of times catfish eaten in past 30 days	0.557891279	food component recall
+1668	Theobromine (mg)	0.56061055	food component recall
+1669	3-chrysene (ng/L)	0.565260528	hydrocarbons
+1670	Diethylphosphate (ug/L)	0.56757611	diakyl
+1671	"Molybdenum, urine (ng/mL)"	0.571211471	heavy metals
+1672	Vitamin B12 (mcg)	0.572188715	food component recall
+1673	number_close_friends	0.573208625	social support
+1674	Mono-cyclohexyl phthalate	0.573978168	phthalates
+1675	Blood Chloroform (pg/mL)	0.574475612	volatile compounds
+1676	Current Cigarette Smoker?	0.574972729	smoking behavior
+1677	Dimethylthiophosphate (ug/L)	0.575581383	diakyl
+1678	"Vitamin B12, serum (pg/mL)"	0.576633789	nutrients
+1679	"Lead, urine (ng/mL)"	0.576953634	heavy metals
+1680	"1,2,3,4,6,7,8,9-ocdd (fg/g)"	0.578724673	dioxins
+1681	Blood Bromodichloromethane (pg/mL)	0.578451252	volatile compounds
+1682	Diethyldithiophosphate (ug/L)	0.580825327	diakyl
+1683	Measles	0.581688496	bacterial infection
+1684	Mono-(2-ethyl)-hexyl phthalate	0.584356534	phthalates
+1685	"Blood 1,1,1-Trichloroethene (ng/ml)"	0.586182535	volatile compounds
+1686	pneumonia	0.586998451	immunization
+1687	"1,2,3,7,8,9-hxcdf (fg/g)"	0.58948221	furans
+1688	Current Cigarette Smoker?	0.590608721	smoking behavior
+1689	Used DepoProvera or injectables?	0.590976992	pharmaceutical
+1690	Blood Chloroform (pg/mL)	0.591901517	volatile compounds
+1691	"1,2,3,4,6,7,8,9-ocdf (fg/g)"	0.59696737	furans
+1692	"Beryllium, urine (ng/mL)"	0.597675683	heavy metals
+1693	MAGNESIUM_mg	0.597468959	supplement use
+1694	SFA 10:0 (Decanoic) (gm)	0.598177119	food component recall
+1695	"Blood 1,1,1-Trichloroethene (ng/ml)"	0.602003866	volatile compounds
+1696	SFA 18:0 (Octadecanoic) (gm)	0.604770422	food component recall
+1697	MFA 22:1 (Docosenoic) (gm)	0.607141943	food component recall
+1698	# of times catfish eaten in past 30 days	0.607203724	food component recall
+1699	MFA 22:1 (Docosenoic) (gm)	0.607632051	food component recall
+1700	Catfish eaten during past 30 days	0.609709553	food component recall
+1701	"3,3',4,4',5,5'-hxcb (fg/g)"	0.609524745	pcbs
+1702	"Blood 1,4-Dichlorobenzene (ng/mL)"	0.609588477	volatile compounds
+1703	Diethylphosphate (ug/L)	0.61090068	diakyl
+1704	PCB157 (ng/g)	0.612398146	pcbs
+1705	2-fluorene (ng/L)	0.614184608	hydrocarbons
+1706	Enterolactone (ng/mL)	0.614195351	phytoestrogens
+1707	Hexachlorobenzene (ng/g)	0.614915236	pesticides
+1708	3-benzo[c] phenanthrene (ng/L)	0.617557483	hydrocarbons
+1709	"1,2,3,4,7,8,9-hpcdf (fg/g)"	0.618627343	furans
+1710	g-Tocopherol (ug/dL)	0.619262488	nutrients
+1711	6-chrysene (ng/L)	0.619123879	hydrocarbons
+1712	2-benzo[c] phenanthrene (ng/L)	0.619090657	hydrocarbons
+1713	PCB149 (ng/g)	0.61937918	pcbs
+1714	6-chrysene (ng/L)	0.621607908	hydrocarbons
+1715	Beta-hexachlorocyclohexane (ng/g)	0.622277868	pesticides
+1716	MAGNESIUM_mg	0.62347248	supplement use
+1717	Blood Trichloroethene (ng/mL)	0.623845869	volatile compounds
+1718	"Lead, urine (ng/mL)"	0.624564836	heavy metals
+1719	Enterolactone (ng/mL)	0.629257769	phytoestrogens
+1720	Blood Trichloroethene (ng/mL)	0.62996848	volatile compounds
+1721	trans-Nonachlor (ng/g)	0.635447086	pesticides
+1722	Water Bromodichloromethane (ng/mL)	0.638368618	volatile compounds
+1723	#days used street drugs over past year	0.639919705	street drug
+1724	MFA 22:1 (Docosenoic) (gm)	0.642041725	food component recall
+1725	Dimethylthiophosphate (ug/L)	0.641370235	diakyl
+1726	PCB195 (ng/g)	0.641939671	pcbs
+1727	PCB66 (ng/g)	0.642803344	pcbs
+1728	taking_birth_control	0.643788906	pharmaceutical
+1729	Toxoplasma (IgG)	0.647140619	bacterial infection
+1730	Mirex (ng/g)	0.647297071	pesticides
+1731	Dimethyldithiophosphate (ug/L)	0.648609959	diakyl
+1732	smell_tobacco	0.650121275	occupation
+1733	Blood Carbon Tetrachloride (ng/mL)	0.651047696	volatile compounds
+1734	# of times catfish eaten in past 30 days	0.65068103	food component recall
+1735	MFA 20:1 (Eicosenoic) (gm)	0.652689956	food component recall
+1736	"1,2,3,6,7,8-hxcdf (fg/g)"	0.653418584	furans
+1737	first_degree_support	0.656613958	social support
+1738	Enterodiol (ng/mL)	0.657710493	phytoestrogens
+1739	Blood Toluene (ng/mL)	0.657482488	volatile compounds
+1740	Mirex (ng/g)	0.658186692	pesticides
+1741	PFA 18:4 (Octadecatetraenoic) (gm)	0.660499609	food component recall
+1742	COPPER_mg	0.660577297	supplement use
+1743	2-benzo[c] phenanthrene (ng/L)	0.661296656	hydrocarbons
+1744	"Molybdenum, urine (ng/mL)"	0.668862792	heavy metals
+1745	1-phenanthrene (ng/L)	0.672907595	hydrocarbons
+1746	Thiamin (Vitamin B1) (mg)	0.672818819	food component recall
+1747	PCB66 (ng/g)	0.672007715	pcbs
+1748	Varicella	0.672333351	bacterial infection
+1749	Blood Chloroform (pg/mL)	0.675665399	volatile compounds
+1750	Mono-cyclohexyl phthalate	0.676607815	phthalates
+1751	2-fluorene (ng/L)	0.68036574	hydrocarbons
+1752	Blood Chloroform (pg/mL)	0.682332219	volatile compounds
+1753	"Mercury, Inorganic (ug/L)"	0.681983993	heavy metals
+1754	ATENOLOL	0.687180416	pharmaceutical
+1755	"1,2,3,7,8-pncdf (fg/g)"	0.686465618	furans
+1756	"Beryllium, urine (ng/mL)"	0.686944491	heavy metals
+1757	PCB118 (ng/g)	0.688677774	pcbs
+1758	Diethyldithiophosphate (ug/L)	0.689330692	diakyl
+1759	"Blood 1,1,1-Trichloroethene (ng/ml)"	0.690152105	volatile compounds
+1760	PFA 20:5 (Eicosapentaenoic) (gm)	0.691783868	food component recall
+1761	Calcium (mg)	0.691989407	food component recall
+1762	3-fluorene (ng/L)	0.696793614	hydrocarbons
+1763	"Mercury, urine (ng/mL)"	0.697588585	heavy metals
+1764	Diethylphosphate (ug/L)	0.69885981	diakyl
+1765	"Platinum, urine (ng/mL)"	0.700825741	heavy metals
+1766	SFA 12:0 (Dodecanoic) (gm)	0.702140635	food component recall
+1767	Zinc (mg)	0.70635673	food component recall
+1768	Doctor ever told you had genital warts	0.71416997	viral infection
+1769	Retinyl Stearate (ug/dL)	0.717477249	nutrients
+1770	Blood Chloroform (pg/mL)	0.719469963	volatile compounds
+1771	"Mercury, Inorganic (ug/L)"	0.720413462	heavy metals
+1772	Mono-n-butyl phthalate	0.721626643	phthalates
+1773	Beta-hexachlorocyclohexane (ng/g)	0.72245735	pesticides
+1774	Fish eaten during past 30 days	0.724477042	food component recall
+1775	MFA 22:1 (Docosenoic) (gm)	0.725507474	food component recall
+1776	Equol (ng/mL)	0.730480645	phytoestrogens
+1777	Blood Toluene (ng/mL)	0.731012922	volatile compounds
+1778	# of times catfish eaten in past 30 days	0.731513905	food component recall
+1779	2-benzo[c] phenanthrene (ng/L)	0.733122712	hydrocarbons
+1780	VITAMIN_A_IU	0.733658322	supplement use
+1781	Blood Chloroform (pg/mL)	0.734653489	volatile compounds
+1782	MFA 16:1 (Hexadecenoic) (gm)	0.735846782	food component recall
+1783	"Mercury, Inorganic (ug/L)"	0.736884907	heavy metals
+1784	Carbohydrate (gm)	0.739082861	food component recall
+1785	# of times salmon eaten in past 30 days	0.741461512	food component recall
+1786	"2,3,4,7,8-pncdf (fg/g)"	0.74168603	furans
+1787	PCB157 (ng/g)	0.745711894	pcbs
+1788	Current Cigarette Smoker?	0.749810932	smoking behavior
+1789	"1,2,3,7,8,9-hxcdd (fg/g)"	0.750633882	dioxins
+1790	PCB99 (ng/g)	0.751477749	pcbs
+1791	Mirex (ng/g)	0.75380743	pesticides
+1792	Vitamin E (ug/dL)	0.755334887	nutrients
+1793	PFA 20:4 (Eicosatetraenoic) (gm)	0.755809063	food component recall
+1794	"Blood 1,4-Dichlorobenzene (ng/mL)"	0.757365015	volatile compounds
+1795	Flatfish eaten during past 30 days	0.758393925	food component recall
+1796	"p,p'-DDE (ng/g)"	0.758149605	pesticides
+1797	drink per day	0.760282529	alcohol use
+1798	taking_birth_control	0.767418368	pharmaceutical
+1799	COPPER_mg	0.769714852	supplement use
+1800	"Thallium, urine (ng/mL)"	0.770759792	heavy metals
+1801	"o,p'-DDT (ng/g)"	0.772199327	pesticides
+1802	PCB156 (ng/g)	0.78016994	pcbs
+1803	MFA 22:1 (Docosenoic) (gm)	0.784869651	food component recall
+1804	"1,2,3,6,7,8-hxcdd (fg/g)"	0.797933869	dioxins
+1805	2-benzo[c] phenanthrene (ng/L)	0.79884579	hydrocarbons
+1806	"Tungsten, urine (ng/mL)"	0.800784256	heavy metals
+1807	MFA 22:1 (Docosenoic) (gm)	0.801994085	food component recall
+1808	Total monounsaturated fatty acids (gm)	0.807029978	food component recall
+1809	"Mercury, Inorganic (ug/L)"	0.806780086	heavy metals
+1810	Blood Trichloroethene (ng/mL)	0.809481473	volatile compounds
+1811	PCB52 (ng/g)	0.809158794	pcbs
+1812	Mirex (ng/g)	0.811709887	pesticides
+1813	Used chewing tobacco 20 times in life	0.812777768	smoking behavior
+1814	"Cobalt, urine (ng/mL)"	0.81333273	heavy metals
+1815	IRON_mg	0.818269023	supplement use
+1816	"Tungsten, urine (ng/mL)"	0.817795412	heavy metals
+1817	Total saturated fatty acids (gm)	0.818384533	food component recall
+1818	Used chewing tobacco 20 times in life	0.820043883	smoking behavior
+1819	Mirex (ng/g)	0.823222718	pesticides
+1820	Mono-isononyl phthalate	0.828121618	phthalates
+1821	Diethylthiophosphate (ug/L)	0.830388423	diakyl
+1822	"Cadmium, urine (ng/mL)"	0.832000901	heavy metals
+1823	Mono-cyclohexyl phthalate	0.833533124	phthalates
+1824	3-benzo(a) pyrene	0.833247867	hydrocarbons
+1825	Mirex (ng/g)	0.832704951	pesticides
+1826	3-benzo(a) pyrene	0.834332223	hydrocarbons
+1827	Rubella International Units	0.836761951	bacterial infection
+1828	Herpes I	0.836922608	viral infection
+1829	Dimethylthiophosphate (ug/L)	0.838471142	diakyl
+1830	"1,2,3,7,8,9-hxcdf (fg/g)"	0.839402727	furans
+1831	Smoked a pipe at least 20 times in life	0.840149681	smoking behavior
+1832	Blood Toluene (ng/mL)	0.841018671	volatile compounds
+1833	PCB52 (ng/g)	0.841884063	pcbs
+1834	MFA 20:1 (Eicosenoic) (gm)	0.842862415	food component recall
+1835	3-benzo(a) pyrene	0.846030446	hydrocarbons
+1836	Blood Trichloroethene (ng/mL)	0.846241919	volatile compounds
+1837	taking_birth_control	0.845797763	pharmaceutical
+1838	Total fat (gm)	0.846794852	food component recall
+1839	Blood Styrene (ng/mL)	0.847056552	volatile compounds
+1840	Diethyldithiophosphate (ug/L)	0.847986529	diakyl
+1841	MFA 18:1 (Octadecenoic) (gm)	0.847575273	food component recall
+1842	MAGNESIUM_mg	0.84982239	supplement use
+1843	"Blood 1,4-Dichlorobenzene (ng/mL)"	0.851505006	volatile compounds
+1844	SFA 16:0 (Hexadecanoic) (gm)	0.85346392	food component recall
+1845	PCB183 (ng/g)	0.85747316	pcbs
+1846	2-benzo[c] phenanthrene (ng/L)	0.8590008	hydrocarbons
+1847	Mono-ethyl phthalate	0.85980828	phthalates
+1848	Blood Trichloroethene (ng/mL)	0.861402702	volatile compounds
+1849	MFA 22:1 (Docosenoic) (gm)	0.863068952	food component recall
+1850	Varicella	0.863248828	bacterial infection
+1851	"1,2,3,4,6,7,8-hpcdd (fg/g)"	0.864071376	dioxins
+1852	MFA 18:1 (Octadecenoic) (gm)	0.865714197	food component recall
+1853	Total polyunsaturated fatty acids (gm)	0.865658661	food component recall
+1854	days drink in year	0.869555282	alcohol use
+1855	2-benzo[c] phenanthrene (ng/L)	0.870944132	hydrocarbons
+1856	SFA 8:0 (Octanoic) (gm)	0.870903062	food component recall
+1857	# of times other fish eaten past 30 days	0.876046321	food component recall
+1858	2-phenanthrene (ng/L)	0.876106615	hydrocarbons
+1859	Blood Chloroform (pg/mL)	0.877287332	volatile compounds
+1860	Blood Toluene (ng/mL)	0.878458752	volatile compounds
+1861	Vitamin E (ug/dL)	0.883608235	nutrients
+1862	MFA 22:1 (Docosenoic) (gm)	0.888485127	food component recall
+1863	1-benzo[a] anthracene (ng/L)	0.888247838	hydrocarbons
+1864	PCB156 (ng/g)	0.890232923	pcbs
+1865	Total monounsaturated fatty acids (gm)	0.890710704	food component recall
+1866	3-benzo[c] phenanthrene (ng/L)	0.892975549	hydrocarbons
+1867	Flatfish eaten during past 30 days	0.892825244	food component recall
+1868	PFA 18:2 (Octadecadienoic) (gm)	0.895656707	food component recall
+1869	MFA 22:1 (Docosenoic) (gm)	0.900737365	food component recall
+1870	MFA 22:1 (Docosenoic) (gm)	0.901950928	food component recall
+1871	Blood Trichloroethene (ng/mL)	0.906562472	volatile compounds
+1872	# of times catfish eaten in past 30 days	0.918854459	food component recall
+1873	MFA 22:1 (Docosenoic) (gm)	0.920381612	food component recall
+1874	Alcohol (gm)	0.926226364	food component recall
+1875	PCB99 (ng/g)	0.92580394	pcbs
+1876	Blood Toluene (ng/mL)	0.926818912	volatile compounds
+1877	Dimethylthiophosphate (ug/L)	0.931121994	diakyl
+1878	MFA 22:1 (Docosenoic) (gm)	0.932278864	food component recall
+1879	"Platinum, urine (ng/mL)"	0.934735581	heavy metals
+1880	Hepatitis B core antibody	0.936573651	viral infection
+1881	Blood Ethylbenzene (ng/mL)	0.941866474	volatile compounds
+1882	COPPER_mg	0.94231241	supplement use
+1883	Varicella	0.949175979	bacterial infection
+1884	PCB153 (ng/g)	0.952537834	pcbs
+1885	Mirex (ng/g)	0.953095934	pesticides
+1886	MFA 22:1 (Docosenoic) (gm)	0.952830035	food component recall
+1887	MFA 20:1 (Eicosenoic) (gm)	0.955181488	food component recall
+1888	"Blood 1,1,1-Trichloroethene (ng/ml)"	0.957263568	volatile compounds
+1889	2-benzo[c] phenanthrene (ng/L)	0.958882791	hydrocarbons
+1890	Hepatitis B core antibody	0.958526994	viral infection
+1891	Water Bromodichloromethane (ng/mL)	0.959892051	volatile compounds
+1892	2-benzo[c] phenanthrene (ng/L)	0.959568953	hydrocarbons
+1893	3-benz[a] anthracene (ng/L)	0.961043697	hydrocarbons
+1894	"Blood 1,4-Dichlorobenzene (ng/mL)"	0.964222992	volatile compounds
+1895	Other unknown fish eaten in past 30 days	0.964124159	food component recall
+1896	Hepatitis A Antibody (Anti-HAV)	0.967331891	viral infection
+1897	Mirex (ng/g)	0.968740113	pesticides
+1898	Water Bromoform (ng/mL)	0.972155754	volatile compounds
+1899	Clams eaten during past 30 days	0.973204102	food component recall
+1900	PCB138 (ng/g)	0.9744383	pcbs
+1901	PCB156 (ng/g)	0.974895879	pcbs
+1902	Blood Chloroform (pg/mL)	0.975455688	volatile compounds
+1903	Diethylphosphate (ug/L)	0.976797366	diakyl
+1904	Blood Styrene (ng/mL)	0.976551695	volatile compounds
+1905	2-benzo[c] phenanthrene (ng/L)	0.979351797	hydrocarbons
+1906	"Uranium, urine (ng/mL)"	0.980733551	heavy metals
+1907	"Mercury, Inorganic (ug/L)"	0.982504274	heavy metals
+1908	Equol (ng/mL)	0.984932846	phytoestrogens
+1909	Blood Trichloroethene (ng/mL)	0.986004771	volatile compounds
+1910	Hexachlorobenzene (ng/g)	0.986860362	pesticides
+1911	how_long_estrogen	0.988364489	pharmaceutical
+1912	"1,2,3,4,7,8,9-hpcdf (fg/g)"	0.988020699	furans
+1913	"Mercury, total (ug/L)"	0.992181888	heavy metals
+1914	PHOSPHORUS_mg	0.993840159	supplement use
+1915	Theobromine (mg)	0.99539072	food component recall
+1916	"Folate, RBC (ng/mL RBC)"	0.995752897	nutrients
+1917	Caffeine (mg)	0.995068988	food component recall
+1918	SFA 6:0 (Hexanoic) (gm)	0.996342727	food component recall
+1919	# of times catfish eaten in past 30 days	0.998665598	food component recall
+1920	Age started estrogen-only pills		pharmaceutical
+1921	# of times cod eaten in past 30 days		food component recall
+1922	# of times crabs eaten in past 30 days		food component recall
+1923	"3,3',4,4',5-pncb (fg/g)"		pcbs
+1924	"3,3',4,4',5-pncb (fg/g)"		pcbs
+1925	"3,3',4,4',5-pncb (fg/g)"		pcbs
+1926	Age started pipe smoking regularly		smoking behavior
+1927	"3,3',4,4',5-pncb (fg/g)"		pcbs
+1928	"3,3',4,4',5-pncb (fg/g)"		pcbs
+1929	"3,3',4,4',5-pncb (fg/g)"		pcbs
+1930	"3,3',4,4',5-pncb (fg/g)"		pcbs

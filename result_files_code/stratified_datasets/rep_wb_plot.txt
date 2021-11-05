@@ -1,0 +1,5 @@
+SNP	phenotype	phenotype_long	Groups	ES	Pval	N
+r1	Retinol (Vitamin A)	Creatinine	EA	0.219267641	3.00896E-10	4558
+r2	Smoked at least 100 cigarettes in life	Lymphocytes	EA	0.28440777	0.009513517	4376
+r3	Retinol (Vitamin A)	Creatinine	AA	0.415256492	7.40353E-05	2069
+r4	Smoked at least 100 cigarettes in life	Lymphocytes	AA	0.363356542	0.000204244	1739

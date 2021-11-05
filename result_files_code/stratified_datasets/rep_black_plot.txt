@@ -1,0 +1,1336 @@
+Variable	pvalue	Group
+trans-Lycopene (ug/dL)	9.39866E-14	nutrients
+gamma-tocopherol (Vitamin E) - Triglycerides	1.80917E-11	nutrients
+Cotinine (ng/mL)	1.90804E-11	cotinine
+Retinol (Vitamin A) - Blood urea nitrogen	9.39819E-11	nutrients
+alpha-tocopherol (Vitamin E) - Triglycerides	1.42772E-10	nutrients
+Retinol (Vitamin A) - Uric acid	3.35792E-09	nutrients
+Retinol (Vitamin A) - Triglycerides	7.56503E-09	nutrients
+Retinyl Palmitate (ug/dL)	1.53639E-08	nutrients
+Blood Toluene (ng/mL)	1.76343E-08	volatile compounds
+Equol (ng/mL)	1.93397E-08	phytoestrogens
+Enterolactone (ng/mL)	2.17564E-08	phytoestrogens
+Vitamin A (ug/dL)	4.83458E-08	nutrients
+Vitamin A (ug/dL)	5.93707E-08	nutrients
+Smoked at least 100 cigarettes in life	1.63789E-07	smoking behavior
+g-Tocopherol (ug/dL)	1.86633E-07	nutrients
+Cotinine (ng/mL)	2.71259E-07	cotinine
+Does anyone smoke in home?	2.88958E-07	smoking family
+"Cadmium, urine (ng/mL)"	5.67258E-07	heavy metals
+Vitamin A (ug/dL)	6.24547E-07	nutrients
+Equol (ng/mL)	6.62792E-07	phytoestrogens
+trans-Beta carotene (ug/dL)	0.000001056	nutrients
+Blood Toluene (ng/mL)	1.20288E-06	volatile compounds
+Blood Tetrachloroethene (ng/mL)	1.25654E-06	volatile compounds
+Cotinine (ng/mL)	1.2582E-06	cotinine
+g-Tocopherol (ug/dL)	1.38043E-06	nutrients
+Total sugars (gm)	1.62503E-06	food component recall
+"Molybdenum, urine (ng/mL)"	1.75635E-06	heavy metals
+"Platinum, urine (ng/mL)"	2.03117E-06	heavy metals
+cis-Beta carotene (ug/dL)	2.09416E-06	nutrients
+Cotinine (ng/mL)	3.07204E-06	cotinine
+Do you now smoke cigarettes...	3.09201E-06	smoking behavior
+Vitamin E (ug/dL)	3.60681E-06	nutrients
+Vitamin A (ug/dL)	3.86266E-06	nutrients
+Cadmium (ug/L)	3.99909E-06	heavy metals
+Alpha-carotene (ug/dL)	4.09283E-06	nutrients
+Smoked at least 100 cigarettes in life	4.85341E-06	smoking behavior
+Cadmium (ug/L)	5.71865E-06	heavy metals
+Lead (ug/dL)	5.72135E-06	heavy metals
+"Folate, RBC (ng/mL RBC)"	5.77428E-06	nutrients
+Blood Toluene (ng/mL)	6.04957E-06	volatile compounds
+Vitamin E (ug/dL)	6.55868E-06	nutrients
+Vitamin A (ug/dL)	7.66535E-06	nutrients
+Vitamin A (ug/dL)	7.88007E-06	nutrients
+"Vitamin B12, serum (pg/mL)"	8.11615E-06	nutrients
+Blood Tetrachloroethene (ng/mL)	8.26209E-06	volatile compounds
+cis-Beta carotene (ug/dL)	8.39747E-06	nutrients
+Vitamin A (ug/dL)	8.50226E-06	nutrients
+Blood Toluene (ng/mL)	8.75355E-06	volatile compounds
+b-Cryptoxanthin (ug/dL)	9.50387E-06	nutrients
+Lead (ug/dL)	1.02835E-05	heavy metals
+days drink in year	1.17038E-05	alcohol use
+"Folate, RBC (ng/mL RBC)"	1.43728E-05	nutrients
+Does anyone smoke in home?	1.76976E-05	smoking family
+Vitamin A (ug/dL)	1.80665E-05	nutrients
+"Platinum, urine (ng/mL)"	2.05309E-05	heavy metals
+trans-Beta carotene (ug/dL)	2.09039E-05	nutrients
+"Vitamin B12, serum (pg/mL)"	2.21839E-05	nutrients
+Blood Toluene (ng/mL)	2.25488E-05	volatile compounds
+Lutein and zeaxanthin (ug/dL)	2.29374E-05	nutrients
+Vitamin A (ug/dL)	2.34593E-05	nutrients
+Carbohydrate (gm)	2.50964E-05	food component recall
+Vitamin A (ug/dL)	3.19167E-05	nutrients
+days drink in year	3.46977E-05	alcohol use
+Cotinine (ng/mL)	3.82712E-05	cotinine
+"Folate, RBC (ng/mL RBC)"	3.92527E-05	nutrients
+total supplement count	5.06474E-05	supplement use
+Does anyone smoke in home?	0.000051945	smoking family
+Blood m-/p-Xylene (ng/mL)	5.25716E-05	volatile compounds
+Equol (ng/mL)	5.91372E-05	phytoestrogens
+"Folate, RBC (ng/mL RBC)"	6.97411E-05	nutrients
+Smoked at least 100 cigarettes in life	0.000069814	smoking behavior
+"Folate, serum (ng/mL)"	7.11492E-05	nutrients
+POTASSIUM_mg	7.31059E-05	supplement use
+"Mercury, urine (ng/mL)"	7.51919E-05	heavy metals
+Genistein (ng/mL)	7.71823E-05	phytoestrogens
+days drink in year	7.81878E-05	alcohol use
+"Folate, RBC (ng/mL RBC)"	8.30552E-05	nutrients
+Vitamin A (ug/dL)	9.57292E-05	nutrients
+"Cadmium, urine (ng/mL)"	0.000122008	heavy metals
+Daidzein (ng/mL)	0.00012216	phytoestrogens
+days drink in year	0.000124632	alcohol use
+Cotinine (ng/mL)	0.000132344	cotinine
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.000156468	phytoestrogens
+MFA 22:1 (Docosenoic) (gm)	0.00015903	food component recall
+Blood o-Xylene (ng/mL)	0.000163741	volatile compounds
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.000176549	phytoestrogens
+"Molybdenum, urine (ng/mL)"	0.000184976	heavy metals
+Cotinine (ng/mL)	0.000192456	cotinine
+"Antimony, urine (ng/mL)"	0.000206156	heavy metals
+Vitamin A (ug/dL)	0.000214826	nutrients
+Cadmium (ug/L)	0.000216378	heavy metals
+Smoked at least 100 cigarettes in life	0.000224805	smoking behavior
+Smoked at least 100 cigarettes in life	0.000229599	smoking behavior
+Blood o-Xylene (ng/mL)	0.000234255	volatile compounds
+"Thallium, urine (ng/mL)"	0.000243967	heavy metals
+"Folate, serum (ng/mL)"	0.000276172	nutrients
+Vitamin E (ug/dL)	0.000384389	nutrients
+Used DepoProvera or injectables?	0.000384861	pharmaceutical
+Ever use female hormones?	0.000414176	pharmaceutical
+Retinyl Palmitate (ug/dL)	0.000419468	nutrients
+Blood Tetrachloroethene (ng/mL)	0.000435462	volatile compounds
+Cadmium (ug/L)	0.000435519	heavy metals
+taking_birth_control	0.000437019	pharmaceutical
+"Folate, serum (ng/mL)"	0.000439096	nutrients
+MFA 22:1 (Docosenoic) (gm)	0.000439405	food component recall
+Cadmium (ug/L)	0.000445399	heavy metals
+Cotinine (ng/mL)	0.000483542	cotinine
+Smoked at least 100 cigarettes in life	0.00048617	smoking behavior
+"Vitamin B12, serum (pg/mL)"	0.000512043	nutrients
+Blood o-Xylene (ng/mL)	0.000522083	volatile compounds
+Vitamin E (ug/dL)	0.00053203	nutrients
+"Folate, RBC (ng/mL RBC)"	0.00053932	nutrients
+Cotinine (ng/mL)	0.000607096	cotinine
+Selenium (mcg)	0.000610053	food component recall
+Equol (ng/mL)	0.000624685	phytoestrogens
+Mono-ethyl phthalate	0.000631419	phthalates
+"Platinum, urine (ng/mL)"	0.000706701	heavy metals
+Blood Toluene (ng/mL)	0.000817497	volatile compounds
+Mono-isononyl phthalate	0.000844381	phthalates
+VITAMIN_C_mg	0.000885646	supplement use
+days drink in year	0.000886872	alcohol use
+Blood Toluene (ng/mL)	0.000928983	volatile compounds
+days drink in year	0.000931473	alcohol use
+Thiamin (Vitamin B1) (mg)	0.000940445	food component recall
+Do you now smoke cigarettes...	0.000969871	smoking behavior
+"Folate, serum (ng/mL)"	0.000991717	nutrients
+Does anyone smoke in home?	0.00100967	smoking family
+"Folate, RBC (ng/mL RBC)"	0.001019949	nutrients
+trans-Beta carotene (ug/dL)	0.001053949	nutrients
+Vitamin A (ug/dL)	0.001104259	nutrients
+PFA 18:4 (Octadecatetraenoic) (gm)	0.001099139	food component recall
+COPPER_mg	0.001310277	supplement use
+g-Tocopherol (ug/dL)	0.001386121	nutrients
+2-phenanthrene (ng/L)	0.00139197	hydrocarbons
+Smoked at least 100 cigarettes in life	0.001487561	smoking behavior
+Magnesium (mg)	0.001502834	food component recall
+"Folate, serum (ng/mL)"	0.001513453	nutrients
+PFA 18:4 (Octadecatetraenoic) (gm)	0.00156203	food component recall
+g-Tocopherol (ug/dL)	0.001592966	nutrients
+Equol (ng/mL)	0.001652513	phytoestrogens
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.001748017	phytoestrogens
+Caffeine (mg)	0.00177229	food component recall
+Ever use female hormones?	0.00178629	pharmaceutical
+"Tungsten, urine (ng/mL)"	0.001920874	heavy metals
+Vitamin A (ug/dL)	0.002065738	nutrients
+g-Tocopherol (ug/dL)	0.002057109	nutrients
+Lead (ug/dL)	0.002131604	heavy metals
+Does anyone smoke in home?	0.002120705	smoking family
+"2,3,4,6,7,8-hxcdf (fg/g)"	0.002217845	furans
+"Vitamin B12, serum (pg/mL)"	0.002290108	nutrients
+"Platinum, urine (ng/mL)"	0.002523998	heavy metals
+"Platinum, urine (ng/mL)"	0.002533247	heavy metals
+Water MTBE (ng/mL)	0.002648383	volatile compounds
+PCB110 (ng/g)	0.002671536	pcbs
+Vitamin A (ug/dL)	0.002714976	nutrients
+"Folate, RBC (ng/mL RBC)"	0.002795496	nutrients
+Blood o-Xylene (ng/mL)	0.002818664	volatile compounds
+Cotinine (ng/mL)	0.002888413	cotinine
+3-phenanthrene (ng/L)	0.00289802	hydrocarbons
+Iron (mg)	0.002940801	food component recall
+Equol (ng/mL)	0.00299583	phytoestrogens
+g-Tocopherol (ug/dL)	0.003223458	nutrients
+3-phenanthrene (ng/L)	0.003339691	hydrocarbons
+Protein (gm)	0.00337574	food component recall
+"1,2,3,7,8-pncdd (fg/g)"	0.003367348	dioxins
+Vitamin A (ug/dL)	0.003398947	nutrients
+Retinyl Palmitate (ug/dL)	0.003445922	nutrients
+"Folate, RBC (ng/mL RBC)"	0.003494947	nutrients
+Lead (ug/dL)	0.00347285	heavy metals
+Equol (ng/mL)	0.003533876	phytoestrogens
+Current Cigarette Smoker?	0.003526405	smoking behavior
+VITAMIN_C_mg	0.003640151	supplement use
+trans-Beta carotene (ug/dL)	0.003653274	nutrients
+b-Cryptoxanthin (ug/dL)	0.003754324	nutrients
+2-fluorene (ng/L)	0.003772851	hydrocarbons
+2-fluorene (ng/L)	0.003772851	hydrocarbons
+Alcohol (gm)	0.00380792	food component recall
+taking_birth_control	0.0038775	pharmaceutical
+"Folate, RBC (ng/mL RBC)"	0.003891028	nutrients
+"Antimony, urine (ng/mL)"	0.00388283	heavy metals
+Does anyone smoke in home?	0.003924319	smoking family
+Retinyl Palmitate (ug/dL)	0.00396006	nutrients
+days drink in year	0.003994759	alcohol use
+"Folate, serum (ng/mL)"	0.004133186	nutrients
+g-Tocopherol (ug/dL)	0.004292171	nutrients
+"Barium, urine (ng/mL)"	0.004364165	heavy metals
+Blood m-/p-Xylene (ng/mL)	0.004367956	volatile compounds
+Alcohol (gm)	0.004357415	food component recall
+VITAMIN_C_mg	0.004479215	supplement use
+Cadmium (ug/L)	0.004574321	heavy metals
+Retinyl Stearate (ug/dL)	0.004554217	nutrients
+Oxychlordane (ng/g)	0.004686378	pesticides
+Smoked at least 100 cigarettes in life	0.00470698	smoking behavior
+Smoked at least 100 cigarettes in life	0.004789184	smoking behavior
+Equol (ng/mL)	0.004802266	phytoestrogens
+"Folate, RBC (ng/mL RBC)"	0.004905754	nutrients
+VITAMIN_C_mg	0.005016851	supplement use
+DSDCOUNT	0.005083669	supplement use
+"1,2,3,7,8,9-hxcdf (fg/g)"	0.00533407	furans
+Blood o-Xylene (ng/mL)	0.005364525	volatile compounds
+"Vitamin B12, serum (pg/mL)"	0.005776394	nutrients
+Shrimp eaten during past 30 days	0.005936146	food component recall
+2-benzo[c] phenanthrene (ng/L)	0.006186298	hydrocarbons
+3-phenanthrene (ng/L)	0.006230614	hydrocarbons
+Theobromine (mg)	0.006391037	food component recall
+Blood Toluene (ng/mL)	0.006622547	volatile compounds
+MAGNESIUM_mg	0.007064582	supplement use
+Protein (gm)	0.007289752	food component recall
+PCB149 (ng/g)	0.007333956	pcbs
+Blood m-/p-Xylene (ng/mL)	0.007456798	volatile compounds
+"Platinum, urine (ng/mL)"	0.007611582	heavy metals
+cis-Beta carotene (ug/dL)	0.008375765	nutrients
+Vitamin E (ug/dL)	0.008594993	nutrients
+"Vitamin B12, serum (pg/mL)"	0.008833775	nutrients
+Diethylphosphate (ug/L)	0.00892703	diakyl
+Dimethylphosphate (ug/L)	0.009196924	diakyl
+Measles	0.009400671	bacterial infection
+days drink in year	0.009755236	alcohol use
+Cotinine (ng/mL)	0.009867705	cotinine
+RIBOFLAVIN_mg	0.009939705	supplement use
+1-pyrene (ng/L)	0.010055149	hydrocarbons
+"Cadmium, urine (ng/mL)"	0.010127307	heavy metals
+Smoked at least 100 cigarettes in life	0.010191838	smoking behavior
+Carbohydrate (gm)	0.010393757	food component recall
+"Lead, urine (ng/mL)"	0.010447438	heavy metals
+Vitamin A (ug/dL)	0.010561263	nutrients
+trans-Nonachlor (ng/g)	0.010643347	pesticides
+"Folate, DFE (mcg)"	0.010900909	food component recall
+Lead (ug/dL)	0.01092986	heavy metals
+cis-Beta carotene (ug/dL)	0.011016764	nutrients
+Potassium (mg)	0.011179454	food component recall
+Vitamin A (ug/dL)	0.01115277	nutrients
+"1,2,3,7,8,9-hxcdf (fg/g)"	0.011400921	furans
+Blood Trichloroethene (ng/mL)	0.011456538	volatile compounds
+Lutein and zeaxanthin (ug/dL)	0.011736678	nutrients
+Current Cigarette Smoker?	0.011900844	smoking behavior
+4-chrysene	0.012129249	hydrocarbons
+Endrin (ng/g)	0.012240073	pesticides
+1-pyrene (ng/L)	0.01240583	hydrocarbons
+cis-Beta carotene (ug/dL)	0.012376814	nutrients
+Niacin (mg)	0.01293774	food component recall
+3-phenanthrene (ng/L)	0.013100595	hydrocarbons
+Vitamin A (ug/dL)	0.013368025	nutrients
+Blood m-/p-Xylene (ng/mL)	0.013395743	volatile compounds
+Equol (ng/mL)	0.013687772	phytoestrogens
+Mono-isobutyl pthalate	0.013983946	phthalates
+Blood Toluene (ng/mL)	0.014244916	volatile compounds
+"1,2,3,6,7,8-hxcdd (fg/g)"	0.014394005	dioxins
+Vitamin E (ug/dL)	0.014659837	nutrients
+Vitamin E (ug/dL)	0.014807136	nutrients
+g-Tocopherol (ug/dL)	0.014772986	nutrients
+Mono-isononyl phthalate	0.015102888	phthalates
+days drink in year	0.015218691	alcohol use
+Vitamin E (ug/dL)	0.015383646	nutrients
+Lutein and zeaxanthin (ug/dL)	0.01547365	nutrients
+2-fluorene (ng/L)	0.015441344	hydrocarbons
+Equol (ng/mL)	0.015675208	phytoestrogens
+Lead (ug/dL)	0.015749058	heavy metals
+trans-Beta carotene (ug/dL)	0.016277525	nutrients
+Folic acid (mcg)	0.016551764	food component recall
+Lutein and zeaxanthin (ug/dL)	0.016584065	nutrients
+VITAMIN_A_IU	0.016920433	supplement use
+"Vitamin B12, serum (pg/mL)"	0.017813852	nutrients
+2-chrysene	0.017877279	hydrocarbons
+Cadmium (ug/L)	0.018863497	heavy metals
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.018797683	phytoestrogens
+Mono-isononyl phthalate	0.018764015	phthalates
+Blood m-/p-Xylene (ng/mL)	0.019048136	volatile compounds
+MFA 16:1 (Hexadecenoic) (gm)	0.019241172	food component recall
+PFA 18:4 (Octadecatetraenoic) (gm)	0.019905678	food component recall
+VITAMIN_C_mg	0.020109597	supplement use
+Equol (ng/mL)	0.020191953	phytoestrogens
+Current Cigarette Smoker?	0.020587997	smoking behavior
+Does anyone smoke in home?	0.020809209	smoking family
+"Vitamin B12, serum (pg/mL)"	0.021280324	nutrients
+3-benzo[c] phenanthrene (ng/L)	0.02199856	hydrocarbons
+Retinyl Stearate (ug/dL)	0.022340846	nutrients
+number of days since quit	0.022540055	smoking behavior
+3-fluorene (ng/L)	0.022563446	hydrocarbons
+"Tungsten, urine (ng/mL)"	0.022393091	heavy metals
+"Molybdenum, urine (ng/mL)"	0.022439742	heavy metals
+3-phenanthrene (ng/L)	0.02265518	hydrocarbons
+Blood Styrene (ng/mL)	0.023037825	volatile compounds
+Heptachlor Epoxide (ng/g)	0.023217033	pesticides
+"2,3,7,8-tcdd (fg/g)"	0.024492712	dioxins
+trans-Beta carotene (ug/dL)	0.024697858	nutrients
+Equol (ng/mL)	0.02507965	phytoestrogens
+PCB170 (ng/g)	0.025383793	pcbs
+Blood m-/p-Xylene (ng/mL)	0.025848357	volatile compounds
+THIAMIN_mg	0.025834325	supplement use
+3-benzo[c] phenanthrene (ng/L)	0.025951682	hydrocarbons
+PCB87 (ng/g)	0.026079141	pcbs
+Vitamin B6 (mg)	0.027453247	food component recall
+"Mercury, urine (ng/mL)"	0.027916356	heavy metals
+"Lead, urine (ng/mL)"	0.028704563	heavy metals
+"Folate, RBC (ng/mL RBC)"	0.029361575	nutrients
+cis-Beta carotene (ug/dL)	0.029941719	nutrients
+"Mercury, Inorganic (ug/L)"	0.030433752	heavy metals
+3-benzo[c] phenanthrene (ng/L)	0.030938429	hydrocarbons
+3-phenanthrene (ng/L)	0.030967753	hydrocarbons
+Mono-(2-ethyl-5-hydroxyhexyl) phthalate	0.031351395	phthalates
+Equol (ng/mL)	0.031468649	phytoestrogens
+3-fluorene (ng/L)	0.031781837	hydrocarbons
+3-fluorene (ng/L)	0.031781837	hydrocarbons
+Smoked at least 100 cigarettes in life	0.032186426	smoking behavior
+PCB183 (ng/g)	0.033214556	pcbs
+PCB87 (ng/g)	0.033579948	pcbs
+4-chrysene	0.033852847	hydrocarbons
+"2,3,7,8-tcdd (fg/g)"	0.034333872	dioxins
+"2,3,7,8-tcdf (fg/g)"	0.034268788	furans
+Current Cigarette Smoker?	0.034283101	smoking behavior
+"Beryllium, urine (ng/mL)"	0.034413301	heavy metals
+"1,2,3,7,8-pncdd (fg/g)"	0.034891096	dioxins
+PCB66 (ng/g)	0.035117943	pcbs
+Vitamin E (ug/dL)	0.035089852	nutrients
+Do you now smoke cigarettes...	0.036093309	smoking behavior
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.036499537	phytoestrogens
+Vitamin B6 (mg)	0.037115218	food component recall
+PCB180 (ng/g)	0.036998912	pcbs
+Mono-isononyl phthalate	0.037286645	phthalates
+"Cadmium, urine (ng/mL)"	0.037823131	heavy metals
+PCB74 (ng/g)	0.037902132	pcbs
+2-chrysene	0.038172084	hydrocarbons
+"Molybdenum, urine (ng/mL)"	0.038301291	heavy metals
+Used DepoProvera or injectables?	0.038535469	pharmaceutical
+"Barium, urine (ng/mL)"	0.038882531	heavy metals
+RIBOFLAVIN_mg	0.039123702	supplement use
+Diethylthiophosphate (ug/L)	0.039383879	diakyl
+THIAMIN_mg	0.039990523	supplement use
+trans-Lycopene (ug/dL)	0.039898177	nutrients
+Endrin (ng/g)	0.039818673	pesticides
+Mono-n-methyl phthalate	0.040199044	phthalates
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.040771045	phytoestrogens
+PCB149 (ng/g)	0.041077498	pcbs
+Niacin (mg)	0.041377195	food component recall
+Herpes I	0.04244395	viral infection
+Equol (ng/mL)	0.042748724	phytoestrogens
+Energy (kcal)	0.043641267	food component recall
+THIAMIN_mg	0.043716786	supplement use
+"Cadmium, urine (ng/mL)"	0.043556475	heavy metals
+Dimethylthiophosphate (ug/L)	0.043945608	diakyl
+Mono-cyclohexyl phthalate	0.044945295	phthalates
+Retinyl Palmitate (ug/dL)	0.044841788	nutrients
+Smoked at least 100 cigarettes in life	0.046161739	smoking behavior
+IRON_mg	0.046978532	supplement use
+PCB189 (ng/g)	0.047364024	pcbs
+"Lead, urine (ng/mL)"	0.047628904	heavy metals
+PCB99 (ng/g)	0.047867247	pcbs
+Equol (ng/mL)	0.048038337	phytoestrogens
+Thiamin (Vitamin B1) (mg)	0.048219216	food component recall
+Blood Toluene (ng/mL)	0.049148245	volatile compounds
+Current Cigarette Smoker?	0.049344008	smoking behavior
+Enterolactone (ng/mL)	0.050465056	phytoestrogens
+"2,3,7,8-tcdf (fg/g)"	0.050739636	furans
+Lead (ug/dL)	0.051299694	heavy metals
+PCB195 (ng/g)	0.051462229	pcbs
+POTASSIUM_mg	0.052586211	supplement use
+Blood Toluene (ng/mL)	0.052440658	volatile compounds
+Blood o-Xylene (ng/mL)	0.052257495	volatile compounds
+Retinyl Stearate (ug/dL)	0.052354606	nutrients
+3-benzo[c] phenanthrene (ng/L)	0.052206229	hydrocarbons
+Niacin (mg)	0.052932446	food component recall
+"Molybdenum, urine (ng/mL)"	0.053041525	heavy metals
+"Folate, RBC (ng/mL RBC)"	0.053490455	nutrients
+Selenium (mcg)	0.053667934	food component recall
+VITAMIN_B_6_mg	0.054101867	supplement use
+VITAMIN_B_6_mg	0.054261032	supplement use
+Protein (gm)	0.054630836	food component recall
+3-chrysene (ng/L)	0.054670034	hydrocarbons
+Lead (ug/dL)	0.054745133	heavy metals
+Alpha-carotene (ug/dL)	0.05500525	nutrients
+Cholesterol (mg)	0.055329921	food component recall
+PCB187 (ng/g)	0.055579078	pcbs
+PFA 22:6 (Docosahexaenoic) (gm)	0.056224403	food component recall
+RIBOFLAVIN_mg	0.056436064	supplement use
+2-benzo[c] phenanthrene (ng/L)	0.056740647	hydrocarbons
+cis-Beta carotene (ug/dL)	0.057525344	nutrients
+PCB151 (ng/g)	0.057425209	pcbs
+Vitamin B6 (mg)	0.058440096	food component recall
+Lutein and zeaxanthin (ug/dL)	0.058497281	nutrients
+"Lead, urine (ng/mL)"	0.058115357	heavy metals
+Diethylphosphate (ug/L)	0.058515407	diakyl
+PFA 22:6 (Docosahexaenoic) (gm)	0.05905093	food component recall
+Lead (ug/dL)	0.059169012	heavy metals
+Selenium (mcg)	0.059536939	food component recall
+Potassium (mg)	0.060021272	food component recall
+Diethylphosphate (ug/L)	0.05986941	diakyl
+PCB172 (ng/g)	0.060989002	pcbs
+THIAMIN_mg	0.061342467	supplement use
+Total polyunsaturated fatty acids (gm)	0.062493304	food component recall
+ATENOLOL	0.063351734	pharmaceutical
+Lutein and zeaxanthin (ug/dL)	0.063660023	nutrients
+VITAMIN_C_mg	0.064976683	supplement use
+SFA 18:0 (Octadecanoic) (gm)	0.064872936	food component recall
+Gamma-hexachlorocyclohexane (ng/g)	0.064652648	pesticides
+VITAMIN_B_6_mg	0.064739839	supplement use
+PFA 18:2 (Octadecadienoic) (gm)	0.066724481	food component recall
+"Molybdenum, urine (ng/mL)"	0.067348584	heavy metals
+pneumonia	0.067874284	immunization
+Mono-isononyl phthalate	0.068478839	phthalates
+VITAMIN_B_6_mg	0.07011816	supplement use
+total supplement count	0.07108212	supplement use
+2-fluorene (ng/L)	0.071691195	hydrocarbons
+PCB74 (ng/g)	0.072286013	pcbs
+Blood Styrene (ng/mL)	0.073545642	volatile compounds
+PCB156 (ng/g)	0.073402766	pcbs
+VITAMIN_C_mg	0.074074586	supplement use
+PCB195 (ng/g)	0.074434248	pcbs
+"2,3,4,7,8-pncdf (fg/g)"	0.07854082	furans
+PFA 18:2 (Octadecadienoic) (gm)	0.079238132	food component recall
+Iron (mg)	0.079199061	food component recall
+Vitamin A (ug/dL)	0.079509937	nutrients
+Total polyunsaturated fatty acids (gm)	0.079955074	food component recall
+Retinyl Stearate (ug/dL)	0.08046479	nutrients
+Equol (ng/mL)	0.080820281	phytoestrogens
+3-chrysene (ng/L)	0.081981006	hydrocarbons
+RIBOFLAVIN_mg	0.08240138	supplement use
+"Tungsten, urine (ng/mL)"	0.082692764	heavy metals
+PCB149 (ng/g)	0.08313249	pcbs
+PCB110 (ng/g)	0.085291994	pcbs
+Hepatitis B Surface Antibody	0.0858977	viral infection
+PCB180 (ng/g)	0.089331943	pcbs
+"2,3,4,7,8-pncdf (fg/g)"	0.089688311	furans
+Diethylphosphate (ug/L)	0.089960363	diakyl
+IRON_mg	0.090434758	supplement use
+PCB170 (ng/g)	0.095575444	pcbs
+3-benzo[c] phenanthrene (ng/L)	0.095171976	hydrocarbons
+2-phenanthrene (ng/L)	0.095425173	hydrocarbons
+Cadmium (ug/L)	0.095627148	heavy metals
+THIAMIN_mg	0.095950951	supplement use
+Vitamin A (ug/dL)	0.096075016	nutrients
+Equol (ng/mL)	0.097003026	phytoestrogens
+PCB180 (ng/g)	0.09690725	pcbs
+"Cesium, urine (ng/mL)"	0.09688222	heavy metals
+PCB167 (ng/g)	0.097614843	pcbs
+Mono-isononyl phthalate	0.098201991	phthalates
+3-benzo[c] phenanthrene (ng/L)	0.098290388	hydrocarbons
+VITAMIN_B_6_mg	0.100670919	supplement use
+"1,2,3,7,8,9-hxcdf (fg/g)"	0.100308682	furans
+PCB178 (ng/g)	0.100719836	pcbs
+"o,p'-DDT (ng/g)"	0.100422438	pesticides
+Mono-benzyl phthalate	0.09981759	phthalates
+Potassium (mg)	0.099883072	food component recall
+1-phenanthrene (ng/L)	0.102168578	hydrocarbons
+Genistein (ng/mL)	0.102889972	phytoestrogens
+PCB180 (ng/g)	0.103818721	pcbs
+Zinc (mg)	0.104879164	food component recall
+Protein (gm)	0.104871463	food component recall
+Carbohydrate (gm)	0.105691318	food component recall
+"Cobalt, urine (ng/mL)"	0.106331155	heavy metals
+Mono-isobutyl pthalate	0.106613622	phthalates
+Vitamin E (ug/dL)	0.108099644	nutrients
+2-phenanthrene (ng/L)	0.107554262	hydrocarbons
+Beta-carotene (mcg)	0.108112131	food component recall
+"Mercury, total (ug/L)"	0.107938011	heavy metals
+2-napthol	0.109061094	hydrocarbons
+"Cesium, urine (ng/mL)"	0.109170794	heavy metals
+Niacin (mg)	0.109618043	food component recall
+PCB128 (ng/g)	0.111045377	pcbs
+PFA 18:3 (Octadecatrienoic) (gm)	0.112518484	food component recall
+"Molybdenum, urine (ng/mL)"	0.112568284	heavy metals
+PCB170 (ng/g)	0.113285096	pcbs
+PCB66 (ng/g)	0.113170753	pcbs
+Mono-isononyl phthalate	0.114372813	phthalates
+6-chrysene (ng/L)	0.115050238	hydrocarbons
+Mono-ethyl phthalate	0.115690782	phthalates
+"Platinum, urine (ng/mL)"	0.116324481	heavy metals
+g-Tocopherol (ug/dL)	0.116150131	nutrients
+drink per day	0.117317493	alcohol use
+RIBOFLAVIN_mg	0.117968049	supplement use
+MFA 22:1 (Docosenoic) (gm)	0.118487812	food component recall
+VITAMIN_B_6_mg	0.118316971	supplement use
+RIBOFLAVIN_mg	0.119033466	supplement use
+PCB178 (ng/g)	0.119401504	pcbs
+PCB153 (ng/g)	0.119973724	pcbs
+Enterodiol (ng/mL)	0.120895152	phytoestrogens
+Zinc (mg)	0.120906499	food component recall
+Zinc (mg)	0.120842606	food component recall
+3-chrysene (ng/L)	0.122029929	hydrocarbons
+"1,2,3,4,6,7,8,9-ocdd (fg/g)"	0.123063909	dioxins
+THIAMIN_mg	0.122842223	supplement use
+PCB187 (ng/g)	0.122680363	pcbs
+PCB118 (ng/g)	0.123458902	pcbs
+VITAMIN_C_mg	0.124825243	supplement use
+Thiamin (Vitamin B1) (mg)	0.12484456	food component recall
+PCB183 (ng/g)	0.125393721	pcbs
+PCB177 (ng/g)	0.126195813	pcbs
+PCB99 (ng/g)	0.128671352	pcbs
+PFA 18:4 (Octadecatetraenoic) (gm)	0.128721871	food component recall
+PCB170 (ng/g)	0.129181633	pcbs
+1-napthol	0.130010883	hydrocarbons
+PCB153 (ng/g)	0.129613606	pcbs
+Vitamin E (ug/dL)	0.130024626	nutrients
+1-benzo[a] anthracene (ng/L)	0.130970181	hydrocarbons
+Mono-isononyl phthalate	0.13160143	phthalates
+Mono-isononyl phthalate	0.132661607	phthalates
+days drink in year	0.132767757	alcohol use
+Dieldrin (ng/g)	0.133719551	pesticides
+PCB170 (ng/g)	0.133745632	pcbs
+PCB66 (ng/g)	0.13426165	pcbs
+Protein (gm)	0.135936536	food component recall
+Blood o-Xylene (ng/mL)	0.135865191	volatile compounds
+PCB138 (ng/g)	0.136906992	pcbs
+PCB187 (ng/g)	0.137710976	pcbs
+PCB128 (ng/g)	0.138345694	pcbs
+PCB138 (ng/g)	0.139503506	pcbs
+PCB195 (ng/g)	0.139283777	pcbs
+PCB138 (ng/g)	0.141815201	pcbs
+Energy (kcal)	0.143385147	food component recall
+Avg # cigarettes/day during past 30 days	0.143498875	smoking behavior
+1-napthol	0.144919146	hydrocarbons
+"Mercury, Inorganic (ug/L)"	0.145066429	heavy metals
+Zinc (mg)	0.145641485	food component recall
+1-pyrene (ng/L)	0.14570738	hydrocarbons
+PCB99 (ng/g)	0.146143629	pcbs
+PCB178 (ng/g)	0.14671811	pcbs
+PCB172 (ng/g)	0.146576183	pcbs
+VITAMIN_B_6_mg	0.147192764	supplement use
+RIBOFLAVIN_mg	0.147924913	supplement use
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.148001886	pcbs
+PCB178 (ng/g)	0.149001084	pcbs
+4-chrysene	0.149021722	hydrocarbons
+Mono-benzyl phthalate	0.15011948	phthalates
+g-Tocopherol (ug/dL)	0.151189247	nutrients
+days drink in year	0.151967967	alcohol use
+Equol (ng/mL)	0.151864332	phytoestrogens
+Mono-n-butyl phthalate	0.153280054	phthalates
+PCB177 (ng/g)	0.154338083	pcbs
+Mono-n-methyl phthalate	0.15527932	phthalates
+Equol (ng/mL)	0.15491599	phytoestrogens
+PCB187 (ng/g)	0.155281312	pcbs
+"p,p'-DDT (ng/g)"	0.155664515	pesticides
+PCB167 (ng/g)	0.156286319	pcbs
+VITAMIN_C_mg	0.156122434	supplement use
+"1,2,3,4,6,7,8,9-ocdd (fg/g)"	0.157120646	dioxins
+3-phenanthrene (ng/L)	0.157509855	hydrocarbons
+Diethylthiophosphate (ug/L)	0.157861723	diakyl
+"Cobalt, urine (ng/mL)"	0.1588995	heavy metals
+Smoked at least 100 cigarettes in life	0.159141077	smoking behavior
+PFA 18:4 (Octadecatetraenoic) (gm)	0.159296784	food component recall
+Water MTBE (ng/mL)	0.159845312	volatile compounds
+PCB153 (ng/g)	0.160007533	pcbs
+Phosphorus (mg)	0.161543644	food component recall
+VITAMIN_B_6_mg	0.162388201	supplement use
+Equol (ng/mL)	0.162589165	phytoestrogens
+PCB189 (ng/g)	0.16588455	pcbs
+2-phenanthrene (ng/L)	0.165599476	hydrocarbons
+2-phenanthrene (ng/L)	0.165599476	hydrocarbons
+Vitamin C (mg)	0.166943253	food component recall
+PCB110 (ng/g)	0.167766506	pcbs
+PCB146 (ng/g)	0.168243951	pcbs
+VITAMIN_B_6_mg	0.168531725	supplement use
+2-phenanthrene (ng/L)	0.169642642	hydrocarbons
+"Lead, urine (ng/mL)"	0.169978342	heavy metals
+Current Cigarette Smoker?	0.170332375	smoking behavior
+"2,3,7,8-tcdd (fg/g)"	0.172078733	dioxins
+1-benzo[a] anthracene (ng/L)	0.173195689	hydrocarbons
+2-napthol	0.173736602	hydrocarbons
+3-fluorene (ng/L)	0.17407449	hydrocarbons
+3-chrysene (ng/L)	0.175220522	hydrocarbons
+COPPER_mg	0.176331679	supplement use
+PFA 22:6 (Docosahexaenoic) (gm)	0.178409221	food component recall
+Blood Styrene (ng/mL)	0.178364218	volatile compounds
+RIBOFLAVIN_mg	0.17841921	supplement use
+Zinc (mg)	0.177553755	food component recall
+Endrin (ng/g)	0.178314388	pesticides
+3-benzo[c] phenanthrene (ng/L)	0.180064398	hydrocarbons
+Copper (mg)	0.180751237	food component recall
+"2,3,7,8-tcdf (fg/g)"	0.181565277	furans
+PCB187 (ng/g)	0.184519144	pcbs
+Mono-ethyl phthalate	0.183973291	phthalates
+Diethylphosphate (ug/L)	0.18427002	diakyl
+1-benzo[a] anthracene (ng/L)	0.184793814	hydrocarbons
+1-pyrene (ng/L)	0.187315952	hydrocarbons
+PCB178 (ng/g)	0.187831492	pcbs
+PCB187 (ng/g)	0.188671701	pcbs
+Endrin (ng/g)	0.189591265	pesticides
+PCB195 (ng/g)	0.190763737	pcbs
+PCB189 (ng/g)	0.193437028	pcbs
+CALCIUM_mg	0.193132778	supplement use
+PCB146 (ng/g)	0.194450898	pcbs
+3-benzo[c] phenanthrene (ng/L)	0.194403464	hydrocarbons
+PCB138 (ng/g)	0.197013146	pcbs
+Blood Styrene (ng/mL)	0.197131885	volatile compounds
+PCB149 (ng/g)	0.197676398	pcbs
+Endrin (ng/g)	0.198020443	pesticides
+PCB189 (ng/g)	0.199686899	pcbs
+VITAMIN_B_12_mcg	0.199715662	supplement use
+"Vitamin B12, serum (pg/mL)"	0.199939857	nutrients
+"Barium, urine (ng/mL)"	0.199630493	heavy metals
+"o,p'-DDT (ng/g)"	0.199332082	pesticides
+Mono-n-butyl phthalate	0.201800393	phthalates
+Gamma-hexachlorocyclohexane (ng/g)	0.202430095	pesticides
+trans-Nonachlor (ng/g)	0.20237444	pesticides
+DSDCOUNT	0.203317232	supplement use
+Lutein and zeaxanthin (ug/dL)	0.203566341	nutrients
+Cotinine (ng/mL)	0.203997721	cotinine
+"2,3,7,8-tcdd (fg/g)"	0.205324156	dioxins
+Enterodiol (ng/mL)	0.207603983	phytoestrogens
+PCB146 (ng/g)	0.207299209	pcbs
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.207646966	pcbs
+1-benzo[a] anthracene (ng/L)	0.207219519	hydrocarbons
+Current Cigarette Smoker?	0.209017041	smoking behavior
+Current Cigarette Smoker?	0.208824417	smoking behavior
+Mono-benzyl phthalate	0.208978938	phthalates
+Mono-isononyl phthalate	0.210509165	phthalates
+Vitamin D (ng/mL)	0.210272431	nutrients
+Mono-isononyl phthalate	0.217839766	phthalates
+Blood Styrene (ng/mL)	0.215635306	volatile compounds
+Energy (kcal)	0.217559123	food component recall
+PCB157 (ng/g)	0.217347297	pcbs
+Diethylphosphate (ug/L)	0.217599988	diakyl
+Vitamin A (ug/dL)	0.216077544	nutrients
+Equol (ng/mL)	0.217053729	phytoestrogens
+Blood Styrene (ng/mL)	0.215870629	volatile compounds
+Gamma-hexachlorocyclohexane (ng/g)	0.21844524	pesticides
+PCB195 (ng/g)	0.218877781	pcbs
+Herpes I	0.220012888	viral infection
+PCB167 (ng/g)	0.220312961	pcbs
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.220660198	pcbs
+Mono-isononyl phthalate	0.221948204	phthalates
+"Vitamin B12, serum (pg/mL)"	0.223023109	nutrients
+PCB195 (ng/g)	0.225123801	pcbs
+PCB110 (ng/g)	0.224360989	pcbs
+PCB153 (ng/g)	0.224961165	pcbs
+PCB189 (ng/g)	0.225181947	pcbs
+Heptachlor Epoxide (ng/g)	0.226171271	pesticides
+PCB146 (ng/g)	0.226840938	pcbs
+PCB66 (ng/g)	0.227222219	pcbs
+PCB187 (ng/g)	0.228660582	pcbs
+Cholesterol (mg)	0.230432512	food component recall
+Phosphorus (mg)	0.231742713	food component recall
+Mono-n-methyl phthalate	0.231984945	phthalates
+"1,2,3,4,6,7,8-hpcdf (fg/g)"	0.232665699	furans
+PCB66 (ng/g)	0.23307966	pcbs
+PFA 22:5 (Docosapentaenoic) (gm)	0.234803829	food component recall
+PCB189 (ng/g)	0.235263613	pcbs
+Vitamin A (ug/dL)	0.236845245	nutrients
+"Barium, urine (ng/mL)"	0.235946802	heavy metals
+PCB187 (ng/g)	0.236893924	pcbs
+Equol (ng/mL)	0.23690544	phytoestrogens
+Phosphorus (mg)	0.238453426	food component recall
+THIAMIN_mg	0.242945939	supplement use
+Gamma-hexachlorocyclohexane (ng/g)	0.245582901	pesticides
+"2,3,4,7,8-pncdf (fg/g)"	0.244380583	furans
+trans-Nonachlor (ng/g)	0.245758402	pesticides
+Water Dibromochloromethane (ng/mL)	0.24507708	volatile compounds
+Diethylthiophosphate (ug/L)	0.245842434	diakyl
+Mirex (ng/g)	0.24823759	pesticides
+"Lead, urine (ng/mL)"	0.248356624	heavy metals
+"2,3,7,8-tcdf (fg/g)"	0.248934035	furans
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.250225934	pcbs
+PCB177 (ng/g)	0.252486875	pcbs
+ATENOLOL	0.251435102	pharmaceutical
+Vitamin A (ug/dL)	0.252549014	nutrients
+"Barium, urine (ng/mL)"	0.252535149	heavy metals
+Current Cigarette Smoker?	0.251134144	smoking behavior
+MFA 16:1 (Hexadecenoic) (gm)	0.253222484	food component recall
+Oysters eaten during past 30 days	0.253843001	food component recall
+Alpha-carotene (ug/dL)	0.254841976	nutrients
+Flatfish eaten during past 30 days	0.254856518	food component recall
+total supplement count	0.254786503	supplement use
+PFA 18:3 (Octadecatrienoic) (gm)	0.25689907	food component recall
+Retinyl Stearate (ug/dL)	0.257104876	nutrients
+Diethylphosphate (ug/L)	0.257289819	diakyl
+"Folate, RBC (ng/mL RBC)"	0.259075526	nutrients
+2-benzo[c] phenanthrene (ng/L)	0.259599661	hydrocarbons
+PCB153 (ng/g)	0.26013951	pcbs
+MFA 18:1 (Octadecenoic) (gm)	0.26127798	food component recall
+SFA 16:0 (Hexadecanoic) (gm)	0.262456459	food component recall
+PCB187 (ng/g)	0.262478243	pcbs
+Diethylphosphate (ug/L)	0.263530217	diakyl
+PCB183 (ng/g)	0.263510789	pcbs
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.264677909	phytoestrogens
+Hexachlorobenzene (ng/g)	0.265838438	pesticides
+Hepatitis B core antibody	0.267126901	viral infection
+Endrin (ng/g)	0.267869435	pesticides
+Genistein (ng/mL)	0.269522052	phytoestrogens
+"Cobalt, urine (ng/mL)"	0.2695378	heavy metals
+Magnesium (mg)	0.270103716	food component recall
+PCB172 (ng/g)	0.271293415	pcbs
+"p,p'-DDE (ng/g)"	0.272520912	pesticides
+3-fluorene (ng/L)	0.273429872	hydrocarbons
+PCB170 (ng/g)	0.273568643	pcbs
+Vitamin A (ug/dL)	0.274653945	nutrients
+Total # of cigarettes smoked in home	0.274842934	smoking family
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.275702432	pcbs
+PCB105 (ng/g)	0.276102909	pcbs
+Mono-isononyl phthalate	0.277152589	phthalates
+PCB167 (ng/g)	0.278164122	pcbs
+Endrin (ng/g)	0.278096404	pesticides
+1-phenanthrene (ng/L)	0.280414532	hydrocarbons
+PCB138 (ng/g)	0.280421025	pcbs
+"Cesium, urine (ng/mL)"	0.279916795	heavy metals
+PCB151 (ng/g)	0.281729323	pcbs
+VITAMIN_C_mg	0.282186812	supplement use
+Total fat (gm)	0.283077266	food component recall
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.28393023	phytoestrogens
+THIAMIN_mg	0.28406198	supplement use
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.286079064	pcbs
+PCB99 (ng/g)	0.287359043	pcbs
+Diethylphosphate (ug/L)	0.292921751	diakyl
+PCB183 (ng/g)	0.291987155	pcbs
+PFA 20:4 (Eicosatetraenoic) (gm)	0.29254804	food component recall
+2-phenanthrene (ng/L)	0.292718414	hydrocarbons
+"p,p'-DDE (ng/g)"	0.292608935	pesticides
+PFA 18:3 (Octadecatrienoic) (gm)	0.293816841	food component recall
+PCB151 (ng/g)	0.296553334	pcbs
+Total monounsaturated fatty acids (gm)	0.296472753	food component recall
+Zinc (mg)	0.297141452	food component recall
+Endrin (ng/g)	0.298215362	pesticides
+PCB177 (ng/g)	0.300394934	pcbs
+MFA 16:1 (Hexadecenoic) (gm)	0.300866773	food component recall
+Total saturated fatty acids (gm)	0.301846604	food component recall
+2-benzo[c] phenanthrene (ng/L)	0.305995287	hydrocarbons
+Mono-n-butyl phthalate	0.305912855	phthalates
+Riboflavin (Vitamin B2) (mg)	0.307490605	food component recall
+Protein (gm)	0.308090291	food component recall
+"2,3,7,8-tcdd (fg/g)"	0.308881762	dioxins
+Diethylphosphate (ug/L)	0.311216616	diakyl
+Water MTBE (ng/mL)	0.312538328	volatile compounds
+Lutein and zeaxanthin (ug/dL)	0.313800311	nutrients
+Protein (gm)	0.314439774	food component recall
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.314477636	phytoestrogens
+"Vitamin B12, serum (pg/mL)"	0.314520945	nutrients
+Riboflavin (Vitamin B2) (mg)	0.315281498	food component recall
+Lead (ug/dL)	0.315785118	heavy metals
+"2,3,7,8-tcdd (fg/g)"	0.317621006	dioxins
+"Cobalt, urine (ng/mL)"	0.317018651	heavy metals
+PFA 20:4 (Eicosatetraenoic) (gm)	0.317481739	food component recall
+Total fat (gm)	0.318094449	food component recall
+"2,3,7,8-tcdf (fg/g)"	0.318685724	furans
+"1,2,3,4,6,7,8,9-ocdf (fg/g)"	0.319643077	furans
+PCB189 (ng/g)	0.322509842	pcbs
+"Barium, urine (ng/mL)"	0.322923525	heavy metals
+Varicella	0.323014689	bacterial infection
+Varicella	0.323014689	bacterial infection
+3-phenanthrene (ng/L)	0.322868606	hydrocarbons
+Blood m-/p-Xylene (ng/mL)	0.323582646	volatile compounds
+"2,3,7,8-tcdf (fg/g)"	0.324720388	furans
+PCB157 (ng/g)	0.325443064	pcbs
+4-chrysene	0.328015453	hydrocarbons
+PCB187 (ng/g)	0.332338067	pcbs
+Mono-isobutyl pthalate	0.331746219	phthalates
+PFA 18:2 (Octadecadienoic) (gm)	0.332065639	food component recall
+SFA 18:0 (Octadecanoic) (gm)	0.332252648	food component recall
+Mono-isononyl phthalate	0.333277988	phthalates
+Endrin (ng/g)	0.334058421	pesticides
+Aldrin (ng/g)	0.335320088	pesticides
+MFA 16:1 (Hexadecenoic) (gm)	0.335732757	food component recall
+PCB138 (ng/g)	0.33723571	pcbs
+PCB74 (ng/g)	0.337193501	pcbs
+DSDCOUNT	0.336453309	supplement use
+4-chrysene	0.335987298	hydrocarbons
+Enterolactone (ng/mL)	0.335906509	phytoestrogens
+Mono-(3-carboxypropyl) phthalate	0.339015949	phthalates
+PCB105 (ng/g)	0.338807003	pcbs
+# of times tuna eaten in past 30 days	0.340876265	food component recall
+MFA 18:1 (Octadecenoic) (gm)	0.344377783	food component recall
+PCB177 (ng/g)	0.344730908	pcbs
+VITAMIN_C_mg	0.345434435	supplement use
+Blood Styrene (ng/mL)	0.346584324	volatile compounds
+Oxychlordane (ng/g)	0.347706328	pesticides
+PCB178 (ng/g)	0.348033102	pcbs
+Total polyunsaturated fatty acids (gm)	0.349616337	food component recall
+Lutein and zeaxanthin (ug/dL)	0.349700034	nutrients
+Mono-benzyl phthalate	0.350826429	phthalates
+Diethylphosphate (ug/L)	0.350467778	diakyl
+Hepatitis B core antibody	0.351371996	viral infection
+VITAMIN_C_mg	0.354211334	supplement use
+PCB128 (ng/g)	0.357717433	pcbs
+1-benzo[a] anthracene (ng/L)	0.35679187	hydrocarbons
+SFA 16:0 (Hexadecanoic) (gm)	0.358054209	food component recall
+2-fluorene (ng/L)	0.356872518	hydrocarbons
+"1,2,3,4,6,7,8,9-ocdd (fg/g)"	0.357459514	dioxins
+Endrin (ng/g)	0.359033868	pesticides
+PCB180 (ng/g)	0.360498943	pcbs
+g-Tocopherol (ug/dL)	0.360101346	nutrients
+Dieldrin (ng/g)	0.361057163	pesticides
+PFA 20:4 (Eicosatetraenoic) (gm)	0.366003692	food component recall
+Alcohol (gm)	0.365945731	food component recall
+Blood Trichloroethene (ng/mL)	0.364933322	volatile compounds
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.366248903	phytoestrogens
+Total monounsaturated fatty acids (gm)	0.368355576	food component recall
+PCB177 (ng/g)	0.370588322	pcbs
+2-benzo[c] phenanthrene (ng/L)	0.371428544	hydrocarbons
+"Antimony, urine (ng/mL)"	0.372298211	heavy metals
+private water source	0.373972698	housing
+1-phenanthrene (ng/L)	0.376441855	hydrocarbons
+Diethylthiophosphate (ug/L)	0.377143017	diakyl
+PCB167 (ng/g)	0.376812895	pcbs
+Enterodiol (ng/mL)	0.37769554	phytoestrogens
+MFA 22:1 (Docosenoic) (gm)	0.380430944	food component recall
+Mono-isononyl phthalate	0.380329689	phthalates
+RIBOFLAVIN_mg	0.382482259	supplement use
+SFA 6:0 (Hexanoic) (gm)	0.383005614	food component recall
+b-Cryptoxanthin (ug/dL)	0.382609766	nutrients
+Calcium (mg)	0.381708117	food component recall
+Daidzein (ng/mL)	0.383748122	phytoestrogens
+Endrin (ng/g)	0.387334849	pesticides
+Equol (ng/mL)	0.3871945	phytoestrogens
+PCB177 (ng/g)	0.384664594	pcbs
+"1,2,3,4,6,7,8,9-ocdf (fg/g)"	0.385179509	furans
+Mono-benzyl phthalate	0.386908876	phthalates
+"2,3,7,8-tcdf (fg/g)"	0.3868383	furans
+Dietary fiber (gm)	0.386465403	food component recall
+SFA 18:0 (Octadecanoic) (gm)	0.390384976	food component recall
+VITAMIN_C_mg	0.390348611	supplement use
+PCB178 (ng/g)	0.39205189	pcbs
+"Molybdenum, urine (ng/mL)"	0.393306916	heavy metals
+PFA 18:4 (Octadecatetraenoic) (gm)	0.393565308	food component recall
+PCB157 (ng/g)	0.393734695	pcbs
+SFA 4:0 (Butanoic) (gm)	0.395278731	food component recall
+PCB99 (ng/g)	0.39532557	pcbs
+Retinyl Stearate (ug/dL)	0.395718774	nutrients
+Zinc (mg)	0.396900532	food component recall
+Other unknown fish eaten in past 30 days	0.397222694	food component recall
+1-benzo[a] anthracene (ng/L)	0.40050932	hydrocarbons
+"2,3,7,8-tcdf (fg/g)"	0.400923498	furans
+2-fluorene (ng/L)	0.402236506	hydrocarbons
+Total fat (gm)	0.403777315	food component recall
+PCB178 (ng/g)	0.406170942	pcbs
+PCB156 (ng/g)	0.40868177	pcbs
+Aldrin (ng/g)	0.40999628	pesticides
+"Folate, serum (ng/mL)"	0.410056456	nutrients
+"Cobalt, urine (ng/mL)"	0.410897557	heavy metals
+Total saturated fatty acids (gm)	0.41265232	food component recall
+1-benzo[a] anthracene (ng/L)	0.413176209	hydrocarbons
+Oxychlordane (ng/g)	0.413237294	pesticides
+Current Cigarette Smoker?	0.414222194	smoking behavior
+4-chrysene	0.41489757	hydrocarbons
+PCB149 (ng/g)	0.415426701	pcbs
+ATENOLOL	0.416007932	pharmaceutical
+SELENIUM_mcg	0.416993926	supplement use
+POTASSIUM_mg	0.417886575	supplement use
+"2,3,7,8-tcdd (fg/g)"	0.423577958	dioxins
+# of times tuna eaten in past 30 days	0.423934894	food component recall
+MFA 16:1 (Hexadecenoic) (gm)	0.424446029	food component recall
+Mono-cyclohexyl phthalate	0.425450182	phthalates
+SFA 16:0 (Hexadecanoic) (gm)	0.427251748	food component recall
+VITAMIN_B_12_mcg	0.429301223	supplement use
+PCB66 (ng/g)	0.429473055	pcbs
+PCB195 (ng/g)	0.43024328	pcbs
+"Barium, urine (ng/mL)"	0.432913235	heavy metals
+PCB151 (ng/g)	0.43234683	pcbs
+"p,p'-DDT (ng/g)"	0.433325226	pesticides
+4-chrysene	0.436924055	hydrocarbons
+PCB180 (ng/g)	0.440002066	pcbs
+"Folate, RBC (ng/mL RBC)"	0.439674549	nutrients
+THIAMIN_mg	0.44132493	supplement use
+PCB87 (ng/g)	0.440939736	pcbs
+b-Cryptoxanthin (ug/dL)	0.443374264	nutrients
+Smoked a pipe at least 20 times in life	0.443335081	smoking behavior
+"Barium, urine (ng/mL)"	0.443513989	heavy metals
+"Cobalt, urine (ng/mL)"	0.452245452	heavy metals
+Mono-benzyl phthalate	0.44908793	phthalates
+PCB177 (ng/g)	0.45110281	pcbs
+Equol (ng/mL)	0.448978318	phytoestrogens
+Retinyl Stearate (ug/dL)	0.450626369	nutrients
+PCB66 (ng/g)	0.448758023	pcbs
+Diethylphosphate (ug/L)	0.449462799	diakyl
+"Mercury, urine (ng/mL)"	0.451841296	heavy metals
+PCB138 (ng/g)	0.44875558	pcbs
+PCB149 (ng/g)	0.449525259	pcbs
+PCB66 (ng/g)	0.451337547	pcbs
+Zinc (mg)	0.446660718	food component recall
+Zinc (mg)	0.451574466	food component recall
+PCB153 (ng/g)	0.455628774	pcbs
+"Barium, urine (ng/mL)"	0.460960491	heavy metals
+VITAMIN_C_mg	0.461675331	supplement use
+VITAMIN_C_mg	0.463500062	supplement use
+SFA 18:0 (Octadecanoic) (gm)	0.465328124	food component recall
+Varicella	0.464852645	bacterial infection
+PCB178 (ng/g)	0.466878155	pcbs
+"Cobalt, urine (ng/mL)"	0.471428323	heavy metals
+"Cobalt, urine (ng/mL)"	0.471008324	heavy metals
+PFA 18:2 (Octadecadienoic) (gm)	0.471764557	food component recall
+Carbohydrate (gm)	0.471283853	food component recall
+Gamma-hexachlorocyclohexane (ng/g)	0.470135408	pesticides
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.474867495	pcbs
+Mono-isononyl phthalate	0.474870981	phthalates
+"Cobalt, urine (ng/mL)"	0.474864832	heavy metals
+b-Cryptoxanthin (ug/dL)	0.47566434	nutrients
+Mono-isononyl phthalate	0.475236224	phthalates
+PFA 18:3 (Octadecatrienoic) (gm)	0.478462032	food component recall
+Gamma-hexachlorocyclohexane (ng/g)	0.480788864	pesticides
+Aldrin (ng/g)	0.481351007	pesticides
+Diethylphosphate (ug/L)	0.483614515	diakyl
+Total saturated fatty acids (gm)	0.486891135	food component recall
+3-phenanthrene (ng/L)	0.488401109	hydrocarbons
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.490477626	phytoestrogens
+Lobsters eaten during past 30 days	0.490357377	food component recall
+Niacin (mg)	0.49012248	food component recall
+PCB183 (ng/g)	0.493820125	pcbs
+Mono-(2-ethyl)-hexyl phthalate	0.494521391	phthalates
+3-benzo[c] phenanthrene (ng/L)	0.495712809	hydrocarbons
+"Platinum, urine (ng/mL)"	0.496932138	heavy metals
+PCB99 (ng/g)	0.498263684	pcbs
+"Cobalt, urine (ng/mL)"	0.498960334	heavy metals
+Gamma-hexachlorocyclohexane (ng/g)	0.500590325	pesticides
+Diethylphosphate (ug/L)	0.501204111	diakyl
+DSDCOUNT	0.50079519	supplement use
+Scallops eaten during past 30 days	0.501880939	food component recall
+"Platinum, urine (ng/mL)"	0.503378768	heavy metals
+Dieldrin (ng/g)	0.507011931	pesticides
+PCB170 (ng/g)	0.508621879	pcbs
+"2,3,7,8-tcdf (fg/g)"	0.511381516	furans
+"2,3,7,8-tcdf (fg/g)"	0.511381516	furans
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.513353476	pcbs
+"2,3,7,8-tcdf (fg/g)"	0.514425772	furans
+PCB74 (ng/g)	0.515213933	pcbs
+Diethylphosphate (ug/L)	0.517242959	diakyl
+VITAMIN_C_mg	0.520055335	supplement use
+PCB189 (ng/g)	0.519213458	pcbs
+Caffeine (mg)	0.520303282	food component recall
+Herpes I	0.522486264	viral infection
+2-phenanthrene (ng/L)	0.529146151	hydrocarbons
+PCB149 (ng/g)	0.527117289	pcbs
+PFA 20:5 (Eicosapentaenoic) (gm)	0.525873351	food component recall
+PCB180 (ng/g)	0.52909171	pcbs
+PCB170 (ng/g)	0.529318326	pcbs
+Diethylphosphate (ug/L)	0.526817702	diakyl
+Diethylphosphate (ug/L)	0.52734239	diakyl
+Endrin (ng/g)	0.528298691	pesticides
+2-fluorene (ng/L)	0.530931064	hydrocarbons
+PCB66 (ng/g)	0.533014863	pcbs
+Measles	0.532808987	bacterial infection
+2-fluorene (ng/L)	0.533059881	hydrocarbons
+PCB66 (ng/g)	0.532861885	pcbs
+LISINOPRIL	0.53616419	pharmaceutical
+trans-Nonachlor (ng/g)	0.537345861	pesticides
+Water Bromoform (ng/mL)	0.540573087	volatile compounds
+PCB187 (ng/g)	0.539422673	pcbs
+MFA 18:1 (Octadecenoic) (gm)	0.539850173	food component recall
+Heptachlor Epoxide (ng/g)	0.541000236	pesticides
+private water source	0.551857616	housing
+Total polyunsaturated fatty acids (gm)	0.550708569	food component recall
+PCB180 (ng/g)	0.551418531	pcbs
+ATENOLOL	0.550894023	pharmaceutical
+num_months_main_job	0.552629602	occupation
+PCB66 (ng/g)	0.553888851	pcbs
+3-phenanthrene (ng/L)	0.555109582	hydrocarbons
+PCB99 (ng/g)	0.554657432	pcbs
+# of times catfish eaten in past 30 days	0.56147914	food component recall
+PHOSPHORUS_mg	0.559961188	supplement use
+Mono-(3-carboxypropyl) phthalate	0.560977734	phthalates
+Alpha-carotene (ug/dL)	0.561210688	nutrients
+PCB118 (ng/g)	0.562982104	pcbs
+PCB183 (ng/g)	0.563134453	pcbs
+PCB153 (ng/g)	0.567910683	pcbs
+VITAMIN_C_mg	0.567737982	supplement use
+"Cobalt, urine (ng/mL)"	0.56632194	heavy metals
+"Barium, urine (ng/mL)"	0.567192225	heavy metals
+PFA 20:5 (Eicosapentaenoic) (gm)	0.568170238	food component recall
+Total monounsaturated fatty acids (gm)	0.570952757	food component recall
+3-phenanthrene (ng/L)	0.572307039	hydrocarbons
+THIAMIN_mg	0.578964646	supplement use
+"2,3,7,8-tcdf (fg/g)"	0.580202533	furans
+"2,3,7,8-tcdf (fg/g)"	0.58087392	furans
+1-benzo[a] anthracene (ng/L)	0.58059995	hydrocarbons
+Alcohol (gm)	0.577151456	food component recall
+PCB187 (ng/g)	0.577608314	pcbs
+PCB167 (ng/g)	0.578399265	pcbs
+PCB178 (ng/g)	0.579005837	pcbs
+SFA 16:0 (Hexadecanoic) (gm)	0.575634529	food component recall
+Mono-benzyl phthalate	0.580041795	phthalates
+PFA 18:3 (Octadecatrienoic) (gm)	0.579997898	food component recall
+"Platinum, urine (ng/mL)"	0.579202493	heavy metals
+PCB199 (ng/g)	0.583305284	pcbs
+PCB138 (ng/g)	0.585120856	pcbs
+1-pyrene (ng/L)	0.58551737	hydrocarbons
+VITAMIN_C_mg	0.586133939	supplement use
+PCB180 (ng/g)	0.58764472	pcbs
+VITAMIN_C_mg	0.587546423	supplement use
+"1,2,3,4,6,7,8-hpcdd (fg/g)"	0.590688949	dioxins
+"Cobalt, urine (ng/mL)"	0.591424067	heavy metals
+O-Desmethylangolensin (O-DMA) (ng/mL)	0.592743026	phytoestrogens
+Blood Trichloroethene (ng/mL)	0.594947944	volatile compounds
+Zinc (mg)	0.595134792	food component recall
+Mono-isononyl phthalate	0.596614404	phthalates
+4-chrysene	0.597316547	hydrocarbons
+Water MTBE (ng/mL)	0.599167193	volatile compounds
+Other unknown fish eaten in past 30 days	0.607042482	food component recall
+b-Cryptoxanthin (ug/dL)	0.607480883	nutrients
+"Platinum, urine (ng/mL)"	0.603619269	heavy metals
+"2,3,7,8-tcdf (fg/g)"	0.604755754	furans
+Endrin (ng/g)	0.607756501	pesticides
+PCB105 (ng/g)	0.60671377	pcbs
+"2,3,7,8-tcdf (fg/g)"	0.608727684	furans
+PFA 22:6 (Docosahexaenoic) (gm)	0.601844979	food component recall
+Mono-isononyl phthalate	0.608734204	phthalates
+PCB66 (ng/g)	0.602909316	pcbs
+PCB74 (ng/g)	0.604086403	pcbs
+1-phenanthrene (ng/L)	0.602577384	hydrocarbons
+SFA 4:0 (Butanoic) (gm)	0.606574249	food component recall
+3-phenanthrene (ng/L)	0.606520249	hydrocarbons
+Diethylphosphate (ug/L)	0.609437238	diakyl
+PFA 18:3 (Octadecatrienoic) (gm)	0.612506698	food component recall
+Retinyl Palmitate (ug/dL)	0.613195066	nutrients
+PCB87 (ng/g)	0.616371272	pcbs
+"Platinum, urine (ng/mL)"	0.615902177	heavy metals
+PCB170 (ng/g)	0.61514322	pcbs
+1-pyrene (ng/L)	0.620272084	hydrocarbons
+Aldrin (ng/g)	0.620973499	pesticides
+PCB170 (ng/g)	0.62412086	pcbs
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.625673644	pcbs
+Smoked a pipe at least 20 times in life	0.627545371	smoking behavior
+Mono-isononyl phthalate	0.627232339	phthalates
+PCB183 (ng/g)	0.627704908	pcbs
+MFA 20:1 (Eicosenoic) (gm)	0.632172385	food component recall
+Mono-isononyl phthalate	0.632095029	phthalates
+"Tungsten, urine (ng/mL)"	0.633455621	heavy metals
+PFA 20:4 (Eicosatetraenoic) (gm)	0.636765525	food component recall
+"Mercury, total (ug/L)"	0.637034182	heavy metals
+"Cobalt, urine (ng/mL)"	0.640758197	heavy metals
+"Thallium, urine (ng/mL)"	0.641816996	heavy metals
+1-benzo[a] anthracene (ng/L)	0.643669439	hydrocarbons
+PCB105 (ng/g)	0.643373061	pcbs
+Heptachlor Epoxide (ng/g)	0.644246746	pesticides
+Mono-isononyl phthalate	0.648789798	phthalates
+Mono-isononyl phthalate	0.648646004	phthalates
+Protein (gm)	0.653527915	food component recall
+PCB99 (ng/g)	0.656753446	pcbs
+Heptachlor Epoxide (ng/g)	0.657663537	pesticides
+1-benzo[a] anthracene (ng/L)	0.659297936	hydrocarbons
+trans-Nonachlor (ng/g)	0.658503164	pesticides
+Aldrin (ng/g)	0.659456056	pesticides
+PCB149 (ng/g)	0.660254881	pcbs
+Blood o-Xylene (ng/mL)	0.661455312	volatile compounds
+PCB149 (ng/g)	0.66182006	pcbs
+Diethylphosphate (ug/L)	0.666872514	diakyl
+3-phenanthrene (ng/L)	0.662832278	hydrocarbons
+3-phenanthrene (ng/L)	0.663736035	hydrocarbons
+THIAMIN_mg	0.665089003	supplement use
+VITAMIN_C_mg	0.667240561	supplement use
+MAGNESIUM_mg	0.666397326	supplement use
+PCB128 (ng/g)	0.667025758	pcbs
+1-phenanthrene (ng/L)	0.664417364	hydrocarbons
+Water Bromoform (ng/mL)	0.671636066	volatile compounds
+PCB110 (ng/g)	0.673436035	pcbs
+Endrin (ng/g)	0.674490661	pesticides
+PCB195 (ng/g)	0.678541647	pcbs
+VITAMIN_C_mg	0.679282769	supplement use
+Diethylphosphate (ug/L)	0.680928377	diakyl
+PCB183 (ng/g)	0.689565867	pcbs
+SFA 8:0 (Octanoic) (gm)	0.690700158	food component recall
+"p,p'-DDE (ng/g)"	0.694844755	pesticides
+"2,3,7,8-tcdf (fg/g)"	0.696493811	furans
+PCB167 (ng/g)	0.697702947	pcbs
+PCB99 (ng/g)	0.705140358	pcbs
+PCB172 (ng/g)	0.7054855	pcbs
+private water source	0.704527647	housing
+Riboflavin (Vitamin B2) (mg)	0.718636817	food component recall
+Beta-cryptoxanthin (mcg)	0.720262439	food component recall
+PCB187 (ng/g)	0.721025775	pcbs
+SFA 6:0 (Hexanoic) (gm)	0.721828949	food component recall
+PCB146 (ng/g)	0.723392442	pcbs
+Blood Trichloroethene (ng/mL)	0.723092513	volatile compounds
+1-benzo[a] anthracene (ng/L)	0.724429408	hydrocarbons
+Mono-isononyl phthalate	0.730301023	phthalates
+PCB149 (ng/g)	0.730302764	pcbs
+PCB66 (ng/g)	0.732643793	pcbs
+Equol (ng/mL)	0.73281045	phytoestrogens
+Aldrin (ng/g)	0.735431183	pesticides
+PCB189 (ng/g)	0.735420797	pcbs
+Blood o-Xylene (ng/mL)	0.736701316	volatile compounds
+PCB183 (ng/g)	0.74128142	pcbs
+3-phenanthrene (ng/L)	0.742158588	hydrocarbons
+1-benzo[a] anthracene (ng/L)	0.742718504	hydrocarbons
+Blood m-/p-Xylene (ng/mL)	0.742899085	volatile compounds
+PFA 20:5 (Eicosapentaenoic) (gm)	0.742702098	food component recall
+PCB66 (ng/g)	0.741288619	pcbs
+MAGNESIUM_mg	0.744506379	supplement use
+Enterolactone (ng/mL)	0.747771805	phytoestrogens
+"2,3,7,8-tcdf (fg/g)"	0.748842438	furans
+PCB189 (ng/g)	0.749757638	pcbs
+"1,2,3,6,7,8-hxcdd (fg/g)"	0.750827161	dioxins
+"1,2,3,7,8,9-hxcdf (fg/g)"	0.755529163	furans
+RIBOFLAVIN_mg	0.759049919	supplement use
+VITAMIN_C_mg	0.763603914	supplement use
+Mono-benzyl phthalate	0.762726982	phthalates
+SFA 10:0 (Decanoic) (gm)	0.763702183	food component recall
+"2,3,7,8-tcdd (fg/g)"	0.766836912	dioxins
+PCB128 (ng/g)	0.768529034	pcbs
+"Mercury, Inorganic (ug/L)"	0.770413463	heavy metals
+PCB177 (ng/g)	0.77056391	pcbs
+Retinyl Palmitate (ug/dL)	0.773131644	nutrients
+"2,3,7,8-tcdf (fg/g)"	0.773903338	furans
+trans-Nonachlor (ng/g)	0.773773827	pesticides
+THIAMIN_mg	0.776536827	supplement use
+Does anyone smoke in home?	0.780653677	smoking family
+Diethylphosphate (ug/L)	0.78272984	diakyl
+2-phenanthrene (ng/L)	0.780562572	hydrocarbons
+2-phenanthrene (ng/L)	0.782107625	hydrocarbons
+Equol (ng/mL)	0.781888169	phytoestrogens
+Equol (ng/mL)	0.78492871	phytoestrogens
+PCB189 (ng/g)	0.788052505	pcbs
+PCB149 (ng/g)	0.789031519	pcbs
+Gamma-hexachlorocyclohexane (ng/g)	0.789510498	pesticides
+Mono-isononyl phthalate	0.791659723	phthalates
+RIBOFLAVIN_mg	0.792502477	supplement use
+PCB170 (ng/g)	0.79378535	pcbs
+PCB189 (ng/g)	0.798313367	pcbs
+3-phenanthrene (ng/L)	0.800441441	hydrocarbons
+PCB183 (ng/g)	0.799770209	pcbs
+PCB105 (ng/g)	0.804041059	pcbs
+"Barium, urine (ng/mL)"	0.804160642	heavy metals
+total supplement count	0.805722538	supplement use
+VITAMIN_C_mg	0.81365526	supplement use
+PCB178 (ng/g)	0.814439883	pcbs
+Gamma-hexachlorocyclohexane (ng/g)	0.814568732	pesticides
+# of times catfish eaten in past 30 days	0.813032349	food component recall
+PCB189 (ng/g)	0.812472506	pcbs
+PCB128 (ng/g)	0.809926278	pcbs
+Equol (ng/mL)	0.815830461	phytoestrogens
+Gamma-hexachlorocyclohexane (ng/g)	0.814062013	pesticides
+PCB195 (ng/g)	0.808114259	pcbs
+Mono-isononyl phthalate	0.812404517	phthalates
+VITAMIN_C_mg	0.808365445	supplement use
+Blood o-Xylene (ng/mL)	0.812079594	volatile compounds
+PCB189 (ng/g)	0.815739415	pcbs
+1-pyrene (ng/L)	0.819329324	hydrocarbons
+2-fluorene (ng/L)	0.820460467	hydrocarbons
+VITAMIN_C_mg	0.820365524	supplement use
+1-pyrene (ng/L)	0.820819688	hydrocarbons
+PCB66 (ng/g)	0.826376603	pcbs
+PCB183 (ng/g)	0.825712909	pcbs
+PCB195 (ng/g)	0.828140645	pcbs
+Mono-isononyl phthalate	0.82871667	phthalates
+# of times tuna eaten in past 30 days	0.828824819	food component recall
+Total fat (gm)	0.831402293	food component recall
+Water Bromoform (ng/mL)	0.832350558	volatile compounds
+"Mercury, Inorganic (ug/L)"	0.832510412	heavy metals
+1-phenanthrene (ng/L)	0.832680431	hydrocarbons
+Daidzein (ng/mL)	0.834381414	phytoestrogens
+Mirex (ng/g)	0.837219103	pesticides
+Flatfish eaten during past 30 days	0.838521418	food component recall
+PFA 22:6 (Docosahexaenoic) (gm)	0.838986846	food component recall
+Crabs eaten during past 30 days	0.839956614	food component recall
+Diethylphosphate (ug/L)	0.84476088	diakyl
+Oysters eaten during past 30 days	0.845957402	food component recall
+1-benzo[a] anthracene (ng/L)	0.846192435	hydrocarbons
+RIBOFLAVIN_mg	0.848446755	supplement use
+PCB87 (ng/g)	0.848614909	pcbs
+PCB146 (ng/g)	0.850107267	pcbs
+PCB74 (ng/g)	0.850094071	pcbs
+"3,3',4,4',5,5'-hxcb (fg/g)"	0.851451061	pcbs
+1-benzo[a] anthracene (ng/L)	0.852018543	hydrocarbons
+PCB149 (ng/g)	0.861498678	pcbs
+Retinyl Stearate (ug/dL)	0.859603375	nutrients
+Mono-(2-ethyl-5-hydroxyhexyl) phthalate	0.86153679	phthalates
+"Mercury, urine (ng/mL)"	0.857908673	heavy metals
+PFA 22:5 (Docosapentaenoic) (gm)	0.861007629	food component recall
+PCB66 (ng/g)	0.861162799	pcbs
+Gamma-hexachlorocyclohexane (ng/g)	0.862362594	pesticides
+2-napthol	0.863585965	hydrocarbons
+PFA 18:3 (Octadecatrienoic) (gm)	0.865455622	food component recall
+Mirex (ng/g)	0.866649662	pesticides
+PCB128 (ng/g)	0.867530436	pcbs
+PCB187 (ng/g)	0.870531733	pcbs
+PCB66 (ng/g)	0.869151286	pcbs
+Mono-isononyl phthalate	0.870970766	phthalates
+PCB149 (ng/g)	0.870098274	pcbs
+PCB66 (ng/g)	0.874730538	pcbs
+PCB66 (ng/g)	0.874730538	pcbs
+2-benzo[c] phenanthrene (ng/L)	0.874315785	hydrocarbons
+PFA 18:4 (Octadecatetraenoic) (gm)	0.881852352	food component recall
+"2,3,7,8-tcdd (fg/g)"	0.881286199	dioxins
+1-benzo[a] anthracene (ng/L)	0.885645313	hydrocarbons
+Diethylphosphate (ug/L)	0.886801518	diakyl
+VITAMIN_A_IU	0.891373331	supplement use
+Diethylphosphate (ug/L)	0.891376608	diakyl
+3-fluorene (ng/L)	0.898948724	hydrocarbons
+THIAMIN_mg	0.90104766	supplement use
+"p,p'-DDT (ng/g)"	0.901344257	pesticides
+PCB87 (ng/g)	0.899848024	pcbs
+PCB180 (ng/g)	0.903371566	pcbs
+1-pyrene (ng/L)	0.903446708	hydrocarbons
+PCB146 (ng/g)	0.904478388	pcbs
+Mono-isononyl phthalate	0.90721074	phthalates
+VITAMIN_C_mg	0.912038901	supplement use
+Flatfish eaten during past 30 days	0.912777902	food component recall
+PFA 18:2 (Octadecadienoic) (gm)	0.91462715	food component recall
+Thiamin (Vitamin B1) (mg)	0.91744696	food component recall
+PCB149 (ng/g)	0.91707546	pcbs
+PCB66 (ng/g)	0.920722338	pcbs
+1-pyrene (ng/L)	0.920597047	hydrocarbons
+Mono-cyclohexyl phthalate	0.919733549	phthalates
+Flatfish eaten during past 30 days	0.921417704	food component recall
+"2,3,7,8-tcdd (fg/g)"	0.923164689	dioxins
+PCB105 (ng/g)	0.922665538	pcbs
+SFA 14:0 (Tetradecanoic) (gm)	0.92389591	food component recall
+PCB66 (ng/g)	0.925493967	pcbs
+MAGNESIUM_mg	0.925898441	supplement use
+SFA 16:0 (Hexadecanoic) (gm)	0.926253418	food component recall
+3-chrysene (ng/L)	0.927177061	hydrocarbons
+PCB199 (ng/g)	0.932373023	pcbs
+Riboflavin (Vitamin B2) (mg)	0.931444672	food component recall
+Diethylphosphate (ug/L)	0.932991368	diakyl
+Blood m-/p-Xylene (ng/mL)	0.933164118	volatile compounds
+Beta-carotene (mcg)	0.935569443	food component recall
+3-chrysene (ng/L)	0.935122287	hydrocarbons
+PCB151 (ng/g)	0.93593228	pcbs
+Diethylphosphate (ug/L)	0.940157959	diakyl
+Vitamin B12 (mcg)	0.942664761	food component recall
+MFA 18:1 (Octadecenoic) (gm)	0.943923894	food component recall
+PCB66 (ng/g)	0.944573977	pcbs
+PCB177 (ng/g)	0.948639558	pcbs
+PCB110 (ng/g)	0.952072509	pcbs
+PCB178 (ng/g)	0.950062218	pcbs
+Total monounsaturated fatty acids (gm)	0.952178591	food component recall
+Mono-isononyl phthalate	0.952025266	phthalates
+Endrin (ng/g)	0.951555599	pesticides
+Gamma-hexachlorocyclohexane (ng/g)	0.949607231	pesticides
+Diethylphosphate (ug/L)	0.953276866	diakyl
+Endrin (ng/g)	0.956593333	pesticides
+PCB189 (ng/g)	0.956995188	pcbs
+Oxychlordane (ng/g)	0.95709035	pesticides
+Other unknown fish eaten in past 30 days	0.958054746	food component recall
+PCB167 (ng/g)	0.959781996	pcbs
+2-benzo[c] phenanthrene (ng/L)	0.962427853	hydrocarbons
+"Platinum, urine (ng/mL)"	0.962476154	heavy metals
+Blood m-/p-Xylene (ng/mL)	0.96236611	volatile compounds
+PCB149 (ng/g)	0.965250666	pcbs
+"Barium, urine (ng/mL)"	0.965933026	heavy metals
+PCB87 (ng/g)	0.968321365	pcbs
+"2,3,4,6,7,8-hxcdf (fg/g)"	0.971411708	furans
+Mono-isononyl phthalate	0.973587317	phthalates
+3-phenanthrene (ng/L)	0.972521859	hydrocarbons
+Total polyunsaturated fatty acids (gm)	0.970522478	food component recall
+3-chrysene (ng/L)	0.973063742	hydrocarbons
+1-benzo[a] anthracene (ng/L)	0.97508082	hydrocarbons
+"Barium, urine (ng/mL)"	0.975215407	heavy metals
+THIAMIN_mg	0.980105642	supplement use
+3-phenanthrene (ng/L)	0.982433141	hydrocarbons
+PCB187 (ng/g)	0.986247059	pcbs
+Oysters eaten during past 30 days	0.987170854	food component recall
+Aldrin (ng/g)	0.987874694	pesticides
+Vitamin K (mcg)	0.991495136	food component recall
+Current Cigarette Smoker?	0.992204592	smoking behavior
+THIAMIN_mg	0.99442675	supplement use
+PCB177 (ng/g)	0.994233543	pcbs
+PCB66 (ng/g)	0.997729149	pcbs
+PCB118 (ng/g)	0.996940393	pcbs
+Cotinine (ng/mL)	0.997527817	cotinine
+Water Dibromochloromethane (ng/mL)	0.998288693	volatile compounds
+"Platinum, urine (ng/mL)"	0.999999999	heavy metals
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+Age last smoked cigarettes regularly		smoking behavior
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+Diethylphosphate (ug/L)		diakyl
+"o,p'-DDT (ng/g)"		pesticides
+Mirex (ng/g)		pesticides
+"p,p'-DDT (ng/g)"		pesticides
+6-chrysene (ng/L)		hydrocarbons
+"p,p'-DDT (ng/g)"		pesticides
+"o,p'-DDT (ng/g)"		pesticides
+Diethylphosphate (ug/L)		diakyl
+Mirex (ng/g)		pesticides
+PCB66 (ng/g)		pcbs
+PCB187 (ng/g)		pcbs
+PCB178 (ng/g)		pcbs
+"1,2,3,7,8,9-hxcdf (fg/g)"		furans
+"o,p'-DDT (ng/g)"		pesticides
+PCB183 (ng/g)		pcbs
+Dimethylthiophosphate (ug/L)		diakyl
+PCB146 (ng/g)		pcbs
+PCB170 (ng/g)		pcbs
+PCB74 (ng/g)		pcbs
+"p,p'-DDT (ng/g)"		pesticides
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+Diethylphosphate (ug/L)		diakyl
+PCB105 (ng/g)		pcbs
+3-chrysene (ng/L)		hydrocarbons
+"2,3,7,8-tcdf (fg/g)"		furans
+PCB118 (ng/g)		pcbs
+PCB128 (ng/g)		pcbs
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+1-benzo[a] anthracene (ng/L)		hydrocarbons
+"1,2,3,7,8-pncdf (fg/g)"		furans
+"2,3,7,8-tcdd (fg/g)"		dioxins
+"1,2,3,4,6,7,8-hpcdf (fg/g)"		furans
+3-phenanthrene (ng/L)		hydrocarbons
+PCB101 (ng/g)		pcbs
+Oysters eaten during past 30 days		food component recall
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+1-pyrene (ng/L)		hydrocarbons
+Mono-isononyl phthalate		phthalates
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+Age last smoked cigarettes regularly		smoking behavior
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+Diethylphosphate (ug/L)		diakyl
+trans-Nonachlor (ng/g)		pesticides
+"2,3,7,8-tcdf (fg/g)"		furans
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+"3,3',4,4',5,5'-hxcb (fg/g)"		pcbs
+PCB167 (ng/g)		pcbs
+"2,3,7,8-tcdd (fg/g)"		dioxins
+PCB118 (ng/g)		pcbs
+PCB138 (ng/g)		pcbs
+Gamma-hexachlorocyclohexane (ng/g)		pesticides
+PCB66 (ng/g)		pcbs
+PCB177 (ng/g)		pcbs
+PCB170 (ng/g)		pcbs
+1-phenanthrene (ng/L)		hydrocarbons
+Oxychlordane (ng/g)		pesticides
+PCB157 (ng/g)		pcbs
+PCB99 (ng/g)		pcbs
+3-phenanthrene (ng/L)		hydrocarbons
+PCB105 (ng/g)		pcbs
+PCB187 (ng/g)		pcbs
+PCB153 (ng/g)		pcbs
+PCB128 (ng/g)		pcbs
+PCB183 (ng/g)		pcbs
+Heptachlor Epoxide (ng/g)		pesticides
+"1,2,3,7,8-pncdf (fg/g)"		furans
+PCB156 (ng/g)		pcbs
+Diethylphosphate (ug/L)		diakyl
+2-phenanthrene (ng/L)		hydrocarbons
+3-benzo[c] phenanthrene (ng/L)		hydrocarbons
+2-fluorene (ng/L)		hydrocarbons
+"3,3',4,4',5-pncb (fg/g)"		pcbs
+Mono-isononyl phthalate		phthalates
+2-benzo[c] phenanthrene (ng/L)		hydrocarbons
+1-benzo[a] anthracene (ng/L)		hydrocarbons
+PCB151 (ng/g)		pcbs
+3-phenanthrene (ng/L)		hydrocarbons
+"1,2,3,4,6,7,8-hpcdd (fg/g)"		dioxins
+PCB195 (ng/g)		pcbs
+Diethylthiophosphate (ug/L)		diakyl

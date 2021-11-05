@@ -1,0 +1,94 @@
+start	end
+Iron measurement	Alcohol
+Amino acid	Vitamins
+Lipid	Vitamins
+Lipid	Vitamins
+Enzyme	Smoking
+Metabolic product	Smoking
+Enzyme	Smoking
+RBC measurement	Smoking
+Blood protein	Smoking
+Amino acid	Smoking
+White blood cell	Smoking
+RBC measurement	Smoking
+White blood cell	Smoking
+White blood cell	Smoking
+Enzyme	Smoking
+Metabolic product	Smoking
+Blood protein	Smoking
+RBC measurement	Smoking
+Blood protein	Smoking
+Amino acid	Smoking
+White blood cell	Smoking
+RBC measurement	Smoking
+White blood cell	Smoking
+Metabolic product	Smoking
+RBC measurement	Smoking
+Blood protein	Smoking
+White blood cell	Smoking
+White blood cell	Smoking
+Enzyme	Alcohol
+Lipid	Alcohol
+Blood protein	Alcohol
+RBC measurement	Alcohol
+Blood protein	Dietary supplements (nonmetals)
+Amino acid	Dietary supplements (nonmetals)
+Metabolic product	Smoking
+RBC measurement	Smoking
+Blood protein	Smoking
+White blood cell	Smoking
+RBC measurement	Smoking
+White blood cell	Smoking
+Metabolic product	Smoking
+Enzyme	Smoking
+RBC measurement	Smoking
+Blood protein	Smoking
+White blood cell	Smoking
+RBC measurement	Smoking
+White blood cell	Smoking
+White blood cell	Smoking
+Metabolic product	Smoking
+Enzyme	Alcohol
+Amino acid	Vitamins
+Enzyme	Vitamins
+Blood protein	Vitamins
+Lipid	Vitamins
+Amino acid	Vitamins
+Iron measurement	Vitamins
+Lipid	Vitamins
+Lipid	Vitamins
+Amino acid	Dietary supplements (metals)
+Metabolic product	Dietary supplements (metals)
+Metabolic product	Metal pollutant
+Amino acid	Vitamins
+Metabolic product	Dietary supplement (nonmetals)
+Amino acid	Dietary supplements (metals)
+Metabolic product	Dietary supplements (metals)
+Blood protein	Dietary supplements (metals)
+Amino acid	Dietary supplements (metals)
+Blood protein	Dietary supplement (nonmetals)
+Metabolic product	Dietary supplement (nonmetals)
+Amino acid	Dietary supplement (nonmetals)
+Blood protein	Vitamins
+Enzyme	Vitamins
+Metabolic product	Vitamins
+Metabolic product	Vitamins
+Enzyme	Vitamins
+Blood protein	Vitamins
+Iron measurement	Vitamins
+Iron measurement	Vitamins
+Iron measurement	Vitamins
+Lipid	Vitamins
+Metabolic product	Vitamins
+Amino acid	Vitamins
+Metabolic product	Vitamins
+White blood cell	Smoking
+RBC measurement	Smoking
+White blood cell	Smoking
+Blood protein	Drugs & Chemicals
+Blood protein	Drugs & Chemicals
+Iron measurement	Drugs & Chemicals
+Blood protein	Metal pollutant
+Metabolic product	Metal pollutant
+Amino acid	Vitamins
+Amino acid	Vitamins

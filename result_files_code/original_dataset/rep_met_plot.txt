@@ -1,0 +1,18 @@
+SNP	phenotype	phenotype_long	ES	Pval
+r1	Retinol (Vitamin A)	Blood urea nitrogen	0.237420293	1.0499E-09
+r2	Cotinine	Blood urea nitrogen	-0.120981979	5.9899E-08
+r3	Protein	Blood urea nitrogen	0.157836557	8.12548E-07
+r4	Do you now smoke cigarettes	Blood urea nitrogen		0.00194649
+r5	Does anyone smoke in home	Blood urea nitrogen	-0.250087651	1.24694E-06
+r6	Cadmium	Blood urea nitrogen	-0.087316526	0.001042012
+r7	Phosphorus	Blood urea nitrogen	0.104025779	0.000708471
+r8	Retinol (Vitamin A)	Creatinine	0.201240437	1.34353E-08
+r9	Thallium	Creatinine	0.60684812	2.97796E-07
+r10	Molybdenum	Creatinine	0.450944592	0.027610971
+r11	Cotinine	Total bilirubin	-0.059802652	0.031666203
+r12	Does anyone smoke in home	Total bilirubin	-0.091285137	0.002620961
+r13	Caffeine	Total bilirubin	-0.236055972	3.79571E-05
+r14	Retinol (Vitamin A)	Uric acid	0.229626703	2.12378E-10
+r15	Riboflavin (Vitamin B2)	Uric acid	-0.082497494	0.000276952
+r16	Phosphorus	Uric acid	-0.067112123	0.041433892
+r17	Magnesium	Uric acid	-0.058975698	0.035008043

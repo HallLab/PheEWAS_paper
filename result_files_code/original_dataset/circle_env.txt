@@ -1,0 +1,178 @@
+circle_table <- pheno_exp_list
+View(circle_table)
+
+new_table <- circle_table[,1:2]
+library(data.table)
+test = setDT(new_table)[, .N, by = c(names(new_table))]
+
+library(circlize)
+
+# Make the circular plot
+df1 = test
+chordDiagram(df1, transparency = 0.25,annotationTrack = c("grid"),preAllocateTracks = list(track.height = max(strwidth(unlist(dimnames(df1))))), big.gap = 20, small.gap = 3)
+circos.track(track.index = 1, panel.fun = function(x, y) {
+  circos.text(cex=0.75,CELL_META$xcenter, CELL_META$ylim[1], CELL_META$sector.index, 
+              facing = "clockwise", niceFacing = TRUE, adj = c(0, 0.5))
+}, bg.border = NA) # here set bg.border to NA is important
+circos.clear()
+
+
+
+circle_table <- exposure_cat_pheewas
+#View(circle_table)
+new_table <- circle_table[,1:2]
+library(data.table)
+test = setDT(new_table)[, .N, by = c(names(new_table))]
+library(circlize)
+# Make the circular plot
+df1 = test
+library(reshape)
+mat1 = reshape(df1, idvar = "end", timevar = "start", direction = "wide")
+mat1 = as.data.frame(mat1)
+rownames(mat1) = c(mat1$end)
+colnames(mat1) = gsub(".*\\.","", colnames(mat1))
+mat1=mat1[,2:ncol(mat1)]
+circle_table <- pheno_cat_pheewas
+#View(circle_table)
+new_table <- circle_table[,1:2]
+library(data.table)
+test = setDT(new_table)[, .N, by = c(names(new_table))]
+library(circlize)
+
+# Make the circular plot
+df2 = test
+library(reshape)
+mat2 = reshape(df2, idvar = "end", timevar = "start", direction = "wide")
+mat2 = as.data.frame(mat2)
+rownames(mat2) = c(mat2$end)
+colnames(mat2) = gsub(".*\\.","", colnames(mat2))
+mat2=mat2[,2:ncol(mat2)]
+mat1 = as.matrix.data.frame(mat1)
+mat2 = as.matrix.data.frame(mat2)
+mat = matrix(0, nrow = 59, ncol = 15)
+rownames(mat) = c(rownames(mat1), rownames(mat2))
+colnames(mat) = c(colnames(mat1), colnames(mat2))
+mat[rownames(mat1), colnames(mat1)] = mat1
+mat[rownames(mat2), colnames(mat2)] = mat2
+mat
+mat=t(mat)
+nm = unique(unlist(dimnames(mat)))
+group = structure(c(rep("Exposure",7),rep("Phenotype",8),rep("Cat",59)), names = nm)
+group
+grid.col = structure(c(rep(2, 7), rep(3, 8), rep(6, 59)),
+                     names = nm)
+#chordDiagram(mat, group = group, grid.col = grid.col)
+libra
+circle_table <- exposure_cat_pheewas
+#View(circle_table)
+new_table <- circle_table[,1:2]
+library(data.table)
+test = setDT(new_table)[, .N, by = c(names(new_table))]
+library(circlize)
+# Make the circular plot
+df1 = test
+library(reshape)
+mat1 = reshape(df1, idvar = "end", timevar = "start", direction = "wide")
+mat1 = as.data.frame(mat1)
+rownames(mat1) = c(mat1$end)
+colnames(mat1) = gsub(".*\\.","", colnames(mat1))
+mat1=mat1[,2:ncol(mat1)]
+circle_table <- pheno_cat_pheewas
+#View(circle_table)
+new_table <- circle_table[,1:2]
+library(data.table)
+test = setDT(new_table)[, .N, by = c(names(new_table))]
+library(circlize)
+
+# Make the circular plot
+df2 = test
+library(reshape)
+mat2 = reshape(df2, idvar = "end", timevar = "start", direction = "wide")
+mat2 = as.data.frame(mat2)
+rownames(mat2) = c(mat2$end)
+colnames(mat2) = gsub(".*\\.","", colnames(mat2))
+mat2=mat2[,2:ncol(mat2)]
+mat1 = as.matrix.data.frame(mat1)
+mat2 = as.matrix.data.frame(mat2)
+mat = matrix(0, nrow = 59, ncol = 15)
+rownames(mat) = c(rownames(mat1), rownames(mat2))
+colnames(mat) = c(colnames(mat1), colnames(mat2))
+mat[rownames(mat1), colnames(mat1)] = mat1
+mat[rownames(mat2), colnames(mat2)] = mat2
+mat
+mat=t(mat)
+nm = unique(unlist(dimnames(mat)))
+group = structure(c(rep("Exposure",7),rep("Phenotype",8),rep("Cat",59)), names = nm)
+group
+grid.col = structure(c(rep(2, 7), rep(3, 8), rep(6, 59)),
+                     names = nm)
+#chordDiagram(mat, group = group, grid.col = grid.col)
+library(viridis)
+#mycolor <- viridis(97, alpha = 1, begin = 0, end = 1, option = "D")
+#mycolor <- mycolor[sample(1:97)]
+chordDiagram(mat, 
+             grid.col = grid.col, 
+             group = group,
+             transparency = 0.25,
+             annotationTrack = c("grid"),
+             preAllocateTracks = list(track.height = max(strwidth(unlist(dimnames(df1))))), 
+             big.gap = 20, 
+             small.gap = 3)
+circos.track(track.index = 1, panel.fun = function(x, y) {
+    circos.text(cex=0.75,CELL_META$xcenter, CELL_META$ylim[1], CELL_META$sector.index, 
+                facing = "clockwise", niceFacing = TRUE, adj = c(0, 0.5))
+}, bg.border = NA) # here set bg.border to NA is important
+circos.clear()
+
+########################
+# You need to save the final plot as 25 in x 25 in.
+# Add legend
+library(grid)
+library(gridBase)
+library(ComplexHeatmap)
+Category = structure(c(rep("Exposure",1),rep("Phenotype",1),rep("Association",1)))
+grid.col = structure(c(rep(2, 1), rep(3, 1), rep(6, 1)), names= c("Exposure","Phenotype","Association"))
+lgd_col = Legend(
+    labels = Category,                 
+    title = "Category",                 
+    type = "point",                 
+    background = unique(grid.col))
+pd = packLegend(lgd_col,direction = "horizontal")
+circle_size = unit(24.5, "in")
+draw(pd, x = circle_size, just = c("right", "top"))
+pushViewport(viewport(x = 10, y = 10, width = grobWidth(lgd_col), height = grobHeight(lgd_col), just = c("left", "top")))
+grid.draw(lgd_col)
+upViewport()
+
+
+
+# Libraries
+library(tidyverse)
+library(viridis)
+library(patchwork)
+library(hrbrthemes)
+library(circlize)
+
+# Package
+library(networkD3)
+
+# I need a long format
+data_long <- test
+colnames(data_long) <- c("source", "target", "value")
+data_long$target <- paste(data_long$target, " ", sep="")
+
+# From these flows we need to create a node data frame: it lists every entities involved in the flow
+nodes <- data.frame(name=c(as.character(data_long$source), as.character(data_long$target)) %>% unique())
+
+# With networkD3, connection must be provided using id, not using real name like in the links dataframe.. So we need to reformat it.
+data_long$IDsource=match(data_long$source, nodes$name)-1 
+data_long$IDtarget=match(data_long$target, nodes$name)-1
+
+# prepare colour scale
+ColourScal ='d3.scaleOrdinal() .range(["#FDE725FF","#B4DE2CFF","#6DCD59FF","#35B779FF","#1F9E89FF","#26828EFF","#31688EFF","#3E4A89FF","#482878FF","#440154FF"])'
+
+# Make the Network
+sankeyNetwork(Links = data_long, Nodes = nodes,
+              Source = "IDsource", Target = "IDtarget",
+              Value = "value", NodeID = "name", 
+              sinksRight=FALSE, colourScale=ColourScal, nodeWidth=40, fontSize=13, nodePadding=20)

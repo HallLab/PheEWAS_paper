@@ -1,0 +1,56 @@
+SNP	phenotype	pval
+Cadmium 	Alkaline phosphotase 	0.01201845
+Cadmium 	Blood urea nitrogen 	0.02596038
+Cadmium 	GGT	0.045421332
+Cadmium 	Hematocrit 	3.988e-05
+Cadmium 	Hemoglobin 	2.20556e-05
+Cadmium 	Homocysteine 	0.041330539
+Cadmium 	Lymphocytes	0.000442837
+Cadmium 	Mean cell hemoglobin 	0.000229539
+Cadmium 	Mean cell volume 	0.000133905
+Cadmium 	Monocytes	0.007176022
+Cadmium 	Segmented neutrophils	0.002924973
+Cotinine 	Alkaline phosphotase 	6.1017e-05
+Cotinine 	Blood urea nitrogen 	6.11554e-05
+Cotinine 	C-reactive protein	0.010393966
+Cotinine 	Eosinophils	0.044202258
+Cotinine 	Hematocrit 	0.000438502
+Cotinine 	Hemoglobin 	0.000315909
+Cotinine 	Homocysteine 	0.002715271
+Cotinine 	Lymphocytes	2.21698e-07
+Cotinine 	Mean cell hemoglobin 	0.000145855
+Cotinine 	Mean cell volume 	2.85688e-05
+Cotinine 	Segmented neutrophils	0.00119197
+Cotinine 	Total bilirubin 	0.02305061
+Does anyone smoke in home?	Blood urea nitrogen 	0.01333642
+Does anyone smoke in home?	GGT	0.00166247
+Does anyone smoke in home?	Hematocrit 	0.009980107
+Does anyone smoke in home?	Lymphocytes	0.000176593
+Does anyone smoke in home?	Mean cell hemoglobin 	0.003346923
+Does anyone smoke in home?	Mean cell volume 	7.59383e-05
+Does anyone smoke in home?	Monocytes	0.00022451
+Does anyone smoke in home?	Segmented neutrophils	0.000514745
+Does anyone smoke in home?	Total bilirubin 	0.042994718
+Retinol	Albumin 	2.977e-06
+Retinol	Alkaline phosphotase 	0.004396624
+Retinol	Blood urea nitrogen 	1.4405e-07
+Retinol	Creatinine 	3.11798e-06
+Retinol	Ferritin	4.99771e-05
+Retinol	GGT	0.000123731
+Retinol	Hemoglobin 	0.00044423
+Retinol	Iron 	3.04107e-08
+Retinol	Iron 	9.09568e-08
+Retinol	TIBC	0.044522856
+Retinol	Total calcium 	6.71199e-05
+Retinol	Transferrin saturation 	0.002690424
+Retinol	Triglycerides 	2.22454e-10
+Retinol	Uric acid 	1.71388e-08
+gamma-tocopherol	Alkaline phosphotase 	0.000302296
+gamma-tocopherol	C-reactive protein	0.00078464
+gamma-tocopherol	Glucose, plasma 	0.015667021
+gamma-tocopherol	Glycohemoglobin 	0.000612545
+gamma-tocopherol	HDL-cholesterol 	0.001384797
+gamma-tocopherol	Homocysteine 	0.000908049
+gamma-tocopherol	Iron 	0.001230169
+gamma-tocopherol	LDL-cholesterol 	0.002348444
+gamma-tocopherol	Triglycerides 	4.39689e-10
