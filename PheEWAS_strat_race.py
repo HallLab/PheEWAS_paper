@@ -8,9 +8,6 @@ from scipy import stats
 import clarite
 ​
 ​
-​
-​
-​
 # Define data files
 data_main_table_over18 = "MainTable_keepvar_over18.tsv"
 data_main_table = "MainTable.csv"
