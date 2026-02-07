@@ -1,0 +1,107 @@
+﻿Exposure,Phenotype,Exposure Cateogory,Variable Type,Discovery Raw Pvalue,Discovery Bonferroni pvalue,Discovery FDR,Discovery N,Discovery Beta,Replication Raw pvalue,Replication Bonferroni pvalue,Replication FDR,Replication N,Replication Beta
+Retinol (Vitamin A) (ug/dL),Albumin (g/dL),nutrients,continuous,1.66239E-10,0.000002977,1.73221E-07,8566,0.193517658,9.76888E-11,1.87465E-07,5.20736E-09,9225,0.159155495
+taking_birth_control,Albumin (g/dL),pharmaceutical,binary,6.74334E-07,0.012075982,8.05065E-05,1345,-0.430952055,2.38365E-08,4.57422E-05,4.86619E-07,1476,-0.595021052
+Potassium (mg),"Albumin, urine (ug/mL)",food component recall,continuous,5.47448E-07,0.0098037,7.15599E-05,8598,-0.092173798,2.22319E-07,0.000426631,2.94228E-06,9255,-0.107121657
+Protein (gm),"Albumin, urine (ug/mL)",food component recall,continuous,2.69118E-06,0.048193649,0.000236278,8598,-0.087223694,1.69261E-05,0.032481243,0.000117453,9255,-0.07936916
+"Thallium, urine (ng/mL)","Albumin, urine (ug/mL)",heavy metals,continuous,1.62946E-06,0.029180308,0.00016486,2833,0.297966313,2.02412E-10,3.88428E-07,8.82791E-09,3227,0.322204557
+Cadmium (ug/L),Alkaline phosphotase (U/L),heavy metals,continuous,6.71122E-07,0.01201845,8.05065E-05,8571,0.0973504,6.00803E-06,0.011529411,4.78399E-05,9269,0.062672944
+Cotinine (ng/mL),Alkaline phosphotase (U/L),cotinine,continuous,3.40725E-09,0.000061017,1.52889E-06,8459,0.102272794,4.98608E-07,0.000956828,5.6617E-06,9271,0.079685861
+gamma-tocopherol (Vitamin E) (ug/dL),Alkaline phosphotase (U/L),nutrients,continuous,1.68805E-08,0.000302296,4.25769E-06,8037,0.137439681,1.27647E-08,2.44954E-05,2.91612E-07,9198,0.107230625
+Retinol (Vitamin A) (ug/dL),Alkaline phosphotase (U/L),nutrients,continuous,2.45512E-07,0.004396624,3.66385E-05,8566,-0.082937943,9.42952E-08,0.000180953,1.47116E-06,9225,-0.096612981
+Caffeine (mg),"Bilirubin, total (mg/dL)",food component recall,continuous,6.62292E-07,0.011860324,8.01373E-05,8271,-0.063863189,1.65014E-05,0.031666203,0.00011557,8904,-0.059802652
+Cotinine (ng/mL),"Bilirubin, total (mg/dL)",cotinine,continuous,1.28717E-06,0.02305061,0.000138859,8458,-0.114193041,1.3658E-06,0.002620961,1.34408E-05,9266,-0.091285137
+Does anyone smoke in home?,"Bilirubin, total (mg/dL)",smoking family,binary,2.40087E-06,0.042994718,0.000220053,8573,-0.225962803,1.97796E-08,3.79571E-05,4.21746E-07,9270,-0.236055972
+Cadmium (ug/L),Blood urea nitrogen (mg/dL),heavy metals,continuous,1.44965E-06,0.02596038,0.000154526,8571,-0.089873582,5.42997E-07,0.001042012,6.0535E-06,9269,-0.087316526
+Cotinine (ng/mL),Blood urea nitrogen (mg/dL),cotinine,continuous,3.41498E-09,6.11554E-05,1.52889E-06,8459,-0.122225635,3.12137E-11,5.9899E-08,2.06548E-09,9271,-0.120981979
+Do you now smoke cigarettes...,Blood urea nitrogen (mg/dL),smoking behavior,categorical,2.73345E-07,0.004895068,3.98178E-05,3689,,1.01432E-06,0.00194649,1.03537E-05,5773,
+Does anyone smoke in home?,Blood urea nitrogen (mg/dL),smoking family,binary,7.44719E-07,0.01333642,8.66001E-05,8574,-0.215506937,6.49785E-10,1.24694E-06,2.18761E-08,9275,-0.250087651
+Phosphorus (mg),Blood urea nitrogen (mg/dL),food component recall,continuous,2.2736E-06,0.040715576,0.00021206,8272,0.085443675,3.69188E-07,0.000708471,0.000004484,8908,0.104025779
+Protein (gm),Blood urea nitrogen (mg/dL),food component recall,continuous,1.4527E-08,0.00026015,3.88284E-06,8272,0.133183501,4.23423E-10,8.12548E-07,1.53311E-08,8908,0.157836557
+Retinol (Vitamin A) (ug/dL),Blood urea nitrogen (mg/dL),nutrients,continuous,8.04389E-12,1.4405E-07,1.4405E-08,8566,0.245324134,5.47106E-13,1.0499E-09,1.0499E-10,9225,0.237420293
+Cotinine (ng/mL),C-reactive protein(mg/dL),cotinine,continuous,5.80409E-07,0.010393966,7.37848E-05,8481,0.099322519,2.93753E-06,0.005637125,2.64654E-05,9318,0.080369352
+Dietary fiber (gm),C-reactive protein(mg/dL),food component recall,continuous,1.50181E-06,0.026894441,0.000155774,8320,-0.068156841,3.27403E-06,0.006282873,2.88205E-05,8968,-0.098983996
+gamma-tocopherol (Vitamin E) (ug/dL),C-reactive protein(mg/dL),nutrients,continuous,4.3815E-08,0.00078464,9.43371E-06,8068,0.097529473,2.46361E-07,0.000472768,3.21611E-06,9216,0.101710848
+taking_birth_control,C-reactive protein(mg/dL),pharmaceutical,binary,1.04026E-11,1.8629E-07,1.59917E-08,1351,0.793767084,2.18729E-11,4.19741E-08,1.61439E-09,1488,0.824387584
+Retinol (Vitamin A) (ug/dL),"Calcium, total (mg/dL)",nutrients,continuous,3.74804E-09,6.71199E-05,1.63707E-06,8566,0.224406884,7.00117E-12,1.34353E-08,7.77431E-10,9225,0.201240437
+alpha-tocopherol (Vitamin E) (ug/dL),Chloride (mmol/L),nutrients,continuous,1.88145E-06,0.033693009,0.000185126,8532,-0.095178793,9.64635E-08,0.000185114,1.47829E-06,9225,-0.130742237
+Retinol (Vitamin A) (ug/dL),Creatinine (mg/dL),nutrients,continuous,1.74111E-10,3.11798E-06,1.73221E-07,8566,0.25201891,2.89371E-13,5.55303E-10,6.71837E-11,9225,0.229437841
+"Molybdenum, urine (ng/mL)","Creatinine, urine (mg/dL)",heavy metals,continuous,9.3257E-08,0.001670046,1.67682E-05,2766,0.440168158,1.43882E-05,0.027610971,0.000103026,3227,0.450944592
+"Thallium, urine (ng/mL)","Creatinine, urine (mg/dL)",heavy metals,continuous,7.48855E-08,0.00134105,1.44199E-05,2832,0.601473255,1.55183E-10,2.97796E-07,7.64262E-09,3227,0.60684812
+days drink in year,Direct HDL-Cholesterol (mg/dL),alcohol use,continuous,5.70209E-12,1.02113E-07,1.13459E-08,4772,0.227897288,3.03639E-08,5.82683E-05,5.94574E-07,5011,0.182331382
+gamma-tocopherol (Vitamin E) (ug/dL),Direct HDL-Cholesterol (mg/dL),nutrients,continuous,7.73284E-08,0.001384797,1.45768E-05,8031,-0.111440393,4.1833E-06,0.008027745,3.50557E-05,9215,-0.10162331
+Cotinine (ng/mL),Eosinophils number,cotinine,continuous,2.4683E-06,0.044202258,0.000223781,8432,0.065778792,2.61344E-07,0.000501519,3.3659E-06,9259,0.083496587
+Retinol (Vitamin A) (ug/dL),Ferritin (ng/mL),nutrients,continuous,2.79077E-09,4.99771E-05,1.31519E-06,8600,0.142794355,8.41686E-11,1.61519E-07,4.61484E-09,2860,0.281457846
+Cadmium (ug/L),GGT (U/L),heavy metals,continuous,2.53637E-06,0.045421332,0.000227107,8571,0.10673348,1.05897E-05,0.02032155,7.90722E-05,9267,0.086495351
+days drink in year,GGT (U/L),alcohol use,continuous,9.30549E-09,0.000166643,2.92356E-06,4779,0.176918089,1.84749E-07,0.000354532,2.53237E-06,4997,0.168799533
+Does anyone smoke in home?,GGT (U/L),smoking family,binary,9.28339E-08,0.00166247,1.67682E-05,8574,0.271128522,4.36644E-07,0.000837921,5.04936E-06,9273,0.209733892
+drink per day,GGT (U/L),alcohol use,continuous,4.85757E-08,0.000869894,0.000010115,4775,0.145585915,1.88152E-05,0.036106299,0.000124935,5002,0.143507726
+Retinol (Vitamin A) (ug/dL),GGT (U/L),nutrients,continuous,6.90927E-09,0.000123731,2.54245E-06,8566,0.17768269,1.37052E-12,2.63003E-09,2.19169E-10,9223,0.189604164
+gamma-tocopherol (Vitamin E) (ug/dL),"Glucose, plasma (mg/dL)",nutrients,continuous,8.74862E-07,0.015667021,9.85347E-05,3964,0.168158709,2.62079E-06,0.005029292,2.40636E-05,4441,0.136512819
+gamma-tocopherol (Vitamin E) (ug/dL),Glycohemoglobin (%),nutrients,continuous,3.42051E-08,0.000612545,7.65681E-06,8066,0.177623671,1.26418E-06,0.002425954,1.25697E-05,9198,0.128544817
+Cadmium (ug/L),Hematocrit (%),heavy metals,continuous,2.22694E-09,0.00003988,1.17294E-06,8712,0.117824793,2.92698E-11,5.61687E-08,2.00602E-09,9389,0.129487456
+Cotinine (ng/mL),Hematocrit (%),cotinine,continuous,2.44864E-08,0.000438502,5.76922E-06,8476,0.101108042,2.37569E-11,4.55895E-08,1.6885E-09,9307,0.109582756
+Current Cigarette Smoker?,Hematocrit (%),smoking behavior,binary,8.26958E-10,1.48092E-05,5.92367E-07,3741,0.299239549,1.7122E-07,0.000328572,2.38096E-06,5847,0.207452576
+Do you now smoke cigarettes...,Hematocrit (%),smoking behavior,categorical,5.60222E-09,0.000100325,2.2801E-06,3741,,6.36754E-08,0.000122193,1.09101E-06,5847,
+Does anyone smoke in home?,Hematocrit (%),smoking family,binary,5.57299E-07,0.009980107,7.23196E-05,8717,0.211026222,7.84715E-08,0.000150587,1.25489E-06,9402,0.227650684
+Cadmium (ug/L),Hemoglobin (g/dL),heavy metals,continuous,1.2316E-09,2.20556E-05,7.7809E-07,8712,0.125237283,7.81428E-12,1.49956E-08,7.77431E-10,9389,0.134407843
+Cotinine (ng/mL),Hemoglobin (g/dL),cotinine,continuous,1.76407E-08,0.000315909,4.38762E-06,8476,0.109687449,8.03903E-12,1.54269E-08,7.77431E-10,9307,0.118057182
+Current Cigarette Smoker?,Hemoglobin (g/dL),smoking behavior,binary,1.26003E-09,2.25646E-05,7.7809E-07,3741,0.312973366,1.56298E-07,0.000299935,2.18931E-06,5847,0.211084201
+Do you now smoke cigarettes...,Hemoglobin (g/dL),smoking behavior,categorical,4.66207E-09,8.34884E-05,1.94159E-06,3741,,1.71697E-08,3.29487E-05,3.74417E-07,5847,
+Retinol (Vitamin A) (ug/dL),Hemoglobin (g/dL),nutrients,continuous,2.48062E-08,0.00044423,5.76922E-06,8597,0.096211682,7.39073E-06,0.014182804,5.71887E-05,9232,0.087061199
+Cadmium (ug/L),Homocysteine (umol/L),heavy metals,continuous,2.30794E-06,0.041330539,0.000214148,8687,0.082353478,2.71503E-07,0.000521014,3.47343E-06,8872,0.097273139
+Cotinine (ng/mL),Homocysteine (umol/L),cotinine,continuous,1.51623E-07,0.002715271,2.46843E-05,8467,0.078592434,4.22463E-11,8.10706E-08,2.70235E-09,8819,0.107227836
+Dietary fiber (gm),Homocysteine (umol/L),food component recall,continuous,1.21751E-08,0.000218031,3.51664E-06,8381,-0.083758128,2.88133E-07,0.000552928,3.61391E-06,8518,-0.121191653
+"Folate, RBC (ng/mL RBC)",Homocysteine (umol/L),nutrients,continuous,1.74028E-07,0.0031165,2.73377E-05,8677,-0.154223821,1.32101E-11,2.53502E-08,1.05626E-09,8817,-0.172978947
+gamma-tocopherol (Vitamin E) (ug/dL),Homocysteine (umol/L),nutrients,continuous,5.07063E-08,0.000908049,1.03187E-05,8054,0.101619474,1.16154E-07,0.000222899,1.70152E-06,8725,0.089421456
+Iron (mg),Homocysteine (umol/L),food component recall,continuous,5.87357E-09,0.000105184,2.33742E-06,8381,-0.112687097,3.20188E-08,6.14442E-05,6.20648E-07,8518,-0.133105499
+Niacin (mg),Homocysteine (umol/L),food component recall,continuous,2.14735E-07,0.003845477,3.25888E-05,8381,-0.088150941,8.94574E-07,0.001716687,9.3808E-06,8518,-0.099054538
+Phosphorus (mg),Homocysteine (umol/L),food component recall,continuous,6.07392E-07,0.01087717,7.55359E-05,8381,-0.088260826,6.46098E-07,0.001239862,7.12564E-06,8518,-0.107717891
+Potassium (mg),Homocysteine (umol/L),food component recall,continuous,9.52261E-07,0.017053083,0.000106582,8381,-0.069269065,3.06404E-07,0.00058799,3.81811E-06,8518,-0.10195591
+Protein (gm),Homocysteine (umol/L),food component recall,continuous,1.91719E-07,0.003433306,2.93445E-05,8381,-0.083341517,4.72564E-06,0.009068508,3.87543E-05,8518,-0.100092472
+Riboflavin (Vitamin B2) (mg),Homocysteine (umol/L),food component recall,continuous,7.72872E-08,0.00138406,1.45768E-05,8381,-0.107479216,3.83861E-08,7.36629E-05,7.36629E-07,8518,-0.111278141
+Thiamin (Vitamin B1) (mg),Homocysteine (umol/L),food component recall,continuous,7.5359E-09,0.000134953,2.64614E-06,8381,-0.094705075,4.6919E-08,9.00376E-05,8.44058E-07,8518,-0.123601561
+total supplement count,Homocysteine (umol/L),supplement use,continuous,1.17959E-08,0.000211241,3.46296E-06,8682,-0.107321734,2.2525E-09,4.32255E-06,6.75399E-08,8875,-0.104750717
+alpha-tocopherol (Vitamin E) (ug/dL),Homocysteine (umol/L),nutrients,continuous,1.03667E-07,0.001856463,1.82006E-05,8555,-0.09797765,1.60883E-09,3.08735E-06,4.90056E-08,8748,-0.113557788
+Alcohol (gm),"Iron, Count (ug/dL)",food component recall,continuous,1.82139E-07,0.003261744,0.000028363,8271,0.087913068,3.17311E-07,0.00060892,3.90333E-06,8903,0.096219914
+gamma-tocopherol (Vitamin E) (ug/dL),"Iron, Count (ug/dL)",nutrients,continuous,6.86938E-08,0.001230169,1.35183E-05,8036,-0.090108013,1.86999E-08,3.58851E-05,4.03203E-07,9193,-0.08916315
+Retinol (Vitamin A) (ug/dL),"Iron, Count (ug/dL)",nutrients,continuous,5.07912E-12,9.09568E-08,1.13459E-08,8565,0.168111639,8.44104E-12,1.61984E-08,7.77431E-10,9220,0.191476315
+Retinol (Vitamin A) (ug/dL),"Iron, Frozen Serum (ug/dL)",nutrients,continuous,1.69817E-12,3.04107E-08,4.34439E-09,8588,0.167968185,1.55322E-10,2.98062E-07,7.64262E-09,3406,0.253163522
+gamma-tocopherol (Vitamin E) (ug/dL),LDL-cholesterol (mg/dL),nutrients,continuous,1.31139E-07,0.002348444,2.21551E-05,3563,0.227143431,4.58141E-08,8.79173E-05,8.44058E-07,4321,0.228858449
+alpha-tocopherol (Vitamin E) (ug/dL),LDL-cholesterol (mg/dL),nutrients,continuous,2.24539E-10,4.02104E-06,2.11633E-07,3796,0.331078126,1.49877E-09,2.87614E-06,4.63893E-08,4336,0.321573948
+Cadmium (ug/L),Lymphocyte number,heavy metals,continuous,2.47285E-08,0.000442837,5.76922E-06,8663,0.12784767,9.73826E-10,1.86877E-06,3.22202E-08,9341,0.130659286
+Cotinine (ng/mL),Lymphocyte number,cotinine,continuous,1.23798E-11,2.21698E-07,1.70537E-08,8432,0.178151455,1.39645E-11,2.67979E-08,1.07191E-09,9259,0.157294058
+Current Cigarette Smoker?,Lymphocyte number,smoking behavior,binary,2.55904E-10,4.58272E-06,2.29136E-07,3723,0.476803439,9.80569E-06,0.018817114,7.40831E-05,5819,0.231962319
+Do you now smoke cigarettes...,Lymphocyte number,smoking behavior,categorical,8.7133E-09,0.000156038,2.78639E-06,3723,,7.69081E-09,1.47587E-05,1.86818E-07,5819,
+Does anyone smoke in home?,Lymphocyte number,smoking family,binary,9.86115E-09,0.000176593,3.04471E-06,8668,0.328433563,5.4488E-09,1.04562E-05,1.41301E-07,9354,0.319032186
+Smoked at least 100 cigarettes in life,Lymphocyte number,smoking behavior,binary,1.60996E-08,0.000288312,4.11875E-06,7762,0.286277351,1.89593E-07,0.000363829,2.58035E-06,8385,0.246708596
+Cadmium (ug/L),Mean cell hemoglobin (pg),heavy metals,continuous,1.28177E-08,0.000229539,3.58654E-06,8712,0.098554194,2.23517E-08,0.000042893,4.61215E-07,9389,0.095152693
+Cotinine (ng/mL),Mean cell hemoglobin (pg),cotinine,continuous,8.14466E-09,0.000145855,2.75197E-06,8476,0.1327105,6.38318E-10,1.22493E-06,2.18761E-08,9307,0.117796346
+days drink in year,Mean cell hemoglobin (pg),alcohol use,continuous,4.06767E-10,7.28439E-06,3.42341E-07,4841,0.159282082,1.60676E-06,0.003083363,1.57314E-05,5046,0.118528466
+Do you now smoke cigarettes...,Mean cell hemoglobin (pg),smoking behavior,categorical,2.7888E-06,0.049941747,0.000239858,3741,,4.26936E-08,8.19289E-05,8.11178E-07,5847,
+Does anyone smoke in home?,Mean cell hemoglobin (pg),smoking family,binary,1.86895E-07,0.003346923,2.88528E-05,8717,0.284149005,1.75348E-05,0.03364932,0.000119376,9402,0.211424864
+Cadmium (ug/L),Mean cell volume (fL),heavy metals,continuous,7.47737E-09,0.000133905,2.64614E-06,8712,0.101360958,6.52136E-08,0.000125145,1.09776E-06,9389,0.100371169
+Cotinine (ng/mL),Mean cell volume (fL),cotinine,continuous,1.59531E-09,2.85688E-05,9.21573E-07,8476,0.139232101,2.43101E-09,4.66511E-06,7.17709E-08,9307,0.122303862
+days drink in year,Mean cell volume (fL),alcohol use,continuous,9.14373E-10,1.63746E-05,6.29792E-07,4841,0.164007011,4.7999E-07,0.000921101,5.48275E-06,5046,0.119473074
+Do you now smoke cigarettes...,Mean cell volume (fL),smoking behavior,categorical,7.43643E-07,0.013317157,8.66001E-05,3741,,1.53371E-08,2.94319E-05,3.42231E-07,5847,
+Does anyone smoke in home?,Mean cell volume (fL),smoking family,binary,4.24047E-09,7.59383E-05,1.80806E-06,8717,0.313483026,5.0455E-06,0.00968231,4.12013E-05,9402,0.244281874
+Smoked at least 100 cigarettes in life,Mean cell volume (fL),smoking behavior,binary,3.55638E-07,0.006368766,4.99433E-05,7808,0.237321944,3.97226E-12,7.62278E-09,5.44484E-10,8433,0.250456316
+Cadmium (ug/L),Monocyte number,heavy metals,continuous,4.00716E-07,0.007176022,5.47788E-05,8663,0.106669975,4.26157E-06,0.008177949,3.55563E-05,9341,0.081275484
+Does anyone smoke in home?,Monocyte number,smoking family,binary,1.25368E-08,0.00022451,3.56365E-06,8668,0.280563346,2.13894E-05,0.041046283,0.000136821,9354,0.191236143
+"Folate, RBC (ng/mL RBC)",Red cell count SI,nutrients,continuous,1.83333E-06,0.032831245,0.000181388,8700,-0.069218258,4.47418E-09,8.58595E-06,1.19249E-07,9333,-0.107122821
+Cadmium (ug/L),Segmented neutrophils number,heavy metals,continuous,1.63333E-07,0.002924973,2.61158E-05,8663,0.118734111,8.40788E-09,1.61347E-05,2.01684E-07,9341,0.135019648
+Cotinine (ng/mL),Segmented neutrophils number,cotinine,continuous,6.65607E-08,0.00119197,1.33929E-05,8432,0.161576483,3.77494E-10,7.24411E-07,1.42041E-08,9259,0.164737018
+Current Cigarette Smoker?,Segmented neutrophils number,smoking behavior,binary,1.04894E-09,1.87844E-05,6.95718E-07,3723,0.436575225,1.4834E-07,0.000284665,2.09312E-06,5819,0.224661069
+Do you now smoke cigarettes...,Segmented neutrophils number,smoking behavior,categorical,8.69995E-09,0.000155799,2.78639E-06,3723,,3.05034E-10,5.85361E-07,1.1988E-08,5819,
+Does anyone smoke in home?,Segmented neutrophils number,smoking family,binary,2.87438E-08,0.000514745,6.59929E-06,8668,0.334601886,4.37624E-10,8.39799E-07,1.55518E-08,9354,0.324612589
+Smoked at least 100 cigarettes in life,Segmented neutrophils number,smoking behavior,binary,2.76837E-07,0.004957592,3.98178E-05,7762,0.220712972,4.34657E-09,8.34107E-06,1.1748E-07,8385,0.231034506
+Retinol (Vitamin A) (ug/dL),TIBC (ug/dL),nutrients,continuous,2.4862E-06,0.044522856,0.000223781,8549,0.176221297,6.64033E-08,0.000127428,1.10807E-06,3406,0.193143107
+taking_birth_control,TIBC (ug/dL),pharmaceutical,binary,2.05195E-09,3.67463E-05,1.11352E-06,1347,0.70038328,1.37321E-10,2.63519E-07,7.12214E-09,1475,0.787485316
+Retinol (Vitamin A) (ug/dL),Transferrin saturation (%),nutrients,continuous,1.50236E-07,0.002690424,2.46828E-05,8548,0.095450945,1.97354E-07,0.000378723,2.64841E-06,3406,0.168939681
+gamma-tocopherol (Vitamin E) (ug/dL),Triglycerides (mg/dL),nutrients,continuous,2.45527E-14,4.39689E-10,1.46563E-10,8038,0.37130249,8.53776E-16,1.6384E-12,8.19198E-13,9193,0.368918484
+Retinol (Vitamin A) (ug/dL),Triglycerides (mg/dL),nutrients,continuous,1.2422E-14,2.22454E-10,1.11227E-10,8567,0.305590027,4.84676E-15,9.30093E-12,2.26959E-12,9220,0.307133451
+Retinyl Palmitate (ug/dL),Triglycerides (mg/dL),nutrients,continuous,1.81198E-09,3.24489E-05,1.01403E-06,7636,0.273414375,6.26971E-09,1.20316E-05,1.60421E-07,9028,0.327330769
+alpha-tocopherol (Vitamin E) (ug/dL),Triglycerides (mg/dL),nutrients,continuous,6.51391E-16,1.16651E-11,1.16651E-11,8536,0.425158576,4.1974E-16,8.05481E-13,8.05481E-13,9220,0.457246918
+Magnesium (mg),Uric acid (mg/dL),food component recall,continuous,2.7813E-06,0.049807473,0.000239858,8272,-0.06170481,1.82429E-05,0.035008043,0.000122406,8906,-0.058975698
+Phosphorus (mg),Uric acid (mg/dL),food component recall,continuous,1.24962E-06,0.02237824,0.000136453,8272,-0.072664775,2.15914E-05,0.041433892,0.000137654,8906,-0.067112123
+Retinol (Vitamin A) (ug/dL),Uric acid (mg/dL),nutrients,continuous,9.57048E-13,1.71388E-08,2.85647E-09,8566,0.207755764,1.10671E-13,2.12378E-10,3.53963E-11,9223,0.229626703
+Riboflavin (Vitamin B2) (mg),Uric acid (mg/dL),food component recall,continuous,4.55782E-08,0.000816215,9.60253E-06,8272,-0.080242699,1.44321E-07,0.000276952,2.0515E-06,8906,-0.082497494
